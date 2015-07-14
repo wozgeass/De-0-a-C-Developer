@@ -5,13 +5,10 @@ h1 {
 	text-align: center;
 }
 
-table {
-    text-align: center;
-}
-
-td, th {
+table, td, th {
 	padding: 15px 5px;
 	display: table-cell;
+	text-align: center;
 	vertical-align: center;
 	border-radius: 2px; 
 }
