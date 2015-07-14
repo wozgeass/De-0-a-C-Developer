@@ -5,6 +5,10 @@ h1 {
 	text-align: center;
 }
 
+h2 {
+    color: #546e7a;
+}
+
 table, td, th {
 	padding: 15px 5px;
 	display: table-cell;
