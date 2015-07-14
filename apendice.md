@@ -9,7 +9,7 @@ Debo admitir que este libro sera un poco largo y en algunos momento bastante ted
 Si llegaras a encontrar algo que no esta bien agradecería que me lo notificaras lo antes posible, con la finalidad de mejorar la calidad del contenido de este libro.
 
 
-# ¿A quien esta dirigido?
+## ¿A quien esta dirigido?
 Para personas que sepas muy poco o nada de programación y que les interese iniciar o aprender con el lenguaje C.
 
 Sin embargo para los que ya saben mucho y quieres mejorar repasar un poco y quizás aprender algo nuevo
