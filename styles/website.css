@@ -4,3 +4,11 @@ h1 {
     background: #546e7a;
 	text-align: center;
 }
+
+table td, th {
+	padding: 15px 5px;
+	display: table-cell;
+	text-align: left;
+	vertical-align: middle;
+	border-radius: 2px; 
+}
