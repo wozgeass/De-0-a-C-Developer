@@ -30,6 +30,8 @@ h3 {
 
 table {
     border-radius: 30px;
+    background: #ffffff;
+    color: #000000;
 }
 td, th {
     font-family: Inconsolata;
@@ -56,5 +58,5 @@ blockquote {
     font-family: Inconsolata;
     border-left: 4px solid #f5f5f5;
     padding: 0 15px;
-    color: #777;
+    color: #ffffff;
 }
