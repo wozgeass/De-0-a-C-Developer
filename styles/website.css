@@ -1,4 +1,12 @@
 /* CSS for website */
+img {
+    width: 24px;
+    height: 24px;
+    border-radius: 32px;
+    vertical-align: middle;
+    margin-right: 4px;
+}
+
 h1 {
     color: #ffffff;
     background: #546e7a;
@@ -22,4 +30,12 @@ table, td, th {
 	text-align: center;
 	vertical-align: center;
 	border-radius: 2px; 
+}
+
+img {
+    width: 24px;
+    height: 24px;
+    border-radius: 32px;
+    vertical-align: middle;
+    margin-right: 4px;
 }
