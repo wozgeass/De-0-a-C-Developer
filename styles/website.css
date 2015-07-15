@@ -28,7 +28,10 @@ h3 {
     color: #546e7a;
 }
 
-table, td, th {
+table {
+    border-radius: 30px;
+}
+td, th {
     font-family: Inconsolata;
     border-collapse: collapse;
     margin:auto;
@@ -37,7 +40,6 @@ table, td, th {
     /*display: table-cell;*/
     text-align: center;
     vertical-align: center;
-    border-radius: 10px; 
 }
 
 img {
