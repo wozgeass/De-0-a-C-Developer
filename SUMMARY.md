@@ -1,6 +1,6 @@
 # Indice
 
-* [Leeme](README.md)
-* [Apendice](apendice.md)
+* [Léeme](README.md)
+* [Apéndice](apendice.md)
 * [Historial de Cambios.](historial_de_cambios.md)
 
