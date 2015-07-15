@@ -1,1 +1,1 @@
-#Informacion de Contacto.
+#Información de Contacto.
