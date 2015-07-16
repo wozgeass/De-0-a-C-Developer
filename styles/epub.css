@@ -1,1 +1,65 @@
 /* CSS for epub */
+@font-face {
+font-family: Inconsolata;
+src: url (Fuentes/Inconsolata.otf) format(‘opentype’);
+}
+
+header {
+    font-family: Inconsolata;
+    background: #f5f5f5;
+    margin-bottom: 30px;
+    padding: 25px 0px;
+}
+
+h1 {
+    font-family: Inconsolata;
+    color: #ffffff;
+    background: #546e7a;
+	text-align: center;
+}
+
+h2 {
+    font-family: Inconsolata;
+    color: #546e7a;
+}
+
+h3 {
+    font-family: Inconsolata;
+    color: #546e7a;
+}
+
+table {
+    border-radius: 30px;
+    background: #ffffff;
+    color: #777;
+}
+
+thead{
+    font-family: Inconsolata;
+    color: #000000;
+}
+
+td, th {
+    font-family: Inconsolata;
+    border-collapse: collapse;
+    margin:auto;
+    border-spacing: 0;
+    padding: 15px 5px;
+    /*display: table-cell;*/
+    text-align: center;
+    vertical-align: center;
+}
+
+img {
+    border-radius: 32px;
+    vertical-align: center;
+    margin-right: 4px;
+    text-align: center;
+}
+
+blockquote {
+    font-family: Inconsolata;
+    border-left: 4px solid #f5f5f5;
+    padding: 0 15px;
+    color: #777;
+}
