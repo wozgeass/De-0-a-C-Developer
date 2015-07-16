@@ -1,4 +1,4 @@
-/* CSS for pdf */
+/* CSS for website */
 @font-face {
 font-family: Inconsolata;
 src: url (Fuentes/Inconsolata.otf) format(‘opentype’);
@@ -32,11 +32,13 @@ table {
     border-radius: 30px;
     background: #ffffff;
     color: #777;
+    text-align: center;
 }
 
 thead{
     font-family: Inconsolata;
     color: #000000;
+    text-align: center;
 }
 
 td, th {
@@ -51,9 +53,11 @@ td, th {
 }
 
 img {
+    width: 40%;
     border-radius: 32px;
     vertical-align: center;
-    margin-right: 4px;
+    display: block;
+    margin: auto;
     text-align: center;
 }
 
