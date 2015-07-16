@@ -32,11 +32,13 @@ table {
     border-radius: 30px;
     background: #ffffff;
     color: #777;
+    text-align: center;
 }
 
 thead{
     font-family: Inconsolata;
     color: #000000;
+    text-align: center;
 }
 
 td, th {
