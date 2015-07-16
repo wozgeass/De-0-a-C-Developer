@@ -1,4 +1,8 @@
 # Iniciando con la Programación
 En esta parte aprenderás varios conceptos básicos, entre ellos:
-¿Qué es programar?
-¿Qué es un algoritmo?
+
+1. ¿Qué es programar?
+1. ¿Qué es un algoritmo?
+
+
+
