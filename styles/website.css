@@ -53,6 +53,7 @@ td, th {
 }
 
 img {
+    width: 40%;
     border-radius: 32px;
     vertical-align: center;
     display: block;
