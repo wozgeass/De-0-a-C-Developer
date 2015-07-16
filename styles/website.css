@@ -33,6 +33,12 @@ table {
     background: #ffffff;
     color: #777;
 }
+
+thead{
+    font-family: Inconsolata;
+    color: #000000;
+}
+
 td, th {
     font-family: Inconsolata;
     border-collapse: collapse;
@@ -45,13 +51,10 @@ td, th {
 }
 
 img {
-    /*
-    width: 25%;
-    height: 25%;
-    */
     border-radius: 32px;
     vertical-align: center;
     margin-right: 4px;
+    text-align: center;
 }
 
 blockquote {
