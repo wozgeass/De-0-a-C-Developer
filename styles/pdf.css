@@ -28,17 +28,20 @@ h3 {
     color: #546e7a;
 }
 
+h4 {
+    font-family: Inconsolata;
+    color: #546e7a;
+}
+
 table {
     border-radius: 30px;
     background: #ffffff;
     color: #777;
-    text-align: center;
 }
 
 thead{
     font-family: Inconsolata;
     color: #000000;
-    text-align: center;
 }
 
 td, th {
@@ -53,11 +56,10 @@ td, th {
 }
 
 img {
-    width: 40%;
+    width: 50%;
     border-radius: 32px;
     vertical-align: center;
-    display: block;
-    margin: auto;
+    margin-right: 4px;
     text-align: center;
 }
 
@@ -66,4 +68,21 @@ blockquote {
     border-left: 4px solid #f5f5f5;
     padding: 0 15px;
     color: #777;
+}
+
+ul {
+    list-style-image: url("Imagenes/ok.png");
+    color: #7C7C7C;
+}
+
+li {
+    color: #7C7C7C;
+}
+
+lo{
+    color: #7C7C7C;
+}
+
+a {
+    color:  #666699;
 }
