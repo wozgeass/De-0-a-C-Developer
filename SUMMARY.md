@@ -4,5 +4,5 @@
 * [Apéndice](apendice.md)
 * [Historial de Cambios.](historial_de_cambios.md)
 * [Información Personal](Contacto.md)
-* [Capitulo 1](Capitulo-1/Readme.md)
+* [Capitulo 1](Capitulo-1/README.md)
 
