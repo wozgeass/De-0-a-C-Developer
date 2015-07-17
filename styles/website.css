@@ -88,3 +88,8 @@ lo{
 a {
     color:  #666699;
 }
+
+p {
+    font-family: Inconsolata;
+    text-align : justify;
+}
