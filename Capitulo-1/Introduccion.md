@@ -1,0 +1,4 @@
+# Introducción.
+Cuando ocupas una computadora siempre te cuestionas que es lo que la hace funcionar, como es que puedes hacer tu trabajo. Para todo esto tener nociones de la programacion en cualquier sector de la vida hoy en dia, ya que siempre podremos encontrarnos con distintos problemas que como tales son muy dificiles de solucionar.
+En muchos de estos casos el aprender un lenguaje de programacion y ocupar el poder de procesamiento de la computadora para la solucion de estos problemas aparentemente imposibles de solucionar.
+Cabe destacar que la complejidad de la programacion dependera del problema que se trate de solucionar, comprender que toda esta idea de poder dar solucion a problemas con mayor rapidez y eficacia se debe en gran parte a los avances y progresos en electronica, matematicas, fisica, etc.
