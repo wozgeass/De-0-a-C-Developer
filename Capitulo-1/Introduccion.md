@@ -17,3 +17,24 @@ Por ejemplo actividades que requieren:
 - Un uso intensivo de la creatividad son relacionadas comúnmente con el Arte.
 - Conocimientos técnicos profundos son los relacionados con la medicina, electrónica y química.
 - Operar continuamente en abstracto son las relacionadas con filosofía, lógica y matemáticas.
+
+A lo largo de la vida seguiremos enfrentando continuamente con todo tipo de problemas. Para ellos nos valdremos de distintas herramientas, que combinadas de maneras innovadoras ampliaremos el espectro de soluciones y vuelven factible el desarrollo de cualquier programa.
+
+Algo muy cierto es que a los que les guste la programacion se podran dedicar a construir programas, manetenerlos o contribuir a diversos Proctos y siempre habra mercado para esas personas.
+
+## Conceptos de la programacion.
+
+Lo que nos lleva a definir formalmente que es un programa:
+
+> Un Programa es una descripcion ejecutable de soluciones a problemas computacionales, es decir, un texto descriptivo que al ser procesado por una computadora da solucion a un problema propuesto. De esta manera, la parte descriptiva de los programas es el texto que el programador le provee a la computadora.
+
+Y como dijimos antes las descripciones dadas por los programas pueden estar escritas con diferentes simbolos y para diferentes propositos.
+
+Cuando el codigo consiste mayormente de palabras y nociones que son mas sencillas para que manejen las personas, con el objetivo de que puedan entender y construir los programas, hablamos de un lenguaje de **Alto Nivel**, y al codigo resultante lo llamaremos **codigo de fuente**.
+
+Cuando el codigo consiste mayormente de numeros y simbolos de dificil compresion para las personas, pero de rapida ejecucion por una maquina, hablamos de un lenguaje de **bajo nivel**, y al codigo resultante lo llamamos **codigo objeto** o **codigo ejecutable**. Por lo que hablariamos de un **alto nivel de abstraccion** cuando nos referiamos a la abstracciones mas cercanas a las ideas del problema a ser solucionado, a la mente de los programadores; y de **bajo nivel de abstraccion** cuando nos refiramos a abstracciones mas cercanas a las ideas relacionadas a la forma de funcionamiento de las computadoras.
+
+Es importante observar que tanto el codigo fuente como el codigo ejecutable estan conformados por simbolos, y en este sentido es correcto llamar a ambos programas. Esto suele crear cierta confusion, pues entonces  la palabra programa se utiliza para dos propositos diferentes:
+
+1. El codigo que escribe el programador.
+2. El codigo que ejecuta la computadra.
