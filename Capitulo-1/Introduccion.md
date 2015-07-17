@@ -5,3 +5,9 @@ Cabe destacar que la complejidad de la programación dependerá del problema que
 En mi opinion la programacion no es algo tan dificil, para muchos de nosotros que no tuvimos ciertas nociones, empezar con algo asi no fue facil, pero no por que sea muy complicado si no mas bien por que tuvimos un mal comienzo o quizas quisimos correr en lugar de iniciar tranquilamente.
 Un poco mas tarde me di cuenta que lo que distingue a muchos programadores de otros es su creatividad, para poder inicar el desarrollo de algo tan simple o tan complejo como su mente visualize.
 Por lo que la programacion es una disciplina que requiere simultaneamente del uso de cierto grado de creatividad, un conjunto de conocimientos tecnicos asociados y la capacidad de operar constantemente con abstracciones (tanto simbolicas como enteramente mentales).
+La creatividad necesaria para programar no se diferencia demasiado de aquella utilizada para producir textos. Sin embargo, lo que hace a la programacion algo especial es que requiere emplear un conjunto de conocimientos tecnicos asociados a la manipulacion de las computadoras. Esto agrega un grado notable de rigurosidad a esta actividad, ya que no podemos programar sin tener en cuenta este aspecto. Por otra parte, al poseer una naturaleza ligada a la resolucion de diferente problemas del mundo real, se requiere de una capacidad de abstraccion que permita operar sin que los conocimientos tecnicos limiten al programador a resolver adecuadamente dichos problemas.
+
+Por ejemplo actividades que requieren:
+- Un uso intensivo de la creatividad son relacionadas comunmente con el Arte.
+- Conocimientos tecnicos profundos son los relacionados con la medicina, electrónica y química.
+- Operar continuamente en abstracto son las relacionadas con filosofía, lógica y matemáticas.
