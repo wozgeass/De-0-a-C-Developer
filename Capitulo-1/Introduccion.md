@@ -20,22 +20,22 @@ Por ejemplo actividades que requieren:
 
 A lo largo de la vida seguiremos enfrentando continuamente con todo tipo de problemas. Para ellos nos valdremos de distintas herramientas, que combinadas de maneras innovadoras ampliaremos el espectro de soluciones y vuelven factible el desarrollo de cualquier programa.
 
-Algo muy cierto es que a los que les guste la programacion se podran dedicar a construir programas, manetenerlos o contribuir a diversos Proctos y siempre habra mercado para esas personas.
+Algo muy cierto es que a los que les guste la programacion se podrán dedicar a construir programas, mantenerlos o contribuir a diversos Proyectos y siempre habrá mercado para esas personas.
 
-## Conceptos de la programacion.
+## Conceptos de la programación.
 
 Lo que nos lleva a definir formalmente que es un programa:
 
-> Un Programa es una descripcion ejecutable de soluciones a problemas computacionales, es decir, un texto descriptivo que al ser procesado por una computadora da solucion a un problema propuesto. De esta manera, la parte descriptiva de los programas es el texto que el programador le provee a la computadora.
+> Un Programa es una descripción ejecutable de soluciones a problemas computacionales, es decir, un texto descriptivo que al ser procesado por una computadora da solución a un problema propuesto. De esta manera, la parte descriptiva de los programas es el texto que el programador le provee a la computadora.
 
-Y como dijimos antes las descripciones dadas por los programas pueden estar escritas con diferentes simbolos y para diferentes propositos.
+Y como dijimos antes las descripciones dadas por los programas pueden estar escritas con diferentes símbolos y para diferentes propósitos.
 
-Cuando el codigo consiste mayormente de palabras y nociones que son mas sencillas para que manejen las personas, con el objetivo de que puedan entender y construir los programas, hablamos de un lenguaje de **Alto Nivel**, y al codigo resultante lo llamaremos **codigo de fuente**.
+Cuando el código consiste mayormente de palabras y nociones que son mas sencillas para que manejen las personas, con el objetivo de que puedan entender y construir los programas, hablamos de un lenguaje de **Alto Nivel**, y al código resultante lo llamaremos **código de fuente**.
 
-Cuando el codigo consiste mayormente de numeros y simbolos de dificil compresion para las personas, pero de rapida ejecucion por una maquina, hablamos de un lenguaje de **bajo nivel**, y al codigo resultante lo llamamos **codigo objeto** o **codigo ejecutable**. Por lo que hablariamos de un **alto nivel de abstraccion** cuando nos referíamos a la abstracciones mas cercanas a las ideas del problema a ser solucionado, a la mente de los programadores; y de **bajo nivel de abstracción** cuando nos refiramos a abstracciones mas cercanas a las ideas relacionadas a la forma de funcionamiento de las computadoras.
+Cuando el código consiste mayormente de números y símbolos de difícil compresión para las personas, pero de rápida ejecución por una maquina, hablamos de un lenguaje de **bajo nivel**, y al cdigo resultante lo llamamos **codigo objeto** o **codigo ejecutable**. Por lo que hablariamos de un **alto nivel de abstraccion** cuando nos referíamos a la abstracciones mas cercanas a las ideas del problema a ser solucionado, a la mente de los programadores; y de **bajo nivel de abstracción** cuando nos refiramos a abstracciones mas cercanas a las ideas relacionadas a la forma de funcionamiento de las computadoras.
 
 Es importante observar que tanto el código fuente como el código ejecutable están conformados por símbolos, y en este sentido es correcto llamar a ambos programas. Esto suele crear cierta confusión, pues entonces  la palabra programa se utiliza para dos propósitos diferentes:
 
-1. El codigo que escribe el programador.
-2. El codigo que ejecuta la computadra.
+1. El código que escribe el programador.
+2. El código que ejecuta la computadora.
 
