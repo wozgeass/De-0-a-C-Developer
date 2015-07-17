@@ -76,10 +76,12 @@ ul {
 }
 
 li {
+    list-style-image: url("Imagenes/ok.png");
     color: #7C7C7C;
 }
 
 lo{
+    list-style-image: url("Imagenes/ok.png");
     color: #7C7C7C;
 }
 
