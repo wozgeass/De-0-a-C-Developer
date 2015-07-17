@@ -32,9 +32,10 @@ Y como dijimos antes las descripciones dadas por los programas pueden estar escr
 
 Cuando el codigo consiste mayormente de palabras y nociones que son mas sencillas para que manejen las personas, con el objetivo de que puedan entender y construir los programas, hablamos de un lenguaje de **Alto Nivel**, y al codigo resultante lo llamaremos **codigo de fuente**.
 
-Cuando el codigo consiste mayormente de numeros y simbolos de dificil compresion para las personas, pero de rapida ejecucion por una maquina, hablamos de un lenguaje de **bajo nivel**, y al codigo resultante lo llamamos **codigo objeto** o **codigo ejecutable**. Por lo que hablariamos de un **alto nivel de abstraccion** cuando nos referiamos a la abstracciones mas cercanas a las ideas del problema a ser solucionado, a la mente de los programadores; y de **bajo nivel de abstraccion** cuando nos refiramos a abstracciones mas cercanas a las ideas relacionadas a la forma de funcionamiento de las computadoras.
+Cuando el codigo consiste mayormente de numeros y simbolos de dificil compresion para las personas, pero de rapida ejecucion por una maquina, hablamos de un lenguaje de **bajo nivel**, y al codigo resultante lo llamamos **codigo objeto** o **codigo ejecutable**. Por lo que hablariamos de un **alto nivel de abstraccion** cuando nos referíamos a la abstracciones mas cercanas a las ideas del problema a ser solucionado, a la mente de los programadores; y de **bajo nivel de abstracción** cuando nos refiramos a abstracciones mas cercanas a las ideas relacionadas a la forma de funcionamiento de las computadoras.
 
-Es importante observar que tanto el codigo fuente como el codigo ejecutable estan conformados por simbolos, y en este sentido es correcto llamar a ambos programas. Esto suele crear cierta confusion, pues entonces  la palabra programa se utiliza para dos propositos diferentes:
+Es importante observar que tanto el código fuente como el código ejecutable están conformados por símbolos, y en este sentido es correcto llamar a ambos programas. Esto suele crear cierta confusión, pues entonces  la palabra programa se utiliza para dos propósitos diferentes:
 
 1. El codigo que escribe el programador.
 2. El codigo que ejecuta la computadra.
+
