@@ -61,6 +61,7 @@ img {
     vertical-align: center;
     margin-right: 4px;
     text-align: center;
+    vertical-align: center;
 }
 
 blockquote {
@@ -71,20 +72,28 @@ blockquote {
 }
 
 ul {
+    font-family: Inconsolata;
     list-style-image: url("Imagenes/ok.png");
     color: #7C7C7C;
 }
 
 li {
+    font-family: Inconsolata;
     list-style-image: url("Imagenes/ok.png");
     color: #7C7C7C;
 }
 
-lo{
+ol{
+    font-family: Inconsolata;
     list-style-image: url("Imagenes/ok.png");
     color: #7C7C7C;
 }
 
 a {
     color:  #666699;
+}
+
+p {
+    font-family: Inconsolata;
+    text-align : justify;
 }
