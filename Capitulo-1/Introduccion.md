@@ -43,4 +43,15 @@ El primer punto sera el punto de estudio en este libro y el segundo es el result
 
 Si bien cuando escribimos el código fuente de un programa utliizamos símbolos como los del lenguaje natural, este texto debe ser capaz de poder ejecutarse por medio de la traducción que realiza nuestro compilador. Siendo esta característica la que hace que los programas se diferencien de otros textos, ya que no cualquier texto es ejecutable por una computadora. Lo hace a un texto ejecutable es mas bien su *sintaxis dura*, que no es mas que un conjunto de reglas estrictas de un determinado lenguaje de programación. con las que se escribe el código fuente.
 
-Lo que todos fuimos adquiriendo 
+> Los programadores tienen que balancear dos mundos bien diferente: un mundo de estructura y un mundo de imaginacion. Creando conceptos abstractos usando lenguajes de programacion muy estructurados.
+[Programmer-Creativity-Boost](http://lifedev.net/2008/07/programmer-creativity-boost/)
+
+## Lenguajes de Programacion.
+Cuando programamos, no podemos utilizar el lenguaje natural con que nos comunicamos cotidianamente. Por el contrario, se emplea un lenguaje que un interprete o un compilador sea capaz de traducir a lenguaje maquina.
+
+> Un lenguajde de programacion es una serie de reglas que establecen que descripciones seran aceptadas y ejecutadas y cuales no tienen sentido para el mecanismo de ejecucion provisto por la computadora.
+Ademas, estas reglas estan diseñadas de manera composicional, para que sea sencillo construir programas de mayor envergadura.
+
+En actualidad existe un gran numero de lenguajes de programacion, de caracteristicas sumamente diferentes y que emplean diferentes enfoques con lso que podemos programar. Cada lenguaje depende de un conjunto de ideas que guian, como su proposito final, la forma en que codificamos la descripcion que otorgaremos a la computadora. Ya que esta forma viene dada por las reglas que definen como se combinan los elementos que el lenguaje de programacion provee al programador.
+
+A su vez, algunos lenguajes de programacion estan pensados para volcar mejor las ideas abstractas que el programador intenta emplear. Esto se conoce como lenguaje de **alto nivel**, ya que intentan, con cierto grado de eficacia, soslayar aquellas tareas que la computadora requiere realizar para que el programa cumpla con sus objetos. Pero tambien existen existen lenguajes de **bajo nivel**, que no hacen definir un mayor o menor medida cada paso que el programa seguira, y por ende, estan ligados a la naturaleza operacional de la computadora. Esta denominacion (**Bajo y Alto**) surge de la idea de imaginar que la computadora es la base fundacional sobre la que los programas ejecutan, y que de las ideas abstractas se van construyendo sobre ellas. Justamente denominados a un lenguaje de mas **alto nivel** de abstraccion cuanto mas lejos de la base se encuentra, o sea, cuanto mas abstracto, menos relacionados con el proceso real de ejecucion.
