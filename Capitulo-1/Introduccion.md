@@ -55,3 +55,32 @@ Ademas, estas reglas están diseñadas de manera composicional, para que sea sen
 En actualidad existe un gran numero de lenguajes de programación, de características sumamente diferentes y que emplean diferentes enfoques con lso que podemos programar. Cada lenguaje depende de un conjunto de ideas que guian, como su propósito final, la forma en que codificamos la descripción que otorgaremos a la computadora. Ya que esta forma viene dada por las reglas que definen como se combinan los elementos que el lenguaje de programación provee al programador.
 
 A su vez, algunos lenguajes de programación están pensados para volcar mejor las ideas abstractas que el programador intenta emplear. Esto se conoce como lenguaje de **alto nivel**, ya que intentan, con cierto grado de eficacia, soslayar aquellas tareas que la computadora requiere realizar para que el programa cumpla con sus objetos. Pero también existen existen lenguajes de **bajo nivel**, que no hacen definir en mayor o menor medida cada paso que el programa seguirá, y por ende, están ligados a la naturaleza operacional de la computadora. Esta denominación (**Bajo y Alto**) surge de la idea de imaginar que la computadora es la base fundacional sobre la que los programas se ejecutan, que de las ideas abstractas se van construyendo sobre ellas. Justamente denominados a un lenguaje de mas **alto nivel** de abstracción cuanto mas lejos de la base se encuentra, o sea, cuanto mas abstracto, menos relacionados con el proceso real de ejecución.
+
+> Un lenguaje de **Alto nivel** expresa mejor las ideas en las que debe pensar el programador, y en alguna forma están mas alejado de la maquina especifica que ejecutara cada programa escrito en dicho lenguaje.
+
+> Un lenguaje de **Bajo Nivel** expresa mejor las ideas propias de los mecanismos de ejecución, por lo que es mas dependiente de la maquina especifica que ejecutara cada programa escrito en dicho lenguaje.
+
+En la gran mayoría de los cursos de programación inicial suelen utilizarse una forma de lenguaje denominado comúnmente pseudocodigo, que se confunde con la de lenguaje de programación. Pero que no veremos por motivos de que seria muchísimo mas extenso este libro.
+
+## Paradigmas de programación.
+Durante la decada de 1960, la proliferacion de lenguajes de programacion siguio creciendo, y de a poco fueron diferenciandose grupos o familias de lenguajes, en torno a la predominancia de ciertas caracteristicas. El foco de desarrollo de software se fue desplazando hacia la educacion, para poder formar a los futuros programadores. La administracion a gran escala siguio teniendo fuerte presencia, pero las aplicaciones orientadas a la defensa fueron disminuyendo.
+
+Estos grupos o familias de lenguajes dieron origen a lo que ahora denominamos paradigma de programacion, que no es otra cosa que un conjunto de ideas y conceptos al respecto del estilo con el que se expresan las soluciones a problemas a traves de un lenguaje de programacion. Cada paradigma privilegia ciertas ideas sobre otras, y  ciertas formas de combinacion por sobre otras, dando lugar a estilos muy diferentes en la forma de programar.
+> Un **paradigma de programacion** es un conjunto de ideas y conceptos vinculados a la forma en que se relacionan las nociones necesarias para solucionar problemas con el uso de un lenguaje de programacion.
+
+Para 1970 ya se podian identificar cuatro grandes paradigmas, que estan vigentes hoy incluso hoy en dia y que son claramente reconocidos. Mucho despues se intento identificar paradigmas adicionales a estos cuatro, pero no hubo cierto consenso sobre si alguno de ellos llegaria o no a poder ser considerado un paradigma y merecer ese nombre.
+
+Los cuatro paradigmas de programacion que surgieron a fines de los 60s y principio de los 70s, y que resultaron de fundamental influencia en la forma de hacer la programacion, son:
+1. El paradigma *Imperativo*.
+2. EL paradigma *Orientado a Objetos*.
+3. El paradigma *Funcional*.
+4. El paradigma *Logico*.
+
+Los dos primeros estan mas orientados a la forma de manejar estados y podrian ser denominados **procedurales**, mientras que los 2 ultimos estan mas orientados a expresar conceptos o nociones independientes del estado y podrian ser denominados **declarativos**. El paradigma que se desarrollo con mayor impetu al principio fue el imperativo, debido a su cercania con los lenguajes de bajo nivel. Los otros tardaron mas tiempo en adoptar un estado de madurez, y no fue hasta mediados de la decada de 80s que tanto el paradigma funcional como el logico y el orientado a objetos empezo a ser foco de atencion masiva.
+
+Dentro del paradigma imperativo se clasifican lenguajes mas vinculados con la secuencia de instruccion y mas cercano al ensamblador. Algunos nombres notables que surgieron en esa epoca dentro del paradigma imperativo, y  aun conocidos hoy en dia son:
+- **Basic**, desarrollado en 1965 por John Kemey y Thomas Kurtz con la intencion de que se convirtieran en un lenguaje de enseñanza.
+- **Pascal**, desarrollado en 1970 con fines didacticos, por  Niklaus Wirth a partir de Algo.
+- **C**, desarrollado por Dennis Ritchie y Ken Thompson en los laboratorios Bell entre 1969 y 1973, con el proposito de proveer una traduccion eficiente a ensamblador y permtir la administracion eficaz de los recursos de computo  de las maquinas con arquitectura Von Neumann a traves de abstracciones cercanas al bajo nivel, que brinda una forma comoda e independiente a la computadora de administrar sus recursos.
+
+Y la fama y el motivo en el que nos centraremos en ese lenguaje se debe a que por la caracteristica anterior en su diseño, fue utilizado en la programacion del sistema operativo **UNIX** y fue ampliamente portado a numerosos sistemas. Es uno de los lenguajes mas difundidos y conocidos de todos los tiempos, y su estudio implica un conocimiento profundo de la forma en que se ejecutan un gran numero de aplicaciones en **Linux**, **Unix** y otros sistemas operativos.
