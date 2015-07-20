@@ -1,6 +1,7 @@
 # Indice
 
 * [Léeme](README.md)
+* [Licencia](distribucion.md)
 * [Apéndice](apendice.md)
 * [Historial de Cambios.](historial_de_cambios.md)
 * [Información Personal](Contacto.md)
