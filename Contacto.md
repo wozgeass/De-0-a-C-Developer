@@ -1,6 +1,6 @@
 #Información de Contacto.
 
-![Leyo](Imagenes/yo.png)
+![yo](Imagenes/yo.png)
 
 Me llamo **Adrián** y debo admitir que una de mis pasiones es compartir lo que he aprendido al pasar de los años.
 Me considero un amante de linux sin embargo también disfruto los aspectos tecnicos de muchas cosas inclusive componentes internos del sistema operativo Windows y MacOSX.
