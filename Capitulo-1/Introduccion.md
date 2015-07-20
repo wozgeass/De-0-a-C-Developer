@@ -39,3 +39,8 @@ Es importante observar que tanto el código fuente como el código ejecutable es
 1. El código que escribe el programador.
 2. El código que ejecuta la computadora.
 
+El primer punto sera el punto de estudio en este libro y el segundo es el resultado de varios procesos de traduccion y compilacion sobre el codigo fuente, que veremos un poco mas adelante en un apartado especial.
+
+Si bien cuando escribimos el codigo fuente de un programa utlizamos símbolos como los del lenguaje natural, este texto debe ser capaz de poder ejecutarse por medio de la traduccion que realiza nuestro compilador. Siendo esta caracteristica la que hace que los programas se diferencien de otros textos., ayq ue no cualquier texto es ejecutable por una computadora. Lo hace a un texto ejecutable es mas bien su *sintaxis dura*, que no es mas que un conjunto de reglas estrictas de un determinado lenguaje de programacion. con las que se escribe el codigo fuente.
+
+Lo que todos fuimos adquiriendo 
