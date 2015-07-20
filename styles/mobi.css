@@ -37,6 +37,8 @@ table {
     border-radius: 30px;
     background: #ffffff;
     color: #777;
+    display:block;
+    margin:0 auto 0 auto;
 }
 
 thead{
