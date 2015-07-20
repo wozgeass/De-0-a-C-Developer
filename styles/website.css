@@ -59,9 +59,10 @@ img {
     width: 50%;
     border-radius: 32px;
     vertical-align: center;
-    margin-right: auto;
     text-align: center;
     vertical-align: center;
+    display:block;
+    margin:0 auto 0 auto;
 }
 
 blockquote {
