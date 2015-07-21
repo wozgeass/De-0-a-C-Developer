@@ -23,7 +23,6 @@ A lo largo de la vida seguiremos enfrentando continuamente con todo tipo de prob
 Algo muy cierto es que a los que les guste la programacion se podrán dedicar a construir programas, mantenerlos o contribuir a diversos Proyectos y siempre habrá mercado para esas personas.
 
 ## Conceptos de la programación.
-
 Lo que nos lleva a definir formalmente que es un programa:
 
 > Un Programa es una descripción ejecutable de soluciones a problemas computacionales, es decir, un texto descriptivo que al ser procesado por una computadora da solución a un problema propuesto. De esta manera, la parte descriptiva de los programas es el texto que el programador le provee a la computadora.
@@ -63,24 +62,24 @@ A su vez, algunos lenguajes de programación están pensados para volcar mejor l
 En la gran mayoría de los cursos de programación inicial suelen utilizarse una forma de lenguaje denominado comúnmente pseudocodigo, que se confunde con la de lenguaje de programación. Pero que no veremos por motivos de que seria muchísimo mas extenso este libro.
 
 ## Paradigmas de programación.
-Durante la decada de 1960, la proliferacion de lenguajes de programacion siguio creciendo, y de a poco fueron diferenciandose grupos o familias de lenguajes, en torno a la predominancia de ciertas caracteristicas. El foco de desarrollo de software se fue desplazando hacia la educacion, para poder formar a los futuros programadores. La administracion a gran escala siguio teniendo fuerte presencia, pero las aplicaciones orientadas a la defensa fueron disminuyendo.
+Durante la década de 1960, la proliferación de lenguajes de programación siguió creciendo, y de a poco fueron diferenciándose grupos o familias de lenguajes, en torno a la predominancia de ciertas características. El foco de desarrollo de software se fue desplazando hacia la educación, para poder formar a los futuros programadores. La administración a gran escala siguió teniendo fuerte presencia, pero las aplicaciones orientadas a la defensa fueron disminuyendo.
 
-Estos grupos o familias de lenguajes dieron origen a lo que ahora denominamos paradigma de programacion, que no es otra cosa que un conjunto de ideas y conceptos al respecto del estilo con el que se expresan las soluciones a problemas a traves de un lenguaje de programacion. Cada paradigma privilegia ciertas ideas sobre otras, y  ciertas formas de combinacion por sobre otras, dando lugar a estilos muy diferentes en la forma de programar.
-> Un **paradigma de programacion** es un conjunto de ideas y conceptos vinculados a la forma en que se relacionan las nociones necesarias para solucionar problemas con el uso de un lenguaje de programacion.
+Estos grupos o familias de lenguajes dieron origen a lo que ahora denominamos paradigma de programación, que no es otra cosa que un conjunto de ideas y conceptos al respecto del estilo con el que se expresan las soluciones a problemas a través de un lenguaje de programación. Cada paradigma privilegia ciertas ideas sobre otras, y  ciertas formas de combinación por sobre otras, dando lugar a estilos muy diferentes en la forma de programar.
+> Un **paradigma de programación** es un conjunto de ideas y conceptos vinculados a la forma en que se relacionan las nociones necesarias para solucionar problemas con el uso de un lenguaje de programación.
 
-Para 1970 ya se podian identificar cuatro grandes paradigmas, que estan vigentes hoy incluso hoy en dia y que son claramente reconocidos. Mucho despues se intento identificar paradigmas adicionales a estos cuatro, pero no hubo cierto consenso sobre si alguno de ellos llegaria o no a poder ser considerado un paradigma y merecer ese nombre.
+Para 1970 ya se podian identificar cuatro grandes paradigmas, que están vigentes hoy incluso hoy en día y que son claramente reconocidos. Mucho después se intento identificar paradigmas adicionales a estos cuatro, pero no hubo cierto consenso sobre si alguno de ellos llegaría o no a poder ser considerado un paradigma y merecer ese nombre.
 
-Los cuatro paradigmas de programacion que surgieron a fines de los 60s y principio de los 70s, y que resultaron de fundamental influencia en la forma de hacer la programacion, son:
+Los cuatro paradigmas de programación que surgieron a fines de los 60s y principio de los 70s, y que resultaron de fundamental influencia en la forma de hacer la programación, son:
 1. El paradigma *Imperativo*.
 2. EL paradigma *Orientado a Objetos*.
 3. El paradigma *Funcional*.
 4. El paradigma *Logico*.
 
-Los dos primeros estan mas orientados a la forma de manejar estados y podrian ser denominados **procedurales**, mientras que los 2 ultimos estan mas orientados a expresar conceptos o nociones independientes del estado y podrian ser denominados **declarativos**. El paradigma que se desarrollo con mayor impetu al principio fue el imperativo, debido a su cercania con los lenguajes de bajo nivel. Los otros tardaron mas tiempo en adoptar un estado de madurez, y no fue hasta mediados de la decada de 80s que tanto el paradigma funcional como el logico y el orientado a objetos empezo a ser foco de atencion masiva.
+Los dos primeros están mas orientados a la forma de manejar estados y podrían ser denominados **procedurales**, mientras que los 2 últimos están mas orientados a expresar conceptos o nociones independientes del estado y podrian ser denominados **declarativos**. El paradigma que se desarrollo con mayor ímpetu al principio fue el imperativo, debido a su cercanía con los lenguajes de bajo nivel. Los otros tardaron mas tiempo en adoptar un estado de madurez, y no fue hasta mediados de la década de 80s que tanto el paradigma funcional como el lógico y el orientado a objetos empezó a ser foco de atención masiva.
 
-Dentro del paradigma imperativo se clasifican lenguajes mas vinculados con la secuencia de instruccion y mas cercano al ensamblador. Algunos nombres notables que surgieron en esa epoca dentro del paradigma imperativo, y  aun conocidos hoy en dia son:
-- **Basic**, desarrollado en 1965 por John Kemey y Thomas Kurtz con la intencion de que se convirtieran en un lenguaje de enseñanza.
-- **Pascal**, desarrollado en 1970 con fines didacticos, por  Niklaus Wirth a partir de Algo.
-- **C**, desarrollado por Dennis Ritchie y Ken Thompson en los laboratorios Bell entre 1969 y 1973, con el proposito de proveer una traduccion eficiente a ensamblador y permtir la administracion eficaz de los recursos de computo  de las maquinas con arquitectura Von Neumann a traves de abstracciones cercanas al bajo nivel, que brinda una forma comoda e independiente a la computadora de administrar sus recursos.
+Dentro del paradigma imperativo se clasifican lenguajes mas vinculados con la secuencia de instrucción y mas cercano al ensamblador. Algunos nombres notables que surgieron en esa época dentro del paradigma imperativo, y  aun conocidos hoy en día son:
+- **Basic**, desarrollado en 1965 por John Kemey y Thomas Kurtz con la intención de que se convirtieran en un lenguaje de enseñanza.
+- **Pascal**, desarrollado en 1970 con fines didácticos, por  Niklaus Wirth a partir de Algo.
+- **C**, desarrollado por Dennis Ritchie y Ken Thompson en los laboratorios Bell entre 1969 y 1973, con el propósito de proveer una traducción eficiente a ensamblador y permitir la administración eficaz de los recursos de computo  de las maquinas con arquitectura Von Neumann a traves de abstracciones cercanas al bajo nivel, que brinda una forma cómoda e independiente a la computadora de administrar sus recursos.
 
-Y la fama y el motivo en el que nos centraremos en ese lenguaje se debe a que por la caracteristica anterior en su diseño, fue utilizado en la programacion del sistema operativo **UNIX** y fue ampliamente portado a numerosos sistemas. Es uno de los lenguajes mas difundidos y conocidos de todos los tiempos, y su estudio implica un conocimiento profundo de la forma en que se ejecutan un gran numero de aplicaciones en **Linux**, **Unix** y otros sistemas operativos.
+Y la fama y el motivo en el que nos centraremos en ese lenguaje se debe a que por la característica anterior en su diseño, fue utilizado en la programación del sistema operativo **UNIX** y fue ampliamente portado a numerosos sistemas. Es uno de los lenguajes mas difundidos y conocidos de todos los tiempos, y su estudio implica un conocimiento profundo de la forma en que se ejecutan un gran numero de aplicaciones en **Linux**, **Unix** y otros sistemas operativos.
