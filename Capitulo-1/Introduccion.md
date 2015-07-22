@@ -96,6 +96,8 @@ Seguramente te preguntaras sobre los lenguajes de programación multi propósito
 
 Finalmente, dentro del paradigma lógico se encuentra distintos lenguajes orientados a la descripción de las relaciones lógicas entre aserciones, que habilitaban las posibilidad de realizar inferencias y ciertas formas de razonamiento automático, lo cual fue la inspiración para desarrollar el área conocida como inteligencia artificial. El lenguaje mas conocido de este paradigma, que tambien surgió a finales de la década de 1970 en Marseille, Francia, en el grupo de Alain Colmerauer, es PROLOG, un lenguaje basado en la afirmación de hechos y reglas de inferencia, que se utilizan mediante consultas en la forma de afirmaciones que deben validadas a partir de los hechos.
 
+Seguramente te veras que ademas de Prolog existe otro lenguaje llamado lisp,  ese lenguaje a pesar de ser lógico también puede ser ocupado con otros tipos de paradigma sin embargo se le conoce mas por ser ocupado con paradigma lógico.
+
 Cada uno de los lenguajes mencionados dejo un sin numero de descendientes y prácticamente todos  los lenguajes modernos se vinculan, de una forma u otra, con algunos de estos.
 
 Otro gran avance de esta época fue el desarrollo de lo que dio en llamarse programación estructurada, que sucedió dentro del paradigma imperativo, y consistió fundamentalmente en aumentar la abstracción de los lenguajes, eliminando primitivas de control desestructurado, o sea, que permitan moverse libremente por el código, sin tener en cuenta su estructura lógica.
