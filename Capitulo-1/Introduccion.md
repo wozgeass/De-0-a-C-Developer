@@ -91,3 +91,11 @@ Dentro del paradigma funcional se clasifican lenguajes orientados a la descripci
 
 Dentro del paradigma orientado a objetos se encuentran lenguajes que agrupan el código alrededor de la metáfora de objeto, y que intenta representar mediante datos encapsulados las entidades del mundo real. Al ya mencionado lenguaje SIMULA, pionero de los lenguajes orientados a objetos, y algunos otros como:
 - **SmallTalk**, creado en el Learning Research Group de Xerox por Alan Kay y Otros, también en los 70s, Pensado con fines educacionales basándose en la teoría constructivista del aprendizaje. Siendo la base del desarrollo posterior en tecnología de objetos, que hoy es uno de los pilares de la construcción moderna de software.
+
+Seguramente te preguntaras sobre los lenguajes de programación multi propósito como java, python, c++, puestos son lenguajes de programación que son considerados con mas de un paradigma por lo que a pesar de tener el soporte de la orientación a objetos, no los incluiré.
+
+Finalmente, dentro del paradigma lógico se encuentra distintos lenguajes orientados a la descripción de las relaciones lógicas entre aserciones, que habilitaban las posibilidad de realizar inferencias y ciertas formas de razonamiento automático, lo cual fue la inspiración para desarrollar el área conocida como inteligencia artificial. El lenguaje mas conocido de este paradigma, que tambien surgió a finales de la década de 1970 en Marseille, Francia, en el grupo de Alain Colmerauer, es PROLOG, un lenguaje basado en la afirmación de hechos y reglas de inferencia, que se utilizan mediante consultas en la forma de afirmaciones que deben validadas a partir de los hechos.
+
+Cada uno de los lenguajes mencionados dejo un sin numero de descendientes y prácticamente todos  los lenguajes modernos se vinculan, de una forma u otra, con algunos de estos.
+
+Otro gran avance de esta época fue el desarrollo de lo que dio en llamarse programación estructurada, que sucedió dentro del paradigma imperativo, y consistió fundamentalmente en aumentar la abstracción de los lenguajes, eliminando primitivas de control desestructurado, o sea, que permitan moverse libremente por el código, sin tener en cuenta su estructura lógica.
