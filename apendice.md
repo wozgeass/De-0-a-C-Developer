@@ -11,7 +11,7 @@ Si llegaras a encontrar algo que no esta bien agradecería que me lo notificaras
 ## ¿A quien esta dirigido?
 Para personas que sepas muy poco o nada de programación y que les interese iniciar a resolver problemas y plantear su solucion en lenguaje C.
 
-Si alguna vez viste algun otro libro podras haberte dado cuenta que estan muy atrasados o en ingles, mi enfoque es presentarte la informacion de la manera mas didacticamente posible, explicandote como resolver tus problemas siendo esta la principal razon.
+Si alguna vez viste algúnn otro libro podrás haberte dado cuenta que están muy atrasados o en ingles, mi enfoque es presentarte la información de la manera mas didácticamente posible, explicándote como resolver tus problemas siendo esta la principal razón.
 
 Considero que esta caracteristica es fundamental, sobre todo desde el punto de vista academico, por que trata de enseñar, de hacer entender, de hacer ver, al lector, como resolver un problema, y luego como programar  esa solucion en C.
 
