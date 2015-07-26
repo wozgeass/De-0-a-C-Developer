@@ -134,3 +134,5 @@ Los algoritmos tienen comúnmente 3 secciones o módulos principales.
 - Impresión de resultados.
 
 ![Módulos principales de un Algoritmo](Imagenes/Algoritmo.svg)
+
+![Partes de Un Algotimo](/Imagenes/Algoritmo.svg)
