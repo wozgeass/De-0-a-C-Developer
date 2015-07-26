@@ -131,6 +131,6 @@ Las características que deben tener los algoritmos son las siguientes:
 Los algoritmos tienen comúnmente 3 secciones o módulos principales.
 - Datos de Entrada.
 - Procesamiento de los datos.
-- Impresion de resultados.
+- Impresión de resultados.
 
 ![Módulos principales de un Algoritmo](Imagenes/Algoritmo.svg)
