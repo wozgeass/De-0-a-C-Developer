@@ -133,4 +133,4 @@ Los algotimos tienen comunmente 3 secciones o modulos principales.
 - Procesamiento de los datos.
 - Impresion de resultados.
 
-![Modulos principales de un Algotimo](Imagenes/Algoritmo.svg)
+![Modulos principales de un Algoritmo](Imagenes/Algoritmo.svg)
