@@ -145,3 +145,4 @@ La tabla y las imagenes que veremos a continuacionse utilizaran, junto con una e
 | Representacion del Símbolo | Explicacion del símbolo |
 |--------|--------|
 |![Inicio o fin](/Imagenes/Circulo.svg)|Se utiliza para marcar el inicio y el fin del diagrama de flujo|
+|![Lectura](/Imagenes/RectanguloLadeado.svg)|Se utiliza para introducir los datos de entrada, expresando lectura|
