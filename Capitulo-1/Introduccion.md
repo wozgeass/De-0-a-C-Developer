@@ -102,35 +102,37 @@ Cada uno de los lenguajes mencionados dejo un sin numero de descendientes y prá
 
 Otro gran avance de esta época fue el desarrollo de lo que dio en llamarse programación estructurada, que sucedió dentro del paradigma imperativo, y consistió fundamentalmente en aumentar la abstracción de los lenguajes, eliminando primitivas de control desestructurado, o sea, que permitan moverse libremente por el código, sin tener en cuenta su estructura lógica.
 
-# Algoritmos.
-Las personas efectuamos cotidianamente series de pasos, procedimientos o acciones que nos permiten alcanzar algun resultado o resolver algun problema. Estas series de pasos, procedimientos o acciones, comenzamos a aplicarlas desde que empieza el dia, cuando, por ejemplo, decidimos bañarnos. Posteriormente, cuando tenemos que ingerir alimentos tambien seguimos una serie de pasos que nos permiten alcanzar un resultado especifico. Y la historia se repite un innumerable numero de veces. En realidad todo el tiempo estamos aplicando algoritmos para resolver problemas.
+## Algoritmo.
+Las personas efectuamos cotidianamente series de pasos, procedimientos o acciones que nos permiten alcanzar algún resultado o resolver algún problema. Estas series de pasos, procedimientos o acciones, comenzamos a aplicarlas desde que empieza el día, cuando, por ejemplo, decidimos bañarnos. Posteriormente, cuando tenemos que ingerir alimentos también seguimos una serie de pasos que nos permiten alcanzar un resultado especifico. Y la historia se repite un innumerable numero de veces. En realidad todo el tiempo estamos aplicando algoritmos para resolver problemas.
 
 > Un algoritmo es un conjunto de paso por paso, procedimientos o acciones que nos permiten alcanzar un resultado o resolver un problema.
 
-Una receta en un libro de cocina seria un excelente ejmplo de algoritmo: la preparacion de un platillo complicado se divide en pasos simples comprensibles para cualquier personas con experiencia en cocina.
+Una receta en un libro de cocina seria un excelente ejemplo de algoritmo: la preparación de un platillo complicado se divide en pasos simples comprensibles para cualquier personas con experiencia en cocina.
 
-Otro buen ejemplo de algoritmo podria ser la coreografia para un ballet clasico: se divide una danza complicada  en una sucesion de pasos y posiciones basicas de ballet.
+Otro buen ejemplo de algoritmo podría ser la coreografía para un ballet clásico: se divide una danza complicada  en una sucesión de pasos y posiciones básicas de ballet.
 
-Muchas veces aplicamos el algoritmo de manera inadvertida, inconsciente o automatica. Esto ocurre generalmente cuando el problema al que nos enfrentamos lo hemos resuelto con anterioridad un gran numero de veces.
+Muchas veces aplicamos el algoritmo de manera inadvertida, inconsciente o automática. Esto ocurre generalmente cuando el problema al que nos enfrentamos lo hemos resuelto con anterioridad un gran numero de veces.
 
-A continuacion, se presenta un algoritmo simple para el proceso cotidiano de cambiar una llanta baja:
+A continuación, se presenta un algoritmo simple para el proceso cotidiano de cambiar una llanta baja:
 1. Aflojar los birlos de la llanta.
 2. Levantar el carro con el gato.
 2. Quitar los birlos de la llanta.
 3. Quitar la llanta.
-4. Poner la rueda de refaccion.
+4. Poner la rueda de refacción.
 5. Poner los birlos de la llanta.
 6. Bajar el carro aflojando el gato.
 7. Apretar los birlos de la llanta.
 
-Las caracteristicas que deben tener los algoritmos son las siguientes:
-1. **Precision:** Los pasos a seguir en el algoritmo se debe precisar claramente.
-2. **Determinismo:** El algotimo, dado un conjunto de datos de entrada identico, siempre debe arrojar los mismo resultados.
-3. **Finitud:** El algotimo, independientemente de la complejidad del mismo, siempre debe tener longitud finita.
+Las características que deben tener los algoritmos son las siguientes:
+1. **Precisión:** Los pasos a seguir en el algoritmo se debe precisar claramente.
+2. **Determinismo:** El algoritmo, dado un conjunto de datos de entrada idéntico, siempre debe arrojar los mismo resultados.
+3. **Finitud:** El algoritmo, independientemente de la complejidad del mismo, siempre debe tener longitud finita.
 
-Los algotimos tienen comunmente 3 secciones o modulos principales.
+Los algoritmos tienen comúnmente 3 secciones o módulos principales.
 - Datos de Entrada.
 - Procesamiento de los datos.
-- Impresion de resultados.
+- Impresión de resultados.
 
-![Modulos principales de un Algoritmo](Imagenes/Algoritmo.svg)
+![Módulos principales de un Algoritmo](Imagenes/Algoritmo.svg)
+
+![Partes de Un Algotimo](/Imagenes/Algoritmo.svg)
