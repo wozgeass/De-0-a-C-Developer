@@ -113,7 +113,7 @@ Otro buen ejemplo de algoritmo podria ser la coreografia para un ballet clasico:
 
 Muchas veces aplicamos el algoritmo de manera inadvertida, inconsciente o automatica. Esto ocurre generalmente cuando el problema al que nos enfrentamos lo hemos resuelto con anterioridad un gran numero de veces.
 
-Acontinuacion, se presenta un algoritmo simple para el proceso cotidiano de cambiar una llanta baja:
+A continuacion, se presenta un algoritmo simple para el proceso cotidiano de cambiar una llanta baja:
 1. Aflojar los birlos de la llanta.
 2. Levantar el carro con el gato.
 2. Quitar los birlos de la llanta.
