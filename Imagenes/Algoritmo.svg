@@ -9,8 +9,8 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="738.84583pt"
-   height="112.83327pt"
-   viewBox="0 0 738.84583 112.83327"
+   height="112.83326pt"
+   viewBox="0 0 738.84583 112.83326"
    version="1.1"
    id="svg2"
    inkscape:version="0.91 r13725"
@@ -44,9 +44,9 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:zoom="0.55159236"
-     inkscape:cx="361.30882"
-     inkscape:cy="59.999994"
+     inkscape:zoom="0.7800694"
+     inkscape:cx="458.6725"
+     inkscape:cy="45.684076"
      inkscape:window-x="-4"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -259,7 +259,7 @@
   </defs>
   <g
      id="surface62728"
-     transform="matrix(1.1753466,0,0,1.1753466,0.50318962,1.7514026e-8)">
+     transform="matrix(1.1753466,0,0,1.1753466,0.50318962,-6.0860022e-6)">
     <rect
        x="0"
        y="0"
