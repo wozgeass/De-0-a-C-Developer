@@ -146,3 +146,5 @@ La tabla y las imagenes que veremos a continuacionse utilizaran, junto con una e
 |--------|--------|
 |![Inicio o fin](/Imagenes/Circulo.svg)|Se utiliza para marcar el inicio y el fin del diagrama de flujo|
 |![Lectura](/Imagenes/RectanguloLadeado.svg)|Se utiliza para introducir los datos de entrada, expresando lectura|
+|![Proceso](/Imagenes/Rectangulo.svg)|Representa un proceso. En su interior se colocan asignaciones, operaciones aritmeticas, cambios de valor de variables|
+|![Decision](/Imagenes/Rombo.svg)|Se utiliza para representar una dicision. En su interior se almacena una condicion, y, dependiendo del resultado se sigue por una de las ramas o caminio alternativos. Este simbolo se utiliza con pequeñas variaciones en las estructuras selectivas if e if-else que veremos en otros capitulos, asi como en las estructuras repetitivas for, while y do-while|
