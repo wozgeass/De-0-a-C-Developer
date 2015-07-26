@@ -134,3 +134,14 @@ Los algoritmos tienen comúnmente 3 secciones o módulos principales.
 - Impresión de resultados.
 
 ![Partes de Un Algotimo](/Imagenes/Algoritmo.svg)
+
+## Diagrama de flujo.
+> Un diagrama de flujo representa la esquematizacion grafica de un algoritmo.
+
+Realmente muestra graficamente los pasos o procesos a seguir para alcanzar la solucion de un problema. La construccion correcta del mismo es muy importante, ya que a partir de este se escribe el programa en un lenguaje de programacion determinado. En este caso utilizaremos el lenguaje, aun que cabe recordar el diagrama de flujo se debe construir de manera independiente al lenguaje de programacion. El diagrama de flujo representa la solucion del problema. El programa representa la implementacion de un lenguaje de programacion.
+
+La tabla y las imagenes que veremos a continuacionse utilizaran, junto con una explicacion de las mismas imagenes, satisfaciendo las recomendaciones de la International Organization for Standarization (**ISO**), y el American National Standards Institute (**ANSI**).
+
+| Representacion del Símbolo | Explicacion del símbolo |
+|--------|--------|
+|![Inicio o fin](/Imagenes/Circulo.svg)|Se utiliza para marcar el inicio y el fin del diagrama de flujo|
