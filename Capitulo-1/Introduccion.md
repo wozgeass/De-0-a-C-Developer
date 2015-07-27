@@ -148,3 +148,15 @@ La tabla y las imagenes que veremos a continuacionse utilizaran, junto con una e
 |![Lectura](/Imagenes/RectanguloLadeado.svg)|Se utiliza para introducir los datos de entrada, expresando lectura|
 |![Proceso](/Imagenes/Rectangulo.svg)|Representa un proceso. En su interior se colocan asignaciones, operaciones aritmeticas, cambios de valor de variables|
 |![Decision](/Imagenes/Rombo.svg)|Se utiliza para representar una dicision. En su interior se almacena una condicion, y, dependiendo del resultado se sigue por una de las ramas o caminio alternativos. Este simbolo se utiliza con pequeñas variaciones en las estructuras selectivas if e if-else que veremos en otros capitulos, asi como en las estructuras repetitivas for, while y do-while|
+|![Decision](/Imagenes/Rombo.svg)|Se utiliza para representar una dicision. En su interior se almacena una condicion, y, dependiendo del resultado se sigue por una de las ramas o caminio alternativos. Este simbolo se utiliza con pequeñas variaciones en las estructuras selectivas if e if-else que veremos en otros capitulos, asi como en las estructuras repetitivas for, while y do-while|
+|![Multiple Decision](/Imagenes/Pulpo.svg)|Se utiliza para representar una decision multiple, switch, que analizaremos tambien mas adelante. En su interior se almacena un selector, y, dependiendo del valor de dicho selector, se sigue por una de las ramas o caminos alternativos|
+|![Escritura](/Imagenes/RectanguloMordido.svg)|Se utiliza para representar la impresion de un resultado, expresando escritura|
+|![Direccion](/Imagenes/Flechas.svg)|Expresan la direccion del flujo del diagrama|
+|![Coneccion](/Imagenes/Circulo.svg)|Expresa coneccion dentro de una misma pagina|
+|![Conector](/Imagenes/Conector.svg)|Representa conexion entre paginas diferentes|
+|![Modulo](/Imagenes/Modulo.svg)|Se utiliza para expresar un modulo de un problema o un subproblema, que hay que resolver antes de continuar con el flujo normal del diagrama|
+
+En la imagen siguiente se presentan los pasos que se deben seguir en la construccion de un diagrama de flujo. El procesamiento de los datos generalmetne relacionado con el proceso de toma de decisiones. Ademas, es muy comun repetir un conjunto de pasos.
+![Etapas en la construccion de un diagrama de flujo](/Imagenes/Diagrama.svg)
+
+### Reglas para la construccion de diagramas de flujo.
