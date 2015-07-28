@@ -170,3 +170,4 @@ Los símbolos presentados, colocados en los lugares adecuados, permiten crear un
 8. No puede llegar mas de una linea a un símbolo determinado.
 
 #Pseudocodigo.
+Las bases de la programación estructurada fueron enunciadas por **Niklaus Wirdth**
