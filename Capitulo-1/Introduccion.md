@@ -22,7 +22,7 @@ A lo largo de la vida seguiremos enfrentando continuamente con todo tipo de prob
 
 Algo muy cierto es que a los que les guste la programacion se podrán dedicar a construir programas, mantenerlos o contribuir a diversos Proyectos y siempre habrá mercado para esas personas.
 
-## Conceptos de la programación.
+# Conceptos de la programación.
 Lo que nos lleva a definir formalmente que es un programa:
 
 > Un Programa es una descripción ejecutable de soluciones a problemas computacionales, es decir, un texto descriptivo que al ser procesado por una computadora da solución a un problema propuesto. De esta manera, la parte descriptiva de los programas es el texto que el programador le provee a la computadora.
@@ -45,7 +45,7 @@ Si bien cuando escribimos el código fuente de un programa utliizamos símbolos 
 > Los programadores tienen que balancear dos mundos bien diferente: un mundo de estructura y un mundo de imaginación. Creando conceptos abstractos usando lenguajes de programación muy estructurados.
 [Programmer-Creativity-Boost](http://lifedev.net/2008/07/programmer-creativity-boost/)
 
-## Lenguajes de Programación.
+# Lenguajes de Programación.
 Cuando programamos, no podemos utilizar el lenguaje natural con que nos comunicamos cotidianamente. Por el contrario, se emplea un lenguaje que un interprete o un compilador sea capaz de traducir a lenguaje maquina.
 
 > Un lenguaje de programación es una serie de reglas que establecen que descripciones serán aceptadas y ejecutadas y cuales no tienen sentido para el mecanismo de ejecución provisto por la computadora.
@@ -61,7 +61,7 @@ A su vez, algunos lenguajes de programación están pensados para volcar mejor l
 
 En la gran mayoría de los cursos de programación inicial suelen utilizarse una forma de lenguaje denominado comúnmente pseudocodigo, que se confunde con la de lenguaje de programación. Pero que no veremos por motivos de que seria muchísimo mas extenso este libro.
 
-## Paradigmas de programación.
+# Paradigmas de programación.
 Durante la década de 1960, la proliferación de lenguajes de programación siguió creciendo, y de a poco fueron diferenciándose grupos o familias de lenguajes, en torno a la predominancia de ciertas características. El foco de desarrollo de software se fue desplazando hacia la educación, para poder formar a los futuros programadores. La administración a gran escala siguió teniendo fuerte presencia, pero las aplicaciones orientadas a la defensa fueron disminuyendo.
 
 Estos grupos o familias de lenguajes dieron origen a lo que ahora denominamos paradigma de programación, que no es otra cosa que un conjunto de ideas y conceptos al respecto del estilo con el que se expresan las soluciones a problemas a través de un lenguaje de programación. Cada paradigma privilegia ciertas ideas sobre otras, y  ciertas formas de combinación por sobre otras, dando lugar a estilos muy diferentes en la forma de programar.
@@ -102,7 +102,7 @@ Cada uno de los lenguajes mencionados dejo un sin numero de descendientes y prá
 
 Otro gran avance de esta época fue el desarrollo de lo que dio en llamarse programación estructurada, que sucedió dentro del paradigma imperativo, y consistió fundamentalmente en aumentar la abstracción de los lenguajes, eliminando primitivas de control desestructurado, o sea, que permitan moverse libremente por el código, sin tener en cuenta su estructura lógica.
 
-## Algoritmo.
+# Algoritmo.
 Las personas efectuamos cotidianamente series de pasos, procedimientos o acciones que nos permiten alcanzar algún resultado o resolver algún problema. Estas series de pasos, procedimientos o acciones, comenzamos a aplicarlas desde que empieza el día, cuando, por ejemplo, decidimos bañarnos. Posteriormente, cuando tenemos que ingerir alimentos también seguimos una serie de pasos que nos permiten alcanzar un resultado especifico. Y la historia se repite un innumerable numero de veces. En realidad todo el tiempo estamos aplicando algoritmos para resolver problemas.
 
 > Un algoritmo es un conjunto de paso por paso, procedimientos o acciones que nos permiten alcanzar un resultado o resolver un problema.
@@ -133,39 +133,40 @@ Los algoritmos tienen comúnmente 3 secciones o módulos principales.
 - Procesamiento de los datos.
 - Impresión de resultados.
 
-![Partes de Un Algotimo](/Imagenes/Algoritmo.svg)
+![Partes de Un Algoritmo](/Imagenes/Algoritmo.svg)
 
-## Diagrama de flujo.
+# Diagrama de flujo.
 > Un diagrama de flujo representa la esquematización gráfica de un algoritmo.
 
-Realmente muestra gráficamente los pasos o procesos a seguir para alcanzar la solucion de un problema. La construcción correcta del mismo es muy importante, ya que a partir de este se escribe el programa en un lenguaje de programación determinado. En este caso utilizaremos el lenguaje, aun que cabe recordar el diagrama de flujo se debe construir de manera independiente al lenguaje de programacion. El diagrama de flujo representa la solucion del problema. El programa representa la implementacion de un lenguaje de programacion.
+Realmente muestra gráficamente los pasos o procesos a seguir para alcanzar la solución de un problema. La construcción correcta del mismo es muy importante, ya que a partir de este se escribe el programa en un lenguaje de programación determinado. En este caso utilizaremos el lenguaje, aun que cabe recordar el diagrama de flujo se debe construir de manera independiente al lenguaje de programación. El diagrama de flujo representa la solución del problema. El programa representa la implementación de un lenguaje de programación.
 
-La tabla y las imagenes que veremos a continuacionse utilizaran, junto con una explicacion de las mismas imagenes, satisfaciendo las recomendaciones de la International Organization for Standarization (**ISO**), y el American National Standards Institute (**ANSI**).
+La tabla y las imágenes que veremos a continuación se utilizaran, junto con una explicación de las mismas imágenes, satisfaciendo las recomendaciones de la International Organization for Standarization (**ISO**), y el American National Standards Institute (**ANSI**).
 
-| Representacion del Símbolo | Explicacion del símbolo |
+| Representación del Símbolo | Explicación del Símbolo |
 |--------|--------|
 |![Inicio o fin](/Imagenes/Circulo.svg)|Se utiliza para marcar el inicio y el fin del diagrama de flujo|
 |![Lectura](/Imagenes/RectanguloLadeado.svg)|Se utiliza para introducir los datos de entrada, expresando lectura|
-|![Proceso](/Imagenes/Rectangulo.svg)|Representa un proceso. En su interior se colocan asignaciones, operaciones aritmeticas, cambios de valor de variables|
-|![Decision](/Imagenes/Rombo.svg)|Se utiliza para representar una dicision. En su interior se almacena una condicion, y, dependiendo del resultado se sigue por una de las ramas o caminio alternativos. Este simbolo se utiliza con pequeñas variaciones en las estructuras selectivas if e if-else que veremos en otros capitulos, asi como en las estructuras repetitivas for, while y do-while|
-|![Decision](/Imagenes/Rombo.svg)|Se utiliza para representar una dicision. En su interior se almacena una condicion, y, dependiendo del resultado se sigue por una de las ramas o caminio alternativos. Este simbolo se utiliza con pequeñas variaciones en las estructuras selectivas if e if-else que veremos en otros capitulos, asi como en las estructuras repetitivas for, while y do-while|
-|![Multiple Decision](/Imagenes/Pulpo.svg)|Se utiliza para representar una decision multiple, switch, que analizaremos tambien mas adelante. En su interior se almacena un selector, y, dependiendo del valor de dicho selector, se sigue por una de las ramas o caminos alternativos|
-|![Escritura](/Imagenes/RectanguloMordido.svg)|Se utiliza para representar la impresion de un resultado, expresando escritura|
-|![Direccion](/Imagenes/Flechas.svg)|Expresan la direccion del flujo del diagrama|
-|![Coneccion](/Imagenes/Circulo.svg)|Expresa coneccion dentro de una misma pagina|
-|![Conector](/Imagenes/Conector.svg)|Representa conexion entre paginas diferentes|
+|![Proceso](/Imagenes/Rectangulo.svg)|Representa un proceso. En su interior se colocan asignaciones, operaciones aritméticas, cambios de valor de variables|
+|![Decision](/Imagenes/Rombo.svg)|Se utiliza para representar una dicisión. En su interior se almacena una condición, y, dependiendo del resultado se sigue por una de las ramas o camino alternativos. Este símbolo se utiliza con pequeñas variaciones en las estructuras selectivas if e if-else que veremos en otros capítulos, así como en las estructuras repetitivas for, while y do-while|
+|![Multiple Decision](/Imagenes/Pulpo.svg)|Se utiliza para representar una decisión múltiple, switch, que analizaremos también mas adelante. En su interior se almacena un selector, y, dependiendo del valor de dicho selector, se sigue por una de las ramas o caminos alternativos|
+|![Escritura](/Imagenes/RectanguloMordido.svg)|Se utiliza para representar la impresión de un resultado, expresando escritura|
+|![Direccion](/Imagenes/Flechas.svg)|Expresan la dirección del flujo del diagrama|
+|![Coneccion](/Imagenes/Circulo.svg)|Expresa conexión dentro de una misma pagina|
+|![Conector](/Imagenes/Conector.svg)|Representa conexión entre paginas diferentes|
 |![Modulo](/Imagenes/Modulo.svg)|Se utiliza para expresar un modulo de un problema o un subproblema, que hay que resolver antes de continuar con el flujo normal del diagrama|
 
-En la imagen siguiente se presentan los pasos que se deben seguir en la construccion de un diagrama de flujo. El procesamiento de los datos generalmetne relacionado con el proceso de toma de decisiones. Ademas, es muy comun repetir un conjunto de pasos.
-![Etapas en la construccion de un diagrama de flujo](/Imagenes/Diagrama.svg)
+En la imagen siguiente se presentan los pasos que se deben seguir en la construcción de un diagrama de flujo. El procesamiento de los datos generalmente relacionado con el proceso de toma de decisiones. Ademas, es muy común repetir un conjunto de pasos.
+![Etapas en la construcción de un diagrama de flujo](/Imagenes/Diagrama.svg)
 
-### Reglas para la construccion de diagramas de flujo.
-Los simbolos presentados, colocados en los lugares adecuados, permiten crear una estructura grafica flexible que ilustra los pasos a seguir para alcanzar un resultado especifico. El diagrama de flujo facilita entonces la escritura del programa en C. Lo que veremos a continuacion se presenta el conjunto de reglas para la construccion de diagramas de flujo:
+## Reglas para la construcción de diagramas de flujo.
+Los símbolos presentados, colocados en los lugares adecuados, permiten crear una estructura gráfica flexible que ilustra los pasos a seguir para alcanzar un resultado especifico. El diagrama de flujo facilita entonces la escritura del programa en C. Lo que veremos a continuación se presenta el conjunto de reglas para la construcción de diagramas de flujo:
 1. Todo diagrama de flujo debe tener un inicio y un fin.
-2. Las lineas utilizadas para indicar la direccion del flujo del diagrama deben ser rectas: ya sea verticales u horizontales.
-3. Todas las lineas utilizadas para indicar la direccion del flujo del diagrama deben estar conectadas. La conexion puede ser un simbolo que exprese lectura, proceso, decision, impresion, conexion o fin del diagrama.
+2. Las lineas utilizadas para indicar la dirección del flujo del diagrama deben ser rectas: ya sea verticales u horizontales.
+3. Todas las lineas utilizadas para indicar la dirección del flujo del diagrama deben estar conectadas. La conexión puede ser un simbolo que exprese lectura, proceso, decisión, impresión, conexión o fin del diagrama.
 4. El diagrama de flujo debe construirse de arriba hacia abajo y de izquierda a derecha.
-5. La notacion utilizada en el diagrama de flujo debe ser independiente del lenguajde de programacion. La solucion presentada se puede escribir posteriormente en diferentes lenguajes de programacion.
+5. La notación utilizada en el diagrama de flujo debe ser independiente del lenguaje de programación. La solución presentada se puede escribir posteriormente en diferentes lenguajes de programación.
 6. Al realizar una tarea compleja, es conveniente poner comentarios que expresen o ayuden a entender lo que hayamos hecho.
-7. Si las construccion del diagrama de flujo requiriera mas de una hoja, debemos utilizar los conectores adecuados y enumerar las paginas correspondientes.
-8. No puede llegar mas de una linea a un simbolo determinado.
+7. Si las construcción del diagrama de flujo requiriera mas de una hoja, debemos utilizar los conectores adecuados y enumerar las paginas correspondientes.
+8. No puede llegar mas de una linea a un símbolo determinado.
+
+#Pseudocodigo.
