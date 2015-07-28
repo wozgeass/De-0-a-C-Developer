@@ -170,4 +170,27 @@ Los símbolos presentados, colocados en los lugares adecuados, permiten crear un
 8. No puede llegar mas de una linea a un símbolo determinado.
 
 #Pseudocodigo.
-Las bases de la programación estructurada fueron enunciadas por **Niklaus Wirdth**
+Las bases de la programación estructurada fueron enunciadas por **Niklaus Wirdth**. Segun este cientifico cualquier problema algoritmico podia resolverse con el uso de estos 3 tipos de instrucciones:
+1. **Secuenciales** Instrucciones que se ejecutan en orden normal. El flujo del programa  ejecuta la instruccion y pasa a ejecutar la siguiente.
+2. **Alternativas** Instrucciones en las que se evalua una condicion y dependiendo si el resultado es verdadero o no, el flujo del programa se dirigira a una instruccion u otra.
+3. **Iterativas** Instrucciones que se repiten continuamente hasta que se cumple una determinada condicion.
+
+El tiempo le ha dado completamente la razon y ha generado un programacion que insta a todo programador a utilizar solo instrucciones de esos 3 tipos. Es lo que se conoce como programacion estructurada.
+
+Pero el propio **Niklaus Wirdth** diseño el lenguaje pascal como el primer lenguaje estructurado. Lo malo es que pascal al ser un lenguaje completo incluye instrucciones excesivamente orientadas al ordenador.
+
+Por lo que en aquella epoca se aconsejo para el diseño de algoritmos estructurados el uso de un lenguaje especial llamado pseudocodigo, que ademas de puede traducir a cualquier idioma y lenguaje de programacion.
+
+EL pseudocodigo ademas permiteel diseño modular de programas y el diseño descendente gracias a esta posiblidad.
+
+Debes enterder ademas de que existe un gran numero de tipos de pseudocodigos, es decir no hay un pseudocodigo 100% estandar. Pero si hay una gran cantidad de detalles aceptados por todos los que escriben pseudocodigos. Aquie te comentare el pseudocodigo aceptado en español. Hay que tomar en cuenta que muchas de las ideas de pseudocodigo se basa en pascal, por lo que la traduccion es casi directa.
+
+> El pseudocodigo son instrucciones escritas en un pseudolenguaje orientado a ser entendido por una personas no por un ordenador. Por ello en pseudocodigo  solo se pueden utilizar ciertas instrucciones.
+
+Entra las instrucciones que se pueden utilizar estan:
+- **De Entrada/Salida**. Para leer o escribir datos desde el programa hacia el usuario.
+- **De Proceso**. Operaciones que realiza el algoritmo (Suma, Resta, Multiplicacion, Division, cambio de valor, etc.)
+- **De Control de Flujo**. Instrucciones alternativas o iterativas (bucles y condiciones).
+- **De Declaraciones**. Creacion de variables y subprogramas.
+- **Llamadas a Subprogramas**.
+- **Comentarios**. Notas que se escriben junto al pseudocodigo para explicar mejor su funcionamiento.
