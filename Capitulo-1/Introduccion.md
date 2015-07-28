@@ -160,3 +160,12 @@ En la imagen siguiente se presentan los pasos que se deben seguir en la construc
 ![Etapas en la construccion de un diagrama de flujo](/Imagenes/Diagrama.svg)
 
 ### Reglas para la construccion de diagramas de flujo.
+Los simbolos presentados, colocados en los lugares adecuados, permiten crear una estructura grafica flexible que ilustra los pasos a seguir para alcanzar un resultado especifico. El diagrama de flujo facilita entonces la escritura del programa en C. Lo que veremos a continuacion se presenta el conjunto de reglas para la construccion de diagramas de flujo:
+1. Todo diagrama de flujo debe tener un inicio y un fin.
+2. Las lineas utilizadas para indicar la direccion del flujo del diagrama deben ser rectas: ya sea verticales u horizontales.
+3. Todas las lineas utilizadas para indicar la direccion del flujo del diagrama deben estar conectadas. La conexion puede ser un simbolo que exprese lectura, proceso, decision, impresion, conexion o fin del diagrama.
+4. El diagrama de flujo debe construirse de arriba hacia abajo y de izquierda a derecha.
+5. La notacion utilizada en el diagrama de flujo debe ser independiente del lenguajde de programacion. La solucion presentada se puede escribir posteriormente en diferentes lenguajes de programacion.
+6. Al realizar una tarea compleja, es conveniente poner comentarios que expresen o ayuden a entender lo que hayamos hecho.
+7. Si las construccion del diagrama de flujo requiriera mas de una hoja, debemos utilizar los conectores adecuados y enumerar las paginas correspondientes.
+8. No puede llegar mas de una linea a un simbolo determinado.
