@@ -162,7 +162,7 @@ En la imagen siguiente se presentan los pasos que se deben seguir en la construc
 Los símbolos presentados, colocados en los lugares adecuados, permiten crear una estructura gráfica flexible que ilustra los pasos a seguir para alcanzar un resultado especifico. El diagrama de flujo facilita entonces la escritura del programa en C. Lo que veremos a continuación se presenta el conjunto de reglas para la construcción de diagramas de flujo:
 1. Todo diagrama de flujo debe tener un inicio y un fin.
 2. Las lineas utilizadas para indicar la dirección del flujo del diagrama deben ser rectas: ya sea verticales u horizontales.
-3. Todas las lineas utilizadas para indicar la dirección del flujo del diagrama deben estar conectadas. La conexión puede ser un simbolo que exprese lectura, proceso, decisión, impresión, conexión o fin del diagrama.
+3. Todas las lineas utilizadas para indicar la dirección del flujo del diagrama deben estar conectadas. La conexión puede ser un símbolo que exprese lectura, proceso, decisión, impresión, conexión o fin del diagrama.
 4. El diagrama de flujo debe construirse de arriba hacia abajo y de izquierda a derecha.
 5. La notación utilizada en el diagrama de flujo debe ser independiente del lenguaje de programación. La solución presentada se puede escribir posteriormente en diferentes lenguajes de programación.
 6. Al realizar una tarea compleja, es conveniente poner comentarios que expresen o ayuden a entender lo que hayamos hecho.
