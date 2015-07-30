@@ -1,8 +1,8 @@
-# Metodologias de la programacion.
-Lo mas comun y con lo que nos topamos cada vez que aprendemos un lenguaje de programacion, es que queremos iniciar inmediatamente a programar sin antes haber pensado un poco sobre el problema a resolver. Y al toparnos con problemas de diseño solemos recurir a rehacer las cosas. Esta parte es para tener cuando menos una buena idea desde donde iniciar y como hacerlo.
-## Introduccion.
-Se entiende por metodologia el conjunto de reglas y pasos estrictos que se siguen para desarrollar una aplicacion. Hay diversas metodologias, independientemente de la metodologia a utilizar suele haber una serie de pasos comunes en todas ellas (*Relacionado con el ciclo de vida de la aplicacion*):
-1. Analisis.
+# Metodologías de la programación.
+Lo mas común y con lo que nos topamos cada vez que aprendemos un lenguaje de programación, es querer iniciar inmediatamente a programar sin antes haber pensado un poco sobre el problema a resolver. Y al toparnos con problemas de diseño solemos recurrir a rehacer las cosas. Esta parte es para tener cuando menos una buena idea desde donde iniciar y como hacerlo.
+## Introducción.
+Se entiende por metodología el conjunto de reglas y pasos estrictos que se siguen para desarrollar una aplicación. Hay diversas metodologías, independientemente de la vayamos a utilizar suele haber una serie de pasos comunes en todas ellas (*Relacionado con el ciclo de vida de la aplicación*):
+1. Análisis.
 2. Diseño.
 3. Codificacion.
 4. Ejecucion.
