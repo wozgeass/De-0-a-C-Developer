@@ -169,6 +169,11 @@ Los símbolos presentados, colocados en los lugares adecuados, permiten crear un
 7. Si las construcción del diagrama de flujo requiriera mas de una hoja, debemos utilizar los conectores adecuados y enumerar las paginas correspondientes.
 8. No puede llegar mas de una linea a un símbolo determinado.
 
+## Deventajas de los diagramas de flujo.
+Aun que me parecen muy interesantes como primer acercamiento a la programacion ya que son faciles de entender. De hecho se utilizan fuera de la programacion como esquema para ilustrar el funcionamiento de algoritmos sencillos.
+
+Sin embargo cuando el algoritmos se complica, el diagrama de flujo se convierte en inintelegible. Ademas los diagramas de flujo no facilitan el aprendizaje de la programacion estructurada.
+
 #Pseudocodigo.
 Las bases de la programación estructurada fueron enunciadas por **Niklaus Wirdth**. Segun este cientifico cualquier problema algoritmico podia resolverse con el uso de estos 3 tipos de instrucciones:
 1. **Secuenciales** Instrucciones que se ejecutan en orden normal. El flujo del programa  ejecuta la instruccion y pasa a ejecutar la siguiente.
