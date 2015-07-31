@@ -13,7 +13,7 @@ Para personas que sepas muy poco o nada de programación y que les interese inic
 
 Si alguna vez viste algúnn otro libro podrás haberte dado cuenta que están muy atrasados o en ingles, mi enfoque es presentarte la información de la manera mas didácticamente posible, explicándote como resolver tus problemas siendo esta la principal razón.
 
-Considero que esta caracteristica es fundamental, sobre todo desde el punto de vista academico, por que trata de enseñar, de hacer entender, de hacer ver, al lector, como resolver un problema, y luego como programar  esa solucion en C.
+Considero que esta característica es fundamental, sobre todo desde el punto de vista académico, por que trata de enseñar, de hacer entender, de hacer ver, al lector, como resolver un problema, y luego como programar  esa solución en C.
 
 Sin embargo para los que ya tienen ciertas nociones y quieran mejorar, repasar un poco o quizás aprender algo nuevo.
 
@@ -26,4 +26,4 @@ Es importante destacar que el nivel de complejidad de los temas aumenta en forma
 ## Recomendaciones.
 Utilizaremos Linux como sistema operativo base para correr todos los código que se hagan, ademas agregare un apartado detallando el compilador GCC que sera el que usaremos para compilar todos los ejemplos.
 
-En general, aprender a usar una herramienta es sencillo, la mayoria de libros se enfocan en ello; pero saber utilizar una herramienta no resuelve la mayoria de veces el problema, saber manejar una maquina de escribir, no te hara un escritor.
+En general, aprender a usar una herramienta es sencillo, la mayoría de libros se enfocan en ello; pero saber utilizar una herramienta no resuelve la mayoría de veces el problema, saber manejar una maquina de escribir, no te hará un escritor.
