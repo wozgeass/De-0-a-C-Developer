@@ -5,17 +5,17 @@ Se entiende por metodología el conjunto de reglas y pasos estrictos que se sigu
 1. Análisis.
 2. Diseño.
 3. Codificacion.
-4. Ejecucion.
+4. Ejecución.
 5. Prueba.
 6. Mantenimiento.
 
-### Analisis.
-Al programar aplicaciones Siempre se debe realizar un cierto analisis.
-> El analisis estudia los requisitos que ha de cumplir la aplicacion.
+### Análisis.
+Al programar aplicaciones siempre se debe realizar un cierto análisis.
+> El análisis estudia los requisitos que ha de cumplir la aplicación.
 
-El resultado de esto es una hoja de especificaciones en la que aparecen los requerimientos de la aplicacion. Esta hoja es redactada por el o la analista o la persona responsable del proceso de creacion de la aplicacion.
+El resultado de esto es una hoja de especificaciones en la que aparecen los requerimientos de la aplicación. Esta hoja es redactada por el o la analista o la persona responsable del proceso de creación de la aplicación.
 
-En la creacion de algoritmos sencillos, el analisis consistiria unicamente en:
+En la creación de algoritmos sencillos, el análisis consistiría unicamente en:
 - **Determinar las entradas**. Es decir, los datos que posee el algoritmo cuando comienza su ejecucion. Esos datos permiten obtener el resultado.
 - **Determinar las salidas**. Es decir, los datos que obtiene el algoritmo como resultado. Lo que que algoritmo devuelve al usuario.
 - **Determinar el proceso**. Se estudia cual es el proceso que hay que realizar.
