@@ -8,5 +8,5 @@ Me considero un amante del *Open Source* sin embargo también disfruto los aspec
 
 Lo que mas ha llamado mi atención en todos estos años es la programación a bajo nivel y el estudio exhaustivo de Linux desde sus tripitas, por lo que he realizado y asistido a multiples conferencias sobre estos temas así como recuentos detallados de los cambios que ha tenido el kernel linux. 
 
-Espero disfrutes aprendas y disfrutes casi tanto como yo haciendolo, así que iniciemos formalmente con lo emocionante. 
+Espero disfrutes aprendas y disfrutes casi tanto como yo haciéndolo, así que iniciemos formalmente con lo emocionante. 
 **XD.**
