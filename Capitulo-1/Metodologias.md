@@ -46,3 +46,6 @@ Se trata de testear la aplicación para verificar que su funcionamiento es el co
 
 ### Mantenimiento.
 En esta fase se crea la documentación del programa (Aun que no lo creas es un paso fundamental para la creación de aplicaciones). Gracias a esa documentación se puede corregir futuros errores o renovar
+
+# Creacion de ALgoritmos.
+Independientemente de la notacion que utilicemos para escribir algoritmos, estos contiene instrucciones a realizar por el ordenador. Logicamente la escritura de estas instrucciones 
