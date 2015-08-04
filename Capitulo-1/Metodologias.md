@@ -48,4 +48,9 @@ Se trata de testear la aplicación para verificar que su funcionamiento es el co
 En esta fase se crea la documentación del programa (Aun que no lo creas es un paso fundamental para la creación de aplicaciones). Gracias a esa documentación se puede corregir futuros errores o renovar
 
 # Creación de Algoritmos.
-Independientemente de la notación que utilicemos para escribir algoritmos, estos contiene instrucciones a realizar por el ordenador. Logicamente la escritura de estas instrucciones 
+Independientemente de la notación que utilicemos para escribir algoritmos, estos contiene instrucciones a realizar por el ordenador. Logicamente la escritura de estas instrucciones  siguen unas normas muy estrictas. Las instrucciones pueden ser de estos tipos:
+- **Primitivas**: Son acciones sobre los datos del programa, estas pueden ser:
+	- Asignación.
+	- Instrucciones de Entrada/Salida.
+- **Declaraciones**: Sirven para dvertir y documentar el uso de variables y subprogramas en el algoritmo.
+- **Control**: Sirven para alterar el orden de ejecución del algoritmo. En general el algoritmo se ejecuta secuencialmente. Gracias a estas instrucciones el flujo del algoritmo depende de ciertas condiciones que nosotros mismos indicamos.
