@@ -2,7 +2,7 @@
 
 ![yo](Imagenes/yo.png)
 
-Me llamo **Adrián** y debo admitir que una de mis pasiones es compartir lo que he aprendido al pasar de los años.
+Mi nombre es **Adrián** estos últimos años de mi vida los he pasado estudiando los aspectos técnicos de varias cosas entre ellas los sistemas de archivos
 
 Me considero un amante del *Open Source* sin embargo también disfruto los aspectos técnicos de muchas cosas inclusive componentes internos del sistema operativo *Windows*, *MacOSX* y *FreeBSD*.
 
