@@ -42,12 +42,11 @@ Pero no comas ansias, se muy bien que debes estar ya con muchas ganas de empezar
 Tras la escritura del código, mediante un compilar o un interprete podemos traducir el código a uno interpretable por la maquina. En este proceso pueden detectarse errores en el código que impiden su transformación. En este caso el software encargado de la traducción avisa de esos errores para que el programador los pueda corregir.
 
 ### Prueba.
-Las pruebas o verificaciones de un programa es el proceso de ejecucion del programa con una amplia variedad de datos de entrada, que determinaran si el programa tiene errores *(bugs)*. Para realizar las verificaciones se debe desarrollar una amplia gama de datos de test, valores normales de entrada, valores extremos de entrada que comprueben los limites del programa y valores de entrada que comprueben aspectos especiales del programa.
+Las pruebas o verificaciones de un programa es el proceso de ejecución del programa con una amplia variedad de datos de entrada, que determinaran si el programa tiene errores *(bugs)*. Para realizar las verificaciones se debe desarrollar una amplia gama de datos de test, valores normales de entrada, valores extremos de entrada que comprueben los limites del programa y valores de entrada que comprueben aspectos especiales del programa.
 
-La *depuracion* es el proceso de encontrar los errores del programa y coregir o eliminar dichos errores.
-
-Cuando se ejecuta un programa, comunmente se suele producir 3 tipos de errores:
-1. **Errores de Compilacion**. Se producen normalmente por uso incorrecto de las reglas del lenguaje de programacion y suelen ser *errores de sintaxis*. Si existe un *error de sintaxis*, la computadora no puede comprender la instruccion, no se obtendra el programa objeto y el compilador imprimira una lista de todos los errores encontrados durante la compilacion.
+La *depuración* es el proceso de encontrar los errores del programa y corregir o eliminar dichos errores.
+Cuando se ejecuta un programa, comúnmente se suele producir 3 tipos de errores:
+1. **Errores de Compilación**. Se producen normalmente por uso incorrecto de las reglas del lenguaje de programación y suelen ser *errores de sintaxis*. Si existe un *error de sintaxis*, la computadora no puede comprender la instruccion, no se obtendra el programa objeto y el compilador imprimira una lista de todos los errores encontrados durante la compilacion.
 2. **Errores de Ejecucion**. Estos se producen por instrucciones que la computadora puede comprender pero no ejecutar. Ejemplos tipicos son: divicion por cero y raices cuadradas de numeros negativos. En estos casos se detiene una ejecucion del programa y se imprime un mensaje de error.
 3. **Errores logicos**. Se producen en la logica del programa y la fuente del error suele ser el diseño del algoritmo. Estos errores son los mas dificiles de detectar, ya que el programa puede funcionar y no producir errores de compilacion ni de ejecucion, y solo puede advertirse el error por la obtencion de resultados incorrectos. En este caso se deve volver a la fase de diseño del algoritmo, modificar el algoritmo, cambiar el programa fuente, compilar y ejecutar una vez mas. De ahi que la importancia de las primeras fases es crucial.
 
