@@ -42,10 +42,49 @@ Pero no comas ansias, se muy bien que debes estar ya con muchas ganas de empezar
 Tras la escritura del código, mediante un compilar o un interprete podemos traducir el código a uno interpretable por la maquina. En este proceso pueden detectarse errores en el código que impiden su transformación. En este caso el software encargado de la traducción avisa de esos errores para que el programador los pueda corregir.
 
 ### Prueba.
-Se trata de testear la aplicación para verificar que su funcionamiento es el correcto. Para ellos se comprueba todas la entradas posibles, comprobando que las salidas son las correspondientes.
+Las pruebas o verificaciones de un programa es el proceso de ejecucion del programa con una amplia variedad de datos de entrada, que determinaran si el programa tiene errores *(bugs)*. Para realizar las verificaciones se debe desarrollar una amplia gama de datos de test, valores normales de entrada, valores extremos de entrada que comprueben los limites del programa y valores de entrada que comprueben aspectos especiales del programa.
+
+La *depuracion* es el proceso de encontrar los errores del programa y coregir o eliminar dichos errores.
+
+Cuando se ejecuta un programa, comunmente se suele producir 3 tipos de errores:
+1. **Errores de Compilacion**. Se producen normalmente por uso incorrecto de las reglas del lenguaje de programacion y suelen ser *errores de sintaxis*. Si existe un *error de sintaxis*, la computadora no puede comprender la instruccion, no se obtendra el programa objeto y el compilador imprimira una lista de todos los errores encontrados durante la compilacion.
+2. **Errores de Ejecucion**. Estos se producen por instrucciones que la computadora puede comprender pero no ejecutar. Ejemplos tipicos son: divicion por cero y raices cuadradas de numeros negativos. En estos casos se detiene una ejecucion del programa y se imprime un mensaje de error.
+3. **Errores logicos**. Se producen en la logica del programa y la fuente del error suele ser el diseño del algoritmo. Estos errores son los mas dificiles de detectar, ya que el programa puede funcionar y no producir errores de compilacion ni de ejecucion, y solo puede advertirse el error por la obtencion de resultados incorrectos. En este caso se deve volver a la fase de diseño del algoritmo, modificar el algoritmo, cambiar el programa fuente, compilar y ejecutar una vez mas. De ahi que la importancia de las primeras fases es crucial.
 
 ### Mantenimiento.
-En esta fase se crea la documentación del programa (Aun que no lo creas es un paso fundamental para la creación de aplicaciones). Gracias a esa documentación se puede corregir futuros errores o renovar
+En esta fase se crea la documentación del programa (Aun que no lo creas es un paso fundamental para la creación de aplicaciones). Gracias a esa documentación se puede corregir futuros errores o renovar mas facilmente ciertas partes.
+
+La documentacion de un problema consta de las descripciones de los pasos a dar en el proceso de resolucion de dicho problema. La importancia de la documentacion debe ser destacada por su decisiva influencia en el producto final. Programas pobremente documentados son dificiles de leer, mas dificiles de depurar y casi imposibles de mantener o modificar.
+
+La documentacion de un programa pude ser *interna* y *externa*. La **documentacion interna** es la contenida en lineas de comentarios. La **documentacion externa** incluye analisis, diagramas de flujo y/o pseudocodigo, manuales de usuario con instrucciones para ejecutar el programa y para interpretar los resultados.
+
+La documentacion es vital cuando se desea corregir posibles errores futuros o bien cambiar el prgrama. Tales cambios se denominan *mantenimiento del programa*. Despues de cada cambio de documentacion debe ser actualizada para facilitar cambios posteriores.
+
+##Programacion Modular.
+La programacion modular es uno de los metodos de diseño mas flexibles y potentes para mejorar la productividad de un programa. En la programacion modular el programa se divide en modulos (partes independientes), cada uno de los cuales ejecutan una unica actividad o tarea y se codifican independientemente de otros modulos. Cada uno de estos modulos se analiza, codifica y pone punto por separado. Cada programa contiene un modulo denominado **programa principal** que controla todo lo que sucede transfiriendo el  el contro a submodulo (tambien llamados *subprogramas*), de modo que ellos puedan ejecutar sus funciones; sin embargo, cada submodulo devuelve el contro al modulo principal cuando haya completado su tarea. Si la tarea asignada a cada submodulo es demasiado compleja, este debera romperse en otro modulos mas pequeños. El proceso sucesivo de subdivicion de modulos continua hasta que cada modulo tenga solamente una tarea especifica que ejecutar.
+
+Esta tarea puede ser *entrada*, *salida*, *manipulacion de datos*, *control de otros modulos* o *alguna combinacion de estos*. Un módulo puede transferir temporalmente (bifurcar) el contro a otro modulo; sin embargo, cada modulo debe eventualmente devolver el control al modulo del cual se recibe originalmente el control.
+
+Los modulos son independientes en el sentido en que ningun modulo puede tener acceso directo a cualquier otro modulo excepto al modulo al que llama y sus propios submodulos. Sin embargo, los resultados producidos por un modulo puden ser utilizados por cualquier otro modulo cuando se transfiera a ellos el control.
+
+Dado que los modulos son independientes, diferentes programadores pueden trabajar simultaneamente en diferentes partes del mismo programa. Esto reducira el tiempo del diseño del algoritmo y posterior codificacion del programa. Ademas, un modulo se puede modificar radicalmente sin afectar a otros modulos, incluso sin alterar su funcion principal.
+
+La descomposicion de un programa en modulos indpendientes mas simples se conoce tambien como metodo de **Divide y venceras**. Por lo que se diseña cada modulo con independencia de los demas, y siguiendo el metodo ascendente o descendente se llegara hasta la descomposicion final del problema en modulos en forma jerarquica.
+
+##Programacion estructurada.
+Segun los terminos de la *programacion modular*, *programacion descendente* y *programacion estructurada* se introdujeron en la segunda mitad de la decada de los sesenta y a menudo se utilizan son sinonimos aunque no significan lo mismo. La programacion modular y descendente ya se ha examinado anteriormente. La programacion estructurada significa escribir un programa de acuerdo a las siguientes reglas:
+- El programa tiene un diseño modular.
+- Los modulos son diseñados de modo descendente.
+- Cada modulo se codifica utilizando las tres estructuras de control basicas: secuencia, seleccion y repeticion.
+
+El termino **programacion estructurada** se refiere a un conjunto de tecnicas que han ido evolucionando desde los primeros trabajo de *Edgar Dijkstra*. Estas tecnicas aumentan considerablemente la productividad del programa reduciendo en elevado grado el tiempo requerido para escribir, verificar, depurar y mantener los programas. Ademas utiliza un numero limitado destructuras de control que minimizan la complejidad de los programas y, por consiguinte, reducen los errores; hace los programas mas faciles de escribir, verificar, leer y mantener. Los programas deben estar dotados de una estructura.
+
+La programacion estructurada es el conjunto de tecnicas que incorporan:
+- Recurso abstractos.
+- Diseño descendente.
+- Estructuras básicas.
+
+### Recurso Abstractos.
 
 # Creación de Algoritmos.
 Independientemente de la notación que utilicemos para escribir algoritmos, estos contiene instrucciones a realizar por el ordenador. Logicamente la escritura de estas instrucciones  siguen unas normas muy estrictas. Las instrucciones pueden ser de estos tipos:
