@@ -76,9 +76,9 @@ Segun los terminos de la *programacion modular*, *programacion descendente* y *p
 - Los modulos son diseñados de modo descendente.
 - Cada modulo se codifica utilizando las tres estructuras de control basicas: secuencia, seleccion y repeticion.
 
-El termino **programacion estructurada** se refiere a un conjunto de tecnicas que han ido evolucionando desde los primeros trabajo de *Edgar Dijkstra*. Estas tecnicas aumentan considerablemente la productividad del programa reduciendo en elevado grado el tiempo requerido para escribir, verificar, depurar y mantener los programas. Ademas utiliza un numero limitado destructuras de control que minimizan la complejidad de los programas y, por consiguinte, reducen los errores; hace los programas mas faciles de escribir, verificar, leer y mantener. Los programas deben estar dotados de una estructura.
+El termino **programacion estructurada** se refiere a un conjunto de tecnicas que han ido evolucionando desde los primeros trabajo de *Edgar Dijkstra*. Estas tecnicas aumentan considerablemente la productividad del programa reduciendo en elevado grado el tiempo requerido para escribir, verificar, depurar y mantener los programas. Ademas utiliza un numero limitado de estructuras de control que minimizan la complejidad de los programas y, por consiguiente, reducen los errores; hace los programas mas fáciles de escribir, verificar, leer y mantener. Los programas deben estar dotados de una estructura.
 
-La programacion estructurada es el conjunto de tecnicas que incorporan:
+La programación estructurada es el conjunto de técnicas que incorporan:
 - Recurso abstractos.
 - Diseño descendente.
 - Estructuras básicas.
@@ -86,9 +86,9 @@ La programacion estructurada es el conjunto de tecnicas que incorporan:
 ### Recurso Abstractos.
 
 # Creación de Algoritmos.
-Independientemente de la notación que utilicemos para escribir algoritmos, estos contiene instrucciones a realizar por el ordenador. Logicamente la escritura de estas instrucciones  siguen unas normas muy estrictas. Las instrucciones pueden ser de estos tipos:
+Independientemente de la notación que utilicemos para escribir algoritmos, estos contiene instrucciones a realizar por el ordenador. Lógicamente la escritura de estas instrucciones  siguen unas normas muy estrictas. Las instrucciones pueden ser de estos tipos:
 - **Primitivas**: Son acciones sobre los datos del programa, estas pueden ser:
 	- Asignación.
 	- Instrucciones de Entrada/Salida.
-- **Declaraciones**: Sirven para dvertir y documentar el uso de variables y subprogramas en el algoritmo.
+- **Declaraciones**: Sirven para advertir y documentar el uso de variables y subprogramas en el algoritmo.
 - **Control**: Sirven para alterar el orden de ejecución del algoritmo. En general el algoritmo se ejecuta secuencialmente. Gracias a estas instrucciones el flujo del algoritmo depende de ciertas condiciones que nosotros mismos indicamos.
