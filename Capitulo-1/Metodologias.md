@@ -84,6 +84,21 @@ La programación estructurada es el conjunto de técnicas que incorporan:
 - Estructuras básicas.
 
 ### Recurso Abstractos.
+La programacion estructurada se auxilia de los recursos abstractos en lugar de los recursos concretos que dispone un determinado lenguaje de programacion.
+Descomponer un programa en terminos de recursos abstractos -Segun Dijkstra- consiste en descomponer una determinada accion compleja en terminos de un numero de acciones mas simples capaces de ejecutarlas o que constituyan instrucciones de computadoras disponibles.
+
+### Diseño descendente (top-down)
+Es el proceso mediante el cual un problema se descompone en una serie de niveles o pasos sucesivos de refinamiento. La metodologia descendiente consiste en efectuar una relacion entre las sucesivas etapas de estructuracion de modo que se relacionen unas con otras mediante entradas y salidas de informacion. Es decir, se descompone el problema en etapas o estructuras jerarquicas, de forma que se puede considerar cada estructura desde dos puntos de vista:
+- ¿Qué hace?
+- ¿Cómo lo hace?
+
+###Estructuras de control.
+Las *estructuras de control* de un lenguaje de programacion son metodos de especificar el orden en que las instrucciones de un algoritmo se ejecutaran. El orden de ejecucion de las sentencias o instrucciones determina el *flujo de control*. Estas estructuras de control son, por consiguiente fundamentales en los lenguajes de programacion y en los diseños de algoritmos, especialmente los pseudocodigos.
+
+Las tres estructuras de control basicos son:
+- **Secuencia.**
+- **Seleccion.**
+- **Repeticion.**
 
 # Creación de Algoritmos.
 Independientemente de la notación que utilicemos para escribir algoritmos, estos contiene instrucciones a realizar por el ordenador. Lógicamente la escritura de estas instrucciones  siguen unas normas muy estrictas. Las instrucciones pueden ser de estos tipos:
