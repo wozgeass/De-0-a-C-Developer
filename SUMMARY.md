@@ -8,4 +8,6 @@
 * [Iniciando con la Programación.](Capitulo-1/README.md)
     * [Introducción](Capitulo-1/Introduccion.md) 
     * [Metodología de la programación](Capitulo-1/Metodologias.md)
+    * [Editores](Capitulo-1/Editores.md)
+* [Introducion al lenguaje C]()
 
