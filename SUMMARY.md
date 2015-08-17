@@ -10,4 +10,5 @@
     * [Metodología de la programación](Capitulo-1/Metodologias.md)
     * [Editores](Capitulo-1/Editores.md)
 * [Introdución al lenguaje C](Capitulo-2/README.md)
+    * [Historia](Capitulo-2/Historia.md)
 
