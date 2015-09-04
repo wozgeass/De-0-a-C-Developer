@@ -3,4 +3,4 @@ Como lo dije casi al principio, el editor que desees usar para desarrollar es ir
 
 ![Vim](/Imagenes/Vimlogo.svg)
 
-Se muy bien que existen varios editores pero este en especial me ha parecido muy sencillo y poderoso, ademas me encuentro trabajando en un conjunto de scripts para 
+Se muy bien que existen varios editores pero este en especial me ha parecido muy sencillo y poderoso, ademas me encuentro trabajando resaltadores de sintaxis para diferentes librerias y colectando plugins para hacer un vim mucho mas robusto y usable para el desarrollo 
