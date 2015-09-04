@@ -9,4 +9,6 @@ Como ya dijimos Vim  o ("VI IMproved") es un clon de VI, es decir, un programa s
 
 Vim no solo trabaja en modo de texto en cualquier terminal, sino que también tiene un interfaz gráfica para el usuario, es decir, menús y soporte para el ratón.
 
-![Vim](/Imagenes/GVim.svg)
+![Vim](/Imagenes/GVim.png)
+
+
