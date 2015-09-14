@@ -24,15 +24,14 @@ Linux:
 - Pero si eres usuario de sistemas BSD debo informarte que también lo vas a poder usar:
 ![FreeBSD](/Imagenes/logos/Freebsd.svg)
 
-El copyright está en las manos del autor principal y mantenedor, Bram
-Moolenaar <bram@vim.org>.  Vim es un "**programa-de-caridad**" "**charity-ware**"), es decir que se sugiere que hagas una donación a los huérfanos en Uganda.
+El copyright está en las manos del autor principal y mantenedor, Bram Moolenaar <bram@vim.org>.  Vim es un "**programa-de-caridad**" "**charity-ware**"), es decir que se sugiere que hagas una donación a los huérfanos en Uganda.
 
-Y si te lo preguntabas vim a pesar de entrar en **charity-ware** es software *Open Source* y todos los que quieran apoyar son bienvenidos para contribuir en algo al proyecto.
+Y si te lo preguntabas vim apesar de entrar en **charity-ware** es software *Open Source* y todos los que quieran apoyar son bienvenidos para contribuir en algo al proyecto.
 
 ## Caracteristicas
 Es un editor para un Principiante - Amigable para el usuario:
-Es mucho más fácil para los principiantes que VI debido a la
-disponibilidad de ayuda en línea bien extensa, comandos para "deshacer" (undo) y "rehacer" (redo) (¡no te preocupes mucho con los errores - simplemente usa undo y redo!),  soporte para el ratón y tambien iconos y menús configurables (GUI).
+Es mucho más fácil para los principiantes que VI debido a la disponibilidad de ayuda en línea bien extensa, comandos para "deshacer" (undo) y "rehacer" (redo) (¡no te preocupes mucho con los errores - simplemente usa undo y redo!),  soporte para el ratón y tambien iconos y menús configurables (GUI).
+
 
 
 
