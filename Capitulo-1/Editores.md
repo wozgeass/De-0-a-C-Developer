@@ -15,13 +15,24 @@ Está disponible para muchas plataformas y tiene muchas características añadid
 
 Esta disponible en un gran numero de sistemas operativos entre y no podía faltar para los 3 sistemas mas importantes:
 Linux:
-![Vim](/Imagenes/logos/Linux.svg)
-MacOSX:
-![Vim](/Imagenes/logos/Apple.svg)
-Windows:
-![Vim](/Imagenes/logos/Windows.svg)
-Pero si eres usuario de sistemas BSD debo informarte que también lo vas a poder usar:
-![Vim](/Imagenes/logos/Freebsd.svg)
+- Linux:
+![Linux](/Imagenes/logos/Linux.svg)
+- OSX:
+![OSX](/Imagenes/logos/Apple.svg)
+- Windows:
+![Windows](/Imagenes/logos/Windows.svg)
+- Pero si eres usuario de sistemas BSD debo informarte que también lo vas a poder usar:
+![FreeBSD](/Imagenes/logos/Freebsd.svg)
+
+El copyright está en las manos del autor principal y mantenedor, Bram
+Moolenaar <bram@vim.org>.  Vim es un "**programa-de-caridad**" "**charity-ware**"), es decir que se sugiere que hagas una donación a los huérfanos en Uganda.
+
+Y si te lo preguntabas vim a pesar de entrar en **charity-ware** es software *Open Source* y todos los que quieran apoyar son bienvenidos para contribuir en algo al proyecto.
+
+## Caracteristicas
+Es un editor para un Principiante - Amigable para el usuario:
+Es mucho más fácil para los principiantes que VI debido a la
+disponibilidad de ayuda en línea bien extensa, comandos para "deshacer" (undo) y "rehacer" (redo) (¡no te preocupes mucho con los errores - simplemente usa undo y redo!),  soporte para el ratón y tambien iconos y menús configurables (GUI).
 
 
 
