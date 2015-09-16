@@ -39,6 +39,22 @@ Soporta la edición de derecha-a-izquierda (ej. con el *Árabe*, *Farsi*, *Hebre
 
 Vamos a poder seleccionar el texto "**visualmente**" antes de que "*operen*" en él, ej. copiar, remover, substituir, mover la posición a la izquierda o derecha, cambiar la capitalización de las letras o el formato del texto incluso preservando la indentación del mismo.  También la selección y operaciones en bloques de texto rectangulares.
 
+Vim tiene comandos que completan su entrada de información sea con comandos, nombres de fichero, o palabras.
+Del mismo modo tiene "*autocommands*" para la ejecución automática de los comandos (ej. decompresión automática de ficheros comprimidos).
+Vim reconoce automáticamente el tipo de ficheros (**DOS**, **mac**, **Unix**) y también le permite el guardar el archivo en cualquier otro formato ¡no hay necesidad de usar unix2dos para usar en Windows nunca más!
 
+Vim tiene una "*historia*" para los comandos y las búsquedas, así que usted puede llamar nuevamente los comandos o el patrón de búsqueda anteriores para editarlos.
+
+Vim permite "*grabar*" una serie de acciones de edición para poder ejecutarlas nuevamente cuando se realizan tareas repetitivas.
+
+Vim tiene límites de memoria mucho más grandes para la longitud de línea y el tamaño del almacenador intermediario (buffer) en comparación con VI normal.
+
+Vim permite corregir de múltiples almacenadores intermediarios y puedes partir la pantalla en muchas *sub-ventanas* (**horizontal** o **verticalmente**), así que vas a poder ver muchos ficheros o muchas partes de algunos ficheros.
+
+Vim tiene un lenguaje de escritura incorporado para poder extenderlo facilemente.
+
+Vim permite el usar desplazamientos relativos para los comandos de búsqueda, así que se puede poner el cursor inmediatamente en el lugar *después* del texto encontrado.
+
+Vim permite para salvar la información de una sesión de edición en un fichero ("*viminfo*") lo cual permite que sean usados en una subsecuente sesión de edición, ej.  la lista de almacenadores intermediarios, de las marcas de fichero, de los registros, comandos y de la historia de las búsquedas.
 
 
