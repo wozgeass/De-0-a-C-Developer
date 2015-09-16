@@ -30,13 +30,14 @@ Y si te lo preguntabas vim a pesar de entrar en **charity-ware** es software *Op
 
 ## Caracteristicas
 Es un editor para un Principiante - Amigable para el usuario:
+
 Es mucho más fácil para los principiantes que VI debido a la disponibilidad de ayuda en línea bien extensa, comandos para "deshacer" (undo) y "rehacer" (redo) (¡no te preocupes mucho con los errores - simplemente usa undo y redo!),  soporte para el ratón y tambien iconos y menús configurables (GUI).
 
 Soporta la edición de derecha-a-izquierda (ej. con el *Árabe*, *Farsi*, *Hebreo*), y textos en *multi-octeto*, es decir, lenguajes con caracteres gráficos representados por más de un "*octeto*", por ejemplo *Chino*, *Japonés*, *Coreano (Hangul)*, técnicamente hablando, Vim soporta texto escrito en **UTF-8** y **Unicode**.
 
 ![Codificación](/Imagenes/imagenes.png)
 
-Con Vim vamos a poder seleccionar el texto "**visualmente**" antes de que usted "opere" en él, ej. copiar, remover, substituir, mover la posición a la izquierda o derecha, cambiar la capitalizació de las letras o el formato del texto incluso preservando la indentació del mismo.  Vim permite también la selección y operaciones en bloques de texto rectangulares.
+Vamos a poder seleccionar el texto "**visualmente**" antes de que usted "opere" en él, ej. copiar, remover, substituir, mover la posición a la izquierda o derecha, cambiar la capitalizació de las letras o el formato del texto incluso preservando la indentación del mismo.  Vim permite también la selección y operaciones en bloques de texto rectangulares.
 
 
 
