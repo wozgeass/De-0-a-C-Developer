@@ -37,7 +37,7 @@ Soporta la edición de derecha-a-izquierda (ej. con el *Árabe*, *Farsi*, *Hebre
 
 ![Codificación](/Imagenes/Codificacion.png)
 
-Vamos a poder seleccionar el texto "**visualmente**" antes de que "opere" en él, ej. copiar, remover, substituir, mover la posición a la izquierda o derecha, cambiar la capitalización de las letras o el formato del texto incluso preservando la indentación del mismo.  También la selección y operaciones en bloques de texto rectangulares.
+Vamos a poder seleccionar el texto "**visualmente**" antes de que "*operen*" en él, ej. copiar, remover, substituir, mover la posición a la izquierda o derecha, cambiar la capitalización de las letras o el formato del texto incluso preservando la indentación del mismo.  También la selección y operaciones en bloques de texto rectangulares.
 
 
 
