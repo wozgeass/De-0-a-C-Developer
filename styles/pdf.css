@@ -1,4 +1,4 @@
-/* CSS for pdf */
+/* CSS for website */
 @font-face {
 font-family: Inconsolata;
 src: url (Fuentes/Inconsolata.otf) format(‘opentype’);
@@ -39,7 +39,6 @@ table {
     display:block;
     margin:0 auto 0 auto;
     text-align: center;
-    vertical-align: center;
 }
 
 thead{
@@ -105,4 +104,12 @@ p {
 
 i {
     color: #7C7C7C;
+}
+
+pre{
+    background-color: #000000;
+}
+
+code{
+    background-color: #000000;
 }
