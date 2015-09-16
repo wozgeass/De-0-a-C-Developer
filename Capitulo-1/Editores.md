@@ -35,7 +35,7 @@ Es mucho más fácil para los principiantes que VI debido a la disponibilidad de
 
 Soporta la edición de derecha-a-izquierda (ej. con el *Árabe*, *Farsi*, *Hebreo*), y textos en *multi-octeto*, es decir, lenguajes con caracteres gráficos representados por más de un "*octeto*", por ejemplo *Chino*, *Japonés*, *Coreano (Hangul)*, técnicamente hablando, Vim soporta texto escrito en **UTF-8** y **Unicode**.
 
-![Codificación](/Imagenes/imagenes.png)
+![Codificación](/Imagenes/Codificacion.png)
 
 Vamos a poder seleccionar el texto "**visualmente**" antes de que usted "opere" en él, ej. copiar, remover, substituir, mover la posición a la izquierda o derecha, cambiar la capitalizació de las letras o el formato del texto incluso preservando la indentación del mismo.  Vim permite también la selección y operaciones en bloques de texto rectangulares.
 
