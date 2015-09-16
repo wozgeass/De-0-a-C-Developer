@@ -58,4 +58,15 @@ Vim permite el usar desplazamientos relativos para los comandos de búsqueda, as
 
 Vim permite para salvar la información de una sesión de edición en un fichero ("*viminfo*") lo cual permite que sean usados en una subsecuente sesión de edición, ej.  la lista de almacenadores intermediarios, de las marcas de fichero, de los registros, comandos y de la historia de las búsquedas.
 
+Vim puede expandir las tabulaciones dentro del texto usando caracteres de espacio (**expandtab**,**retab* **).
 
+Vim permite el encontrar texto en ficheros usando un índice con las "*etiquetas*" (**tags* ***) junto con muchos otros comandos que manipulan la lista de de etiquetas.
+
+Vim muestra el texto en color según su "*lenguaje (de programación)*".  Tu mismo puedes definir el "**lenguaje**" ("**sintaxis**") de los ficheros.
+Viene con muchisimos ficheros de sintaxis para la colorisación del texto
+en los lenguajes de programación comunes (*Ada*, *C*, *C++*, *Eiffel*, *FORTRAN*, *Haskell*, *Java*, *lisp*, *Modula*, *PASCAL*, *prólogo*, *Python*, *scheme*, *SQL*, *Verilog*, *VisualBasic*), programas de matemáticas (*arce*, *Matlab*, *Mathematica*, *SAS*), texto que use marcado específico (*DocBook*, *HTML*, *LaTeX*, *PostScript*, *SGML-LinuxDoc*, *TeX*, *WML*, *XML*, *Markdown*), retornos de programas (*diff*), ficheros de la configuració de programas (*Apache*, *autoconfig*, *BibTeX*, *CSS*, *CVS*, *IDL*, *LILO*, *mail*, *samba*), lenguajes de escritura del procesador de comandos (*shell*) y  de
+configuración (shells: *sh*, *csh*, *ksh*, *zsh*), lenguajes de procesamiento de texto (*awk*, *Perl*, *sed*, *yacc*), ficheros de sistema (*printcap*, *Xdefaults*) y por supuesto para Vim y sus textos de ayuda.
+
+Ademas de que tiene otras extenciones como snipets, o verificadores de sintaxis que lo hacen mucho mas pontente y mas cercano a un **IDE**, de ahi que les este dando una pequeña entrada sobre lo extraordinario que me resulta este editor.
+
+En este momento me encuentro trabajando en algunas extenciones precisamente con este editor para hacerlo mas robusto y poder usarlo mas como un IDE para los lenguajes **C**, **C++**, **LaTeX**, **Python**, **Bash** entre otros. Al mismo tiempo estoy recolectando algunos scripts que me resalten sintaxis en varias librerias entre ellas esta Gtk, Gdk, MPI, OpenGL, ANSI-C, me encuentro trabajando en NCURSES y la de Linux Kernel-API.
