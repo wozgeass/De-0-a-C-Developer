@@ -1,4 +1,4 @@
-/* CSS for Epub */
+/* CSS for pdf */
 @font-face {
 font-family: Inconsolata;
 src: url (Fuentes/Inconsolata.otf) format(‘opentype’);
@@ -77,21 +77,18 @@ blockquote {
 
 ul {
     font-family: Inconsolata;
-    /*list-style-image: url("../Imagenes/ok.png");*/
     color: #7C7C7C;
     text-align : justify;
 }
 
 li {
     font-family: Inconsolata;
-    /*list-style-image: url("../Imagenes/ok.png");*/
     color: #7C7C7C;
     text-align : justify;
 }
 
 ol{
     font-family: Inconsolata;
-    /*list-style-image: url("../Imagenes/ok.png");*/
     color: #7C7C7C;
     text-align : justify;
 }
