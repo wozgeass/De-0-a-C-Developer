@@ -40,6 +40,7 @@ Soporta la edición de derecha-a-izquierda (ej. con el *Árabe*, *Farsi*, *Hebre
 Vamos a poder seleccionar el texto "**visualmente**" antes de que "*operen*" en él, ej. copiar, remover, substituir, mover la posición a la izquierda o derecha, cambiar la capitalización de las letras o el formato del texto incluso preservando la indentación del mismo.  También la selección y operaciones en bloques de texto rectangulares.
 
 Vim tiene comandos que completan su entrada de información sea con comandos, nombres de fichero, o palabras.
+
 Del mismo modo tiene "*autocommands*" para la ejecución automática de los comandos (ej. decompresión automática de ficheros comprimidos).
 Vim reconoce automáticamente el tipo de ficheros (**DOS**, **mac**, **Unix**) y también le permite el guardar el archivo en cualquier otro formato ¡no hay necesidad de usar unix2dos para usar en Windows nunca más!
 
