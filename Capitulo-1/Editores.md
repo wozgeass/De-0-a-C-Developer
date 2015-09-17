@@ -79,4 +79,5 @@ Es importante recordar que está parte es pensada para enseñar con la práctica
 
 ### Moviendo el cursor.
 Para mover el cursor, pulse las teclas h,j,k,l de la forma que se indica.
-![Teclas Movimiento](/Imagenes/VimTutor/Moverse.svg)
+
+![Teclas de Movimiento](/Imagenes/VimTutorial/Moverse.svg)
