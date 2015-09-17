@@ -77,9 +77,18 @@ Ya vimos por que vim es un editor muy potente y que ademas dispone de muchos man
 
 Es importante recordar que está parte es pensada para enseñar con la práctica. Esto significa que es necesario ejecutar los mandatos para aprenderlos adecuadamente. Si únicamente se lee el texto, se olvidarán los mandatos.
 
-Para poder iniciar a usar el editor primero deberemos descargarlo
+Para poder iniciar a usar el editor primero deberemos descargarlo para esto les dejare los siguiente enlaces:
 
-De manera basica vim tiene varios modos
+1. [Pagina Principal](http://www.vim.org/)
+2. [Preguntas Frecuentes](http://vimdoc.sf.net/)
+3. [Código](https://github.com/vim/vim)
+
+Como siempre mi recomiendacion sera la siguiente:
+
+- Compilar unicamente si cumples con las dependencias de construcción y sabes lo que haces.
+- De otro modo te recomiendo instalar vim con el gestor de paquetes de tu distribucion:
+
+De manera básica vim tiene varios modos
 ### Moviendo el cursor.
 Para mover el cursor, pulse las teclas h,j,k,l de la forma que se indica.
 
