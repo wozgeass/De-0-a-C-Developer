@@ -77,7 +77,12 @@ Ya vimos por que vim es un editor muy potente y que ademas dispone de muchos man
 
 Es importante recordar que está parte es pensada para enseñar con la práctica. Esto significa que es necesario ejecutar los mandatos para aprenderlos adecuadamente. Si únicamente se lee el texto, se olvidarán los mandatos.
 
+Para poder iniciar a usar el editor primero deberemos descargarlo
+
+De manera basica vim tiene varios modos
 ### Moviendo el cursor.
 Para mover el cursor, pulse las teclas h,j,k,l de la forma que se indica.
 
 ![Teclas de Movimiento](/Imagenes/VimTutorial/Moverse.svg)
+
+Como  puede verse en la imagen la tecla H está a la izquierda y mueve el cursor a la izquierda, la tecla L está a la derecha y mueve el cursor a la derecha, la tecla J parece una flecha que apunta hacia abajo y mueve el cursor abajo por ultimo la tecla K parece una flecha que apunta hacia arriba y mueve el cursor arriba.
