@@ -3,7 +3,7 @@ Como lo dije casi al principio, el editor que desees usar para desarrollar es ir
 
 ![Vim](/Imagenes/logos/Vimlogo.svg)
 
-Se muy bien que existen varios editores pero este en especial me ha parecido muy sencillo y poderoso, ademas me encuentro trabajando en algo que contare mas adelante y te facilitara en gran medida la vida si es que quieres programar en C.
+Se muy bien que existen varios editores pero este en especial me ha parecido muy sencillo y poderoso, ademas me encuentro trabajando en algo que contare mas adelante y te facilitara en gran medida la vida si es que quieres programar usando este editor.
 
 # Vim 
 Como ya dijimos Vim  o ("VI IMproved") es un clon de VI, es decir, un programa similar al editor de textos "VI".
@@ -101,8 +101,8 @@ Una vez realizado todo esto seguiremos viendo como funciona vim.
 
 De manera básica vim tiene varios modos...
 ### Moviendo el cursor.
-Para mover el cursor, pulse las teclas h,j,k,l de la forma que se indica.
+Para mover el cursor, pulse las teclas H,J,K,L de la forma que se indica.
 
 ![Teclas de Movimiento](/Imagenes/VimTutorial/Moverse.svg)
 
-Como  puede verse en la imagen la tecla H está a la izquierda y mueve el cursor a la izquierda, la tecla L está a la derecha y mueve el cursor a la derecha, la tecla J parece una flecha que apunta hacia abajo y mueve el cursor abajo por ultimo la tecla K parece una flecha que apunta hacia arriba y mueve el cursor arriba.
+Como  puede verse en la imagen la tecla **H** está a la izquierda y mueve el cursor a la izquierda, la tecla **L** está a la derecha y mueve el cursor a la derecha, la tecla **J** parece una flecha que apunta hacia abajo y mueve el cursor abajo por ultimo la tecla **K** parece una flecha que apunta hacia arriba y mueve el cursor arriba.
