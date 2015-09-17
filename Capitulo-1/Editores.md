@@ -83,10 +83,19 @@ Para poder iniciar a usar el editor primero deberemos descargarlo para esto les 
 2. [Preguntas Frecuentes](http://vimdoc.sf.net/)
 3. [Código](https://github.com/vim/vim)
 
-Como siempre mi recomiendacion sera la siguiente:
+Como siempre mi recomiendación sera la siguiente:
 
 - Compilar unicamente si cumples con las dependencias de construcción y sabes lo que haces.
 - De otro modo te recomiendo instalar vim con el gestor de paquetes de tu distribucion:
+
+    Para fedora deberás usar el siguiente comando:
+    >dnf install vim
+    
+    Para Ubuntu o Debian deberás usar el siguiente comando:
+    >apt install vim ó apt-get install vim
+    
+    Para ArchLinux deberás usar el comando siguiente:
+    >pacman -S vim
 
 De manera básica vim tiene varios modos
 ### Moviendo el cursor.
