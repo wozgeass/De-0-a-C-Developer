@@ -25,7 +25,7 @@ Linux:
 - Pero si eres usuario de sistemas BSD debo informarte que también lo vas a poder usar:
 ![FreeBSD](/Imagenes/logos/Freebsd.svg)
 
-El copyright está en las manos del autor principal y mantenedor, Bram Moolenaar <bram@vim.org>.  Vim es un "**programa-de-caridad**" "**charity-ware**"), es decir que se sugiere que hagas una donación a los huérfanos en Uganda.
+El copyright está en las manos del autor principal y mantenedor, **Bram Moolenaar** <bram@vim.org>.  Vim es un "**programa-de-caridad**" "**charity-ware**"), es decir que se sugiere que hagas una donación a los huérfanos en Uganda.
 
 Y si te lo preguntabas vim a pesar de entrar en **charity-ware** es software *Open Source* y todos los que quieran apoyar son bienvenidos para contribuir en algo al proyecto.
 
@@ -86,7 +86,7 @@ Para poder iniciar a usar el editor primero deberemos descargarlo para esto les 
 Como siempre mi recomiendación sera la siguiente:
 
 - Compilar unicamente si cumples con las dependencias de construcción y sabes lo que haces.
-- De otro modo te recomiendo instalar vim con el gestor de paquetes de tu distribucion:
+- De otro modo te recomiendo instalar vim con el gestor de paquetes de la distribución que estés ocupando:
 
     Para fedora deberás usar el siguiente comando:
     >dnf install vim
@@ -97,7 +97,9 @@ Como siempre mi recomiendación sera la siguiente:
     Para ArchLinux deberás usar el comando siguiente:
     >pacman -S vim
 
-De manera básica vim tiene varios modos
+Una vez realizado todo esto seguiremos viendo como funciona vim. 
+
+De manera básica vim tiene varios modos...
 ### Moviendo el cursor.
 Para mover el cursor, pulse las teclas h,j,k,l de la forma que se indica.
 
