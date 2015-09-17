@@ -1,10 +1,11 @@
 #Editores.
 Como lo dije casi al principio, el editor que desees usar para desarrollar es irrelevante, lo que pretendo ahora es mostrarte con gran detalle y detenimiento las bondades de mi editor favorito por lo que iniciaremos con su nombre:
 
-![Vim](/Imagenes/Vimlogo.svg)
+![Vim](/Imagenes/logos/Vimlogo.svg)
 
 Se muy bien que existen varios editores pero este en especial me ha parecido muy sencillo y poderoso, ademas me encuentro trabajando resaltadores de sintaxis para diferentes librerías y colectando plugins para hacer un vim mucho mas robusto y usable como un IDE para diferentes lenguajes.
 
+# Vim 
 Como ya dijimos Vim  o ("VI IMproved") es un clon de VI, es decir, un programa similar al editor de textos "VI".
 
 Vim no solo trabaja en modo de texto en cualquier terminal, sino que también tiene un interfaz gráfica para el usuario, es decir, menús y soporte para el ratón.
@@ -70,3 +71,12 @@ configuración (shells: *sh*, *csh*, *ksh*, *zsh*), lenguajes de procesamiento d
 Ademas de que tiene otras extensiones como snipets, o verificadores de sintaxis que lo hacen mucho mas potente y mas cercano a un **IDE**, de ahí que les este dando una pequeña entrada sobre lo extraordinario que me resulta este editor.
 
 En este momento me encuentro trabajando en algunas extensiones precisamente con este editor para hacerlo mas robusto y poder usarlo mas como un IDE para los lenguajes **C**, **C++**, **LaTeX**, **Python**, **Bash** entre otros. Al mismo tiempo estoy recolectando algunos scripts que me resalten sintaxis en varias librerías entre ellas esta *Gtk*, *Gdk*, *MPI*, *OpenGL*, *ANSI-C*, me encuentro trabajando en la actualización de *Gtk*, *Gdk*, *Ncurses* y la de *Linux Kernel-API*.
+
+## Jugando con Vim.
+Ya vimos por que vim es un editor muy potente y que ademas dispone de muchos mandatos, demasiados para ser explicados en este libro. Esta parte está dedicada para describir suficientes mandatos para que seas capaz de aprender fácilmente a usar vim como un editor de propósito general.
+
+Es importante recordar que está parte es pensada para enseñar con la práctica. Esto significa que es necesario ejecutar los mandatos para aprenderlos adecuadamente. Si únicamente se lee el texto, se olvidarán los mandatos.
+
+### Moviendo el cursor.
+Para mover el cursor, pulse las teclas h,j,k,l de la forma que se indica.
+![Teclas Movimiento](/Imagenes/VimTutor/Moverse.svg)
