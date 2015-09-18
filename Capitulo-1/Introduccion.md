@@ -1,4 +1,4 @@
-# Introducción.
+# Introducción
 Cuando ocupas una computadora siempre te cuestionas que es lo que la hace funcionar, como es que puedes hacer tu trabajo. Para todo esto es importante tener nociones de programación, ya que siempre podremos encontrarnos con distintos problemas que como tales son muy difíciles de solucionar.
 
 En muchos de estos casos el aprender un lenguaje de programación nos ayuda a ocupar el poder de procesamiento de la computadora para la solución de estos problemas aparentemente imposibles de solucionar, por otra parte te va a permitir experimentar el gozo de haber creado algo por mismo o inclusive el mismo gusto pero de haber contribuido a algún proyecto Open Source.
@@ -22,7 +22,7 @@ A lo largo de la vida seguiremos enfrentando continuamente con todo tipo de prob
 
 Algo muy cierto es que a los que les guste la programación se podrán dedicar a construir programas, mantenerlos o contribuir a diversos Proyectos y siempre habrá mercado para esas personas.
 
-# Conceptos de la programación.
+# Conceptos de la programación
 Lo que nos lleva a definir formalmente que es un programa:
 
 > Un Programa es una descripción ejecutable de soluciones a problemas computacionales, es decir, un texto descriptivo que al ser procesado por una computadora da solución a un problema propuesto. De esta manera, la parte descriptiva de los programas es el texto que el programador le provee a la computadora.
@@ -45,7 +45,7 @@ Si bien cuando escribimos el código fuente de un programa utlilizamos símbolos
 > Los programadores tienen que balancear dos mundos bien diferente: un mundo de estructura y un mundo de imaginación. Creando conceptos abstractos usando lenguajes de programación muy estructurados.
 [Programmer-Creativity-Boost](http://lifedev.net/2008/07/programmer-creativity-boost/)
 
-# Lenguajes de Programación.
+# Lenguajes de Programación
 Cuando programamos, no podemos utilizar el lenguaje natural con que nos comunicamos cotidianamente. Por el contrario, se emplea un lenguaje que un interprete o un compilador sea capaz de traducir a lenguaje maquina.
 
 > Un lenguaje de programación es una serie de reglas que establecen que descripciones serán aceptadas y ejecutadas y cuales no tienen sentido para el mecanismo de ejecución provisto por la computadora.
@@ -61,7 +61,7 @@ A su vez, algunos lenguajes de programación están pensados para volcar mejor l
 
 En la gran mayoría de los cursos de programación inicial suelen utilizarse una forma de lenguaje denominado comúnmente pseudocodigo, que se confunde con la de lenguaje de programación. Pero que no veremos por motivos de que seria muchísimo mas extenso este libro.
 
-# Paradigmas de programación.
+# Paradigmas de programación
 Durante la década de 1960, la proliferación de lenguajes de programación siguió creciendo, y de a poco fueron diferenciándose grupos o familias de lenguajes, en torno a la predominancia de ciertas características. El foco de desarrollo de software se fue desplazando hacia la educación, para poder formar a los futuros programadores. La administración a gran escala siguió teniendo fuerte presencia, pero las aplicaciones orientadas a la defensa fueron disminuyendo.
 
 Estos grupos o familias de lenguajes dieron origen a lo que ahora denominamos paradigma de programación, que no es otra cosa que un conjunto de ideas y conceptos al respecto del estilo con el que se expresan las soluciones a problemas a través de un lenguaje de programación. Cada paradigma privilegia ciertas ideas sobre otras, y  ciertas formas de combinación por sobre otras, dando lugar a estilos muy diferentes en la forma de programar.
@@ -102,7 +102,7 @@ Cada uno de los lenguajes mencionados dejo un sin numero de descendientes y prá
 
 Otro gran avance de esta época fue el desarrollo de lo que dio en llamarse programación estructurada, que sucedió dentro del paradigma imperativo, y consistió fundamentalmente en aumentar la abstracción de los lenguajes, eliminando primitivas de control desestructurado, o sea, que permitan moverse libremente por el código, sin tener en cuenta su estructura lógica.
 
-# Algoritmo.
+# Algoritmo
 Las personas efectuamos cotidianamente series de pasos, procedimientos o acciones que nos permiten alcanzar algún resultado o resolver algún problema. Estas series de pasos, procedimientos o acciones, comenzamos a aplicarlas desde que empieza el día, cuando, por ejemplo, decidimos bañarnos. Posteriormente, cuando tenemos que ingerir alimentos también seguimos una serie de pasos que nos permiten alcanzar un resultado especifico. Y la historia se repite un innumerable numero de veces. En realidad todo el tiempo estamos aplicando algoritmos para resolver problemas.
 
 > Un algoritmo es un conjunto de paso por paso, procedimientos o acciones que nos permiten alcanzar un resultado o resolver un problema.
@@ -135,7 +135,7 @@ Los algoritmos tienen comúnmente 3 secciones o módulos principales.
 
 ![Partes de Un Algoritmo](/Imagenes/Algoritmo.svg)
 
-# Diagrama de flujo.
+# Diagrama de flujo
 > Un diagrama de flujo representa la esquematización gráfica de un algoritmo.
 
 Realmente muestra gráficamente los pasos o procesos a seguir para alcanzar la solución de un problema. La construcción correcta del mismo es muy importante, ya que a partir de este se escribe el programa en un lenguaje de programación determinado. En este caso utilizaremos el lenguaje, aun que cabe recordar el diagrama de flujo se debe construir de manera independiente al lenguaje de programación. El diagrama de flujo representa la solución del problema. El programa representa la implementación de un lenguaje de programación.
@@ -158,7 +158,7 @@ La tabla y las imágenes que veremos a continuación se utilizaran, junto con un
 En la imagen siguiente se presentan los pasos que se deben seguir en la construcción de un diagrama de flujo. El procesamiento de los datos generalmente relacionado con el proceso de toma de decisiones. Ademas, es muy común repetir un conjunto de pasos.
 ![Etapas en la construcción de un diagrama de flujo](/Imagenes/Diagrama.svg)
 
-## Reglas para la construcción de diagramas de flujo.
+## Reglas para la construcción de diagramas de flujo
 Los símbolos presentados, colocados en los lugares adecuados, permiten crear una estructura gráfica flexible que ilustra los pasos a seguir para alcanzar un resultado especifico. El diagrama de flujo facilita entonces la escritura del programa en C. Lo que veremos a continuación se presenta el conjunto de reglas para la construcción de diagramas de flujo:
 1. Todo diagrama de flujo debe tener un inicio y un fin.
 2. Las lineas utilizadas para indicar la dirección del flujo del diagrama deben ser rectas: ya sea verticales u horizontales.
@@ -169,12 +169,12 @@ Los símbolos presentados, colocados en los lugares adecuados, permiten crear un
 7. Si las construcción del diagrama de flujo requiriera mas de una hoja, debemos utilizar los conectores adecuados y enumerar las paginas correspondientes.
 8. No puede llegar mas de una linea a un símbolo determinado.
 
-## Desventajas de los diagramas de flujo.
+## Desventajas de los diagramas de flujo
 Aun que me parecen muy interesantes como primer acercamiento a la programación ya que son fáciles de entender. De hecho se utilizan fuera de la programación como esquema para ilustrar el funcionamiento de algoritmos sencillos.
 
 Sin embargo cuando el algoritmos se complica, el diagrama de flujo se convierte en ininteligible. Ademas los diagramas de flujo no facilitan el aprendizaje de la programación estructurada.
 
-#Pseudocodigo.
+#Pseudocodigo
 Las bases de la programación estructurada fueron enunciadas por **Niklaus Wirdth**. Segun este cientifico cualquier problema algoritmico podia resolverse con el uso de estos 3 tipos de instrucciones:
 1. **Secuenciales** Instrucciones que se ejecutan en orden normal. El flujo del programa  ejecuta la instruccion y pasa a ejecutar la siguiente.
 2. **Alternativas** Instrucciones en las que se evalua una condicion y dependiendo si el resultado es verdadero o no, el flujo del programa se dirigira a una instruccion u otra.
