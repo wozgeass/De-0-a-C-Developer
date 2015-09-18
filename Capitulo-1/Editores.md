@@ -1,4 +1,4 @@
-#Editores.
+#Editores
 Como lo dije casi al principio, el editor que desees usar para desarrollar es irrelevante, lo que pretendo ahora es mostrarte con gran detalle y detenimiento las bondades de mi editor favorito por lo que iniciaremos con su nombre:
 
 ![Vim](/Imagenes/logos/Vimlogo.svg)
@@ -72,7 +72,7 @@ Ademas de que tiene otras extensiones como snipets, o verificadores de sintaxis 
 
 En este momento me encuentro trabajando en algunas extensiones precisamente con este editor para hacerlo mas robusto y poder usarlo mas como un IDE para los lenguajes **C**, **C++**, **LaTeX**, **Python**, **Bash** entre otros. Al mismo tiempo estoy recolectando algunos scripts que me resalten sintaxis en varias librerías entre ellas esta *Gtk*, *Gdk*, *MPI*, *OpenGL*, *ANSI-C*, me encuentro trabajando en la actualización de *Gtk*, *Gdk*, *Ncurses* y la de *Linux Kernel-API*.
 
-## Iniciando con vim.
+## Iniciando con vim
 Ya vimos por que vim es un editor muy potente y que ademas dispone de muchos mandatos, demasiados para ser explicados en este libro. Esta parte está dedicada para describir suficientes mandatos para que seas capaz de aprender fácilmente a usar vim como un editor de propósito general.
 
 Es importante recordar que está parte es pensada para enseñar con la práctica. Esto significa que es necesario ejecutar los mandatos para aprenderlos adecuadamente. Si únicamente se lee el texto, se olvidarán los mandatos.
