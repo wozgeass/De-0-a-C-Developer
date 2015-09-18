@@ -1,4 +1,4 @@
-# Motivaciones.
+# Motivaciones
 Me anime a realizar este libro con el fin de mostrar el fascinante mundo de la programación usando el lenguaje C, para que las personas que no saben mucho lo entiendan de una manera simple y con muchos ejemplos.
 
 Este es la primera parte de 3 mas que le precederán cuya finalidad sera que podamos sumergirnos en cada momento a mas detalle sobre el lenguaje y como poder programar cualquier cosa.
@@ -6,7 +6,7 @@ Este es la primera parte de 3 mas que le precederán cuya finalidad sera que pod
 Debo admitir que este libro sera un poco largo y en algunos momento bastante tedioso, tratare de detallar muchas partes ya que otra parte de la finalidad de este libro es aprenderlo de la mejor manera posible.
 
 Si llegaras a encontrar algo que no esta bien agradecería que me lo notificaras lo antes posible, con la finalidad de mejorar la calidad del contenido de este libro.
-*wozgeass@gmail.com* 
+*adrian@aztli.or* 
 
 ## ¿A quien esta dirigido?
 Para personas que sepas muy poco o nada de programación y que les interese iniciar a resolver problemas y plantear su solucion en lenguaje C.
@@ -23,7 +23,7 @@ Sin embargo para los que ya tienen ciertas nociones y quieran mejorar, repasar u
 
 Es importante destacar que el nivel de complejidad de los temas aumenta en forma gradual, y cada uno tratare de hacerlo con la mayor amplitud y claridad posible.
 
-## Recomendaciones.
-Utilizaremos Linux como sistema operativo base para correr todos los código que se hagan, ademas agregare un apartado detallando el compilador GCC que sera el que usaremos para compilar todos los ejemplos.
+## Recomendaciones
+Utilizaremos Linux como sistema operativo base para correr todos los código que se hagan, ademas agregare un apartado detallando el compilador GCC 5.2 que sera el que usaremos para compilar todos los ejemplos.
 
 En general, aprender a usar una herramienta es sencillo, la mayoría de libros se enfocan en ello; pero saber utilizar una herramienta no resuelve la mayoría de veces el problema, así como saber manejar una maquina de escribir, no te hará un escritor.
