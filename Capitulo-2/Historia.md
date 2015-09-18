@@ -1,4 +1,4 @@
-#Historia del lenguaje C.
+#Historia del lenguaje C
 Desde el primer momento en que se necesito algo menos complicado para poder desarrollar, los mismo desarrolladores empezaron a idear lenguajes que les facilitaran la vida a los que apenas empezaban de ahí que muchos lenguajes fueran creados con distintos propósitos.
 
 *El lenguaje C* ya tiene sus años. Su nacimiento esta estrechamente vinculado al de sistema operativo **UNIX**. El investigador Ken Thompson, de **AT&T**, la compañia telefónica estadounidense, se propuso diseñar un nuevo sistema operativo a principio de los setenta. Disponía de un *PDP-7* en el que codifico una primera versión de **UNIX** en el lenguaje ensamblador. Pronto se impuso la conveniencia de desarrollar el sistema en un lenguaje de programación de alto nivel, pero la escasa memoria del PDP-7(8K de 18bits) hizo que ideara el lenguaje de programación B, una versión reducida de un lenguaje ya existente: BCPL. El lenguaje C apareció como un B mejorado fruto de las demandas impuestas por el desarrollo de **UNIX**. Dennis Ritchie fue el encargado del diseño del lenguaje C y de la implementación de compilador sobre un PDP-11.
