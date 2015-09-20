@@ -99,9 +99,9 @@ Como siempre mi recomiendación sera la siguiente:
 
 Una vez realizado todo esto seguiremos viendo como funciona vim. 
 
-La ultima version de vim es la **7.4.874** hasta este octubre 2015.
+La ultima versión de vim es la **7.4.874** hasta este octubre 2015.
 
-Para iniciar a ocupar el editor tendras que hacerlo desde una terminal ejecutando lo siguiente:
+Para iniciar a ocupar el editor tendrás que hacerlo desde una terminal ejecutando lo siguiente:
 
 ```bash
 $ vim <archivo>
