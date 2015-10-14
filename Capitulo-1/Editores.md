@@ -105,7 +105,6 @@ Para iniciar a ocupar el editor tendrás que hacerlo desde una terminal ejecutan
 
 ```bash
 $ vim <archivo>
-
 ```
 
 De manera básica vim tiene varios modos...
