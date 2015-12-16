@@ -28,6 +28,6 @@ Es importante destacar que el nivel de complejidad de los temas aumenta en forma
 *Linus Torvalds*
 
 ## Recomendaciones
-Utilizaremos Linux como sistema operativo base para correr todos los código que se hagan, ademas agregare un apartado detallando el compilador GCC 5.2 que sera el que usaremos para compilar todos los ejemplos.
+Utilizaremos Linux como sistema operativo base para correr todos los código que se hagan, ademas agregare un apartado detallando el compilador GCC 5.3 que sera el que usaremos para compilar todos los ejemplos.
 
 En general, aprender a usar una herramienta es sencillo, la mayoría de libros se enfocan en ello; pero saber utilizar una herramienta no resuelve la mayoría de veces el problema, así como saber manejar una maquina de escribir, no te hará un escritor.
