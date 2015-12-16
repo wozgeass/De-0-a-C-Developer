@@ -10,9 +10,9 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="67.906181mm"
-   height="45.685669mm"
-   viewBox="0 0 240.61245 161.87835"
+   width="42.304596mm"
+   height="28.461529mm"
+   viewBox="0 0 149.89817 100.84793"
    id="svg3472"
    version="1.1"
    inkscape:version="0.91 r13725"
@@ -259,8 +259,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.8"
-     inkscape:cx="102.44643"
-     inkscape:cy="67.335287"
+     inkscape:cx="11.73214"
+     inkscape:cy="81.621005"
      inkscape:document-units="px"
      inkscape:current-layer="g3570"
      showgrid="false"
@@ -269,18 +269,18 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1366"
-     inkscape:window-height="712"
-     inkscape:window-x="-4"
-     inkscape:window-y="0"
+     inkscape:window-height="704"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      showguides="true"
      inkscape:guide-bbox="true">
     <sodipodi:guide
-       position="158.94909,102.85714"
+       position="68.234801,102.85714"
        orientation="1,0"
        id="guide3780" />
     <sodipodi:guide
-       position="120.37766,112.85714"
+       position="29.663372,112.85714"
        orientation="0,1"
        id="guide3782" />
   </sodipodi:namedview>
@@ -300,11 +300,12 @@
      inkscape:label="Capa 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-329.11947,-712.3622)">
+     transform="translate(-419.83376,-773.39262)">
     <g
        id="g3570">
       <g
-         id="g3948">
+         id="g3948"
+         transform="matrix(0.62298593,0,0,0.62298593,214.79696,329.60099)">
         <path
            inkscape:connector-curvature="0"
            style="display:block;fill:#d3d7cf;stroke:#888a85;stroke-width:1.48980033"
@@ -351,19 +352,19 @@
       <text
          sodipodi:linespacing="125%"
          id="text3468"
-         y="859.26862"
-         x="438.21457"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:27.71953392px;line-height:125%;font-family:Inconsolata;-inkscape-font-specification:'Inconsolata Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         y="864.91327"
+         x="487.79846"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:17.26887894px;line-height:125%;font-family:Inconsolata;-inkscape-font-specification:'Inconsolata Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:41.57929993px;font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono'"
-           y="859.26862"
-           x="438.21457"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.90331841px;font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono'"
+           y="864.91327"
+           x="487.79846"
            id="tspan3470"
            sodipodi:role="line">J</tspan></text>
     </g>
     <g
        id="g3570-4"
-       transform="translate(-6.7348072,-105.62165)">
+       transform="matrix(0.62298593,0,0,0.62298593,210.60127,263.80019)">
       <g
          id="g3939"
          transform="translate(7.1428572,1.7857143)">
@@ -425,7 +426,7 @@
     </g>
     <g
        id="g3570-4-0"
-       transform="translate(82.40805,-54.40736)">
+       transform="matrix(0.62298593,0,0,0.62298593,266.13601,295.70598)">
       <g
          id="g3930">
         <path
@@ -486,7 +487,7 @@
     </g>
     <g
        id="g3570-4-0-2"
-       transform="translate(-80.734805,-54.264503)">
+       transform="matrix(0.62298593,0,0,0.62298593,164.50031,295.79497)">
       <g
          id="g3882">
         <path
@@ -555,6 +556,6 @@
              height="82.85714"
              x="-81.071426"
              y="-68.743294" /></flowRegion><flowPara
-           id="flowPara3880"></flowPara></flowRoot>    </g>
+           id="flowPara3880" /></flowRoot>    </g>
   </g>
 </svg>
