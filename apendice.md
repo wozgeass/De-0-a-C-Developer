@@ -17,11 +17,15 @@ Considero que esta característica es fundamental, sobre todo desde el punto de 
 
 Sin embargo para los que ya tienen ciertas nociones y quieran mejorar, repasar un poco o quizás aprender algo nuevo.
 
+![gustea](Imagenes/gustea.png)
+Por lo que este libro tiene la misma intension:
+> Cualquiera puede programar.
+
+Es importante destacar que el nivel de complejidad de los temas aumenta en forma gradual, y cada uno tratare de hacerlo con la mayor amplitud y claridad posible.
+
 > Todos queremos sentirnos relevantes, y pensar que estamos haciendo una diferencia en este mundo. Tener un trabajo donde uno se siente productivo, y saber que el trabajo que uno hace “importa” es un gran desafío.
 
 *Linus Torvalds*
-
-Es importante destacar que el nivel de complejidad de los temas aumenta en forma gradual, y cada uno tratare de hacerlo con la mayor amplitud y claridad posible.
 
 ## Recomendaciones
 Utilizaremos Linux como sistema operativo base para correr todos los código que se hagan, ademas agregare un apartado detallando el compilador GCC 5.2 que sera el que usaremos para compilar todos los ejemplos.
