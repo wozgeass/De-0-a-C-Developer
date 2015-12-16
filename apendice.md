@@ -9,16 +9,16 @@ Si llegaras a encontrar algo que no esta bien agradecería que me lo notificaras
 *adrian@aztli.or* 
 
 ## ¿A quien esta dirigido?
-Para personas que sepas muy poco o nada de programación y que les interese iniciar a resolver problemas y plantear su solucion en lenguaje C.
+Para personas que sepas muy poco o nada de programación y que les interese iniciar a resolver problemas y plantear su solución en lenguaje C.
 
-Si alguna vez viste algúnn otro libro podrás haberte dado cuenta que están muy atrasados o en ingles, mi enfoque es presentarte la información de la manera mas didácticamente posible, explicándote como resolver tus problemas siendo esta la principal razón.
+Si alguna vez viste algún otro libro podrás haberte dado cuenta que están muy atrasados o en ingles, mi enfoque es presentarte la información de la manera mas didácticamente posible, explicándote como resolver tus problemas siendo esta la principal razón.
 
 Considero que esta característica es fundamental, sobre todo desde el punto de vista académico, por que trata de enseñar, de hacer entender, de hacer ver, al lector, como resolver un problema, y luego como programar  esa solución en C.
 
 Sin embargo para los que ya tienen ciertas nociones y quieran mejorar, repasar un poco o quizás aprender algo nuevo.
 
 ![gustea](Imagenes/gustea.png)
-Por lo que este libro tiene la misma intension:
+Por lo que este libro tiene la misma intención:
 > Cualquiera puede programar.
 
 Es importante destacar que el nivel de complejidad de los temas aumenta en forma gradual, y cada uno tratare de hacerlo con la mayor amplitud y claridad posible.
