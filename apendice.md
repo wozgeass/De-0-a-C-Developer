@@ -19,7 +19,7 @@ Sin embargo para los que ya tienen ciertas nociones y quieran mejorar, repasar u
 
 ![gustea](Imagenes/gustea.png)
 Por lo que este libro tiene la misma intención:
-> Cualquiera puede programar.
+> "Cualquiera puede programar".
 
 Es importante destacar que el nivel de complejidad de los temas aumenta en forma gradual, y cada uno tratare de hacerlo con la mayor amplitud y claridad posible.
 
