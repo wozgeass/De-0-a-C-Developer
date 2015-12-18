@@ -113,6 +113,8 @@ De manera básica vim tiene varios modos entre ellos.
 - **Insertar**
 - *Entre algunos mas.*
 
+De manera normal entras al modo normal:
+![VimModes](/Imagenes/VimTutorial/VimModes.png)
 
 ### Moviendo el cursor.
 Para mover el cursor, pulse las teclas H,J,K,L de la forma que se indica.
