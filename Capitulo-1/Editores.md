@@ -113,8 +113,18 @@ De manera básica vim tiene varios modos entre ellos.
 - **Insertar**
 - *Entre algunos mas.*
 
-De manera normal entras al modo normal:
+Cuando entras a vim inicias el modo normal:
 ![VimModes](/Imagenes/VimTutorial/VimModes.png)
+
+Pero al teclear algunas letras puedes acceder a algunos modos, aun que te parezca muy difícil al comienzo veras que te vas a acostumbrar muy pronto.
+
+Para entrar al modo edición tendras que teclear la letra "**i**".
+![VimModes](/Imagenes/VimTutorial/Tecla-I.svg)
+Esto mismo inmediatamente te cambiara de modo para que puedas iniciar la edición del documento.
+
+Y para entrar al modo visual tendras que teclear la letra "**v**".
+![VimModes](/Imagenes/VimTutorial/Tecla-V.svg)
+Esto mismo inmediatamente te cambiara de modo para que puedas seleccionar algunas parte de tu texto a tu gusto.
 
 ### Moviendo el cursor.
 Para mover el cursor, pulse las teclas H,J,K,L de la forma que se indica.
