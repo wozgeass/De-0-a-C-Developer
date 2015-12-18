@@ -126,7 +126,7 @@ Y para entrar al modo visual tendras que teclear la letra "**v**".
 ![VimModes](/Imagenes/VimTutorial/Tecla-V.svg)
 Esto mismo inmediatamente te cambiara de modo para que puedas seleccionar algunas parte de tu texto a tu gusto.
 
-### Mis primeros pasos.
+### Iniciando.
 Ahora seguramente ya habras incursionado en vim pero no sabes ni como salid ni guardar tus cambios. 
 Para eso deberas pulsa la tecla "**Esc**" para asegurarte de que estas en modo **Normal**:
 ![VimModes](/Imagenes/VimTutorial/Tecla-Esc.svg)
