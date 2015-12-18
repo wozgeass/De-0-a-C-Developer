@@ -131,9 +131,12 @@ Ahora seguramente ya habras incursionado en vim pero no sabes ni como salid ni g
 Para eso deberas pulsa la tecla "**Esc**" para asegurarte de que estas en modo **Normal**:
 ![VimModes](/Imagenes/VimTutorial/Tecla-Esc.svg)
 
-Para salir de archivo sin guardar nada deberemos pulsar las teclas:
+Para salir de archivo sin guardar nada deberas pulsar las teclas:
 :q! <Enter>
 ![VimModes](/Imagenes/VimTutorial/Salir-Sin-Guardar.svg)
+
+Para salir del archivo guardando los cambios deberas pulsar las teclas: :wq <Enter>
+![VimModes](/Imagenes/VimTutorial/Salir-Y-Guardar.svg)
 
 ### Moviendo el cursor.
 Para mover el cursor, pulse las teclas H,J,K,L de la forma que se indica.
