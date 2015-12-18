@@ -126,6 +126,11 @@ Y para entrar al modo visual tendras que teclear la letra "**v**".
 ![VimModes](/Imagenes/VimTutorial/Tecla-V.svg)
 Esto mismo inmediatamente te cambiara de modo para que puedas seleccionar algunas parte de tu texto a tu gusto.
 
+### Mis primeros pasos.
+Ahora seguramente ya habras incursionado en vim pero no sabes ni como salid ni guardar tus cambios. 
+Para eso deberas pulsa la tecla "**Esc*":
+![VimModes](/Imagenes/VimTutorial/Tecla-Esc.svg)
+
 ### Moviendo el cursor.
 Para mover el cursor, pulse las teclas H,J,K,L de la forma que se indica.
 
@@ -133,3 +138,4 @@ Para mover el cursor, pulse las teclas H,J,K,L de la forma que se indica.
 
 Como  puede verse en la imagen la tecla **H** está a la izquierda y mueve el cursor a la izquierda, la tecla **L** está a la derecha y mueve el cursor a la derecha, la tecla **J** parece una flecha que apunta hacia abajo y mueve el cursor abajo por ultimo la tecla **K** parece una flecha que apunta hacia arriba y mueve el cursor arriba.
 
+### Borrando caracteres.
