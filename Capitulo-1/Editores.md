@@ -107,10 +107,17 @@ Para iniciar a ocupar el editor tendrás que hacerlo desde una terminal ejecutan
 $ vim <archivo>
 ```
 
-De manera básica vim tiene varios modos...
+De manera básica vim tiene varios modos entre ellos.
+- **Normal**
+- **Visual**
+- **Insertar**
+- *Entre algunos mas.*
+
+
 ### Moviendo el cursor.
 Para mover el cursor, pulse las teclas H,J,K,L de la forma que se indica.
 
 ![Teclas de Movimiento](/Imagenes/VimTutorial/Moverse.svg)
 
 Como  puede verse en la imagen la tecla **H** está a la izquierda y mueve el cursor a la izquierda, la tecla **L** está a la derecha y mueve el cursor a la derecha, la tecla **J** parece una flecha que apunta hacia abajo y mueve el cursor abajo por ultimo la tecla **K** parece una flecha que apunta hacia arriba y mueve el cursor arriba.
+
