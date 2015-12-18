@@ -128,8 +128,12 @@ Esto mismo inmediatamente te cambiara de modo para que puedas seleccionar alguna
 
 ### Mis primeros pasos.
 Ahora seguramente ya habras incursionado en vim pero no sabes ni como salid ni guardar tus cambios. 
-Para eso deberas pulsa la tecla "**Esc*":
+Para eso deberas pulsa la tecla "**Esc**" para asegurarte de que estas en modo **Normal**:
 ![VimModes](/Imagenes/VimTutorial/Tecla-Esc.svg)
+
+Para salir de archivo sin guardar nada deberemos pulsar las teclas:
+:q! <Enter>
+![VimModes](/Imagenes/VimTutorial/Salir-Sin-Guardar.svg)
 
 ### Moviendo el cursor.
 Para mover el cursor, pulse las teclas H,J,K,L de la forma que se indica.
