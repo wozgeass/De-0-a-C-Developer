@@ -103,13 +103,16 @@ p {
 }
 
 i {
+    font-family: Inconsolata;
     color: #7C7C7C;
 }
 
 pre{
+    font-family: Inconsolata;
     background-color: #000000;
 }
 
 code{
+    font-family: Inconsolata;
     background-color: #000000;
 }
