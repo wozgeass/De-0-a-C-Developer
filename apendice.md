@@ -9,9 +9,9 @@ Si llegaras a encontrar algo que no esta bien agradecería que me lo notificaras
 *adrian@aztli.org* 
 
 ## ¿A quien esta dirigido?
-Para personas que sepas muy poco o nada de programación y que les interese iniciar a resolver problemas y plantear su solución en lenguaje C.
+Para personas que sepan muy poco o nada de programación y que les interese iniciar a resolver problemas y plantear su solución en lenguaje C.
 
-Si alguna vez viste algún otro libro podrás haberte dado cuenta que están muy atrasados o en ingles, mi enfoque es presentarte la información de la manera mas didácticamente posible, explicándote como resolver tus problemas siendo esta la principal razón.
+Si alguna vez viste algún otro libro podrás haberte dado cuenta que están muy atrasados o en ingles, mi enfoque es presentarte la información de la manera mas didácticamente posible, explicándote como resolver tus problemas usando tecnologías **Open Source**.
 
 Considero que esta característica es fundamental, sobre todo desde el punto de vista académico, por que trata de enseñar, de hacer entender, de hacer ver, al lector, como resolver un problema, y luego como programar  esa solución en C.
 
