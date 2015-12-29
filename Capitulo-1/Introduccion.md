@@ -51,7 +51,7 @@ Cuando programamos, no podemos utilizar el lenguaje natural con que nos comunica
 > Un lenguaje de programación es una serie de reglas que establecen que descripciones serán aceptadas y ejecutadas y cuales no tienen sentido para el mecanismo de ejecución provisto por la computadora.
 Ademas, estas reglas están diseñadas de manera composicional, para que sea sencillo construir programas de mayor envergadura.
 
-En actualidad existe un gran numero de lenguajes de programación, de características sumamente diferentes y que emplean diferentes enfoques con lso que podemos programar. Cada lenguaje depende de un conjunto de ideas que guían, como su propósito final, la forma en que codificamos la descripción que otorgaremos a la computadora. Ya que esta forma viene dada por las reglas que definen como se combinan los elementos que el lenguaje de programación provee al programador.
+En actualidad existe un gran numero de lenguajes de programación, de características sumamente diferentes y que emplean diferentes enfoques con los que podemos programar. Cada lenguaje depende de un conjunto de ideas que guían, como su propósito final, la forma en que codificamos la descripción que otorgaremos a la computadora. Ya que esta forma viene dada por las reglas que definen como se combinan los elementos que el lenguaje de programación provee al programador.
 
 A su vez, algunos lenguajes de programación están pensados para volcar mejor las ideas abstractas que el programador intenta emplear. Esto se conoce como lenguaje de **alto nivel**, ya que intentan, con cierto grado de eficacia, soslayar aquellas tareas que la computadora requiere realizar para que el programa cumpla con sus objetos. Pero también existen existen lenguajes de **bajo nivel**, que no hacen definir en mayor o menor medida cada paso que el programa seguirá, y por ende, están ligados a la naturaleza operacional de la computadora. Esta denominación (**Bajo y Alto**) surge de la idea de imaginar que la computadora es la base fundacional sobre la que los programas se ejecutan, que de las ideas abstractas se van construyendo sobre ellas. Justamente denominados a un lenguaje de mas **alto nivel** de abstracción cuanto mas lejos de la base se encuentra, o sea, cuanto mas abstracto, menos relacionados con el proceso real de ejecución.
 
@@ -69,13 +69,13 @@ Estos grupos o familias de lenguajes dieron origen a lo que ahora denominamos pa
 
 Para 1970 ya se podían identificar cuatro grandes paradigmas, que están vigentes hoy incluso hoy en día y que son claramente reconocidos. Mucho después se intento identificar paradigmas adicionales a estos cuatro, pero no hubo cierto consenso sobre si alguno de ellos llegaría o no a poder ser considerado un paradigma y merecer ese nombre.
 
-Los cuatro paradigmas de programación que surgieron a fines de los 60s y principio de los 70s, y que resultaron de fundamental influencia en la forma de hacer la programación, son:
+Los cuatro paradigmas de programación que surgieron a fines de los **60s** y principio de los **70s**, y que resultaron de fundamental influencia en la forma de hacer la programación, son:
 1. El paradigma *Imperativo*.
 2. EL paradigma *Orientado a Objetos*.
 3. El paradigma *Funcional*.
 4. El paradigma *Lógico*.
 
-Los dos primeros están mas orientados a la forma de manejar estados y podrían ser denominados **procedurales**, mientras que los 2 últimos están mas orientados a expresar conceptos o nociones independientes del estado y podrian ser denominados **declarativos**. El paradigma que se desarrollo con mayor ímpetu al principio fue el imperativo, debido a su cercanía con los lenguajes de bajo nivel. Los otros tardaron mas tiempo en adoptar un estado de madurez, y no fue hasta mediados de la década de 80s que tanto el paradigma funcional como el lógico y el orientado a objetos empezó a ser foco de atención masiva.
+Los dos primeros están mas orientados a la forma de manejar estados y podrían ser denominados **procedurales**, mientras que los 2 últimos están mas orientados a expresar conceptos o nociones independientes del estado y podrian ser denominados **declarativos**. El paradigma que se desarrollo con mayor ímpetu al principio fue el imperativo, debido a su cercanía con los lenguajes de bajo nivel. Los otros tardaron mas tiempo en adoptar un estado de madurez, y no fue hasta mediados de la década de **80s** que tanto el paradigma funcional como el lógico y el orientado a objetos empezó a ser foco de atención masiva.
 
 Dentro del paradigma imperativo se clasifican lenguajes mas vinculados con la secuencia de instrucción y mas cercano al ensamblador. Algunos nombres notables que surgieron en esa época dentro del paradigma imperativo, y  aun conocidos hoy en día son:
 - **Basic**, desarrollado en 1965 por John Kemey y Thomas Kurtz con la intención de que se convirtieran en un lenguaje de enseñanza.
