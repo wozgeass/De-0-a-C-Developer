@@ -70,7 +70,7 @@ configuración (shells: *sh*, *csh*, *ksh*, *zsh*), lenguajes de procesamiento d
 
 Ademas de que tiene otras extensiones como snipets, o verificadores de sintaxis que lo hacen mucho mas potente y mas cercano a un **IDE**, de ahí que les este dando una pequeña entrada sobre lo extraordinario que me resulta este editor.
 
-En este momento me encuentro trabajando en algunas extensiones precisamente con este editor para hacerlo mas robusto y poder usarlo mas como un IDE para los lenguajes **C**, **C++**, **LaTeX**, **Python**, **Bash** entre otros. Al mismo tiempo estoy recolectando algunos scripts que me resalten sintaxis en varias librerías entre ellas esta *Gtk*, *Gdk*, *MPI*, *OpenGL*, *ANSI-C*, me encuentro trabajando en la actualización de *Gtk*, *Gdk*, *Ncurses* y la de *Linux Kernel-API*.
+En este momento me encuentro trabajando en algunas extensiones precisamente con este editor para hacerlo mas robusto y poder usarlo mas como un IDE para los lenguajes **C**, **C++**, **LaTeX**, **Python**, **Bash** entre otros. Al mismo tiempo estoy recolectando algunos scripts que me resalten sintaxis en varias librerías entre ellas esta **Gtk**, **Gdk**, **MPI**, **OpenGL**, **ANSI-C**, me encuentro trabajando en la actualización de **Gtk**, **Gdk**, **Ncurses** y la de **Linux Kernel-API**.
 
 ## Iniciando con vim
 Ya vimos por que vim es un editor muy potente y que ademas dispone de muchos mandatos, demasiados para ser explicados en este libro. Esta parte está dedicada para describir suficientes mandatos para que seas capaz de aprender fácilmente a usar vim como un editor de propósito general.
