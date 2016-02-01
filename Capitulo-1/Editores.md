@@ -34,7 +34,7 @@ Es un editor para un Principiante - Amigable para el usuario:
 
 Es mucho más fácil para los principiantes que VI debido a la disponibilidad de ayuda en línea bien extensa, comandos para "deshacer" (undo) y "rehacer" (redo) (¡no te preocupes mucho con los errores - simplemente usa undo y redo!),  soporte para el ratón y tambien iconos y menús configurables (GUI).
 
-Soporta la edición de derecha-a-izquierda (ej. con el *Árabe*, *Farsi*, *Hebreo*), y textos en *multi-octeto*, es decir, lenguajes con caracteres gráficos representados por más de un "*octeto*", por ejemplo *Chino*, *Japonés*, *Coreano (Hangul)*, técnicamente hablando, Vim soporta texto escrito en **UTF-8** y **Unicode**.
+Soporta la edición de derecha-a-izquierda (ej. con el **Árabe**, **Farsi**, **Hebreo**), y textos en **multi-octeto**, es decir, lenguajes con caracteres gráficos representados por más de un "**octeto**", por ejemplo **Chino**, **Japonés**, **Coreano (Hangul)**, técnicamente hablando, Vim soporta texto escrito en **UTF-8** y **Unicode**.
 
 ![Codificación](/Imagenes/Codificacion.png)
 
