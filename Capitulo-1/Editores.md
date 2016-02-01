@@ -14,7 +14,7 @@ Vim no solo trabaja en modo de texto en cualquier terminal, sino que también ti
 
 Está disponible para muchas plataformas y tiene muchas características añadidas en comparación con VI. Es compatible con casi todos los comandos de VI - excepto con los errores.
 
-Esta disponible en un gran numero de sistemas operativos entre y no podía faltar para los 3 sistemas mas importantes:
+Esta disponible en un gran numero de sistemas operativos entre ellos:
 Linux:
 - Linux:
 ![Linux](/Imagenes/logos/Linux.svg)
