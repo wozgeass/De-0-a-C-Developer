@@ -149,7 +149,7 @@ Para mover el cursor, pulse las teclas H,J,K,L de la forma que se indica.
 Como  puede verse en la imagen la tecla **H** está a la izquierda y mueve el cursor a la izquierda, la tecla **L** está a la derecha y mueve el cursor a la derecha, la tecla **J** parece una flecha que apunta hacia abajo y mueve el cursor abajo por ultimo la tecla **K** parece una flecha que apunta hacia arriba y mueve el cursor arriba.
 ### Agregar texto al documento.
 Segun lo visto antes haciendo uso de los modos en vim es como podremos realizar diversas actividades. En este caso ocuparemos el modo de insercion tecleando la letra "**i**":
-![VimModes](/Imagenes/VimTutorial/Tecla-i.svg)
+![VimModes](/Imagenes/VimTutorial/Tecla-I.svg)
 
 ### Borrando caracteres.
 Existen muchas combinaciones para realizar el borrado entre las mas usuales se encuentra la opcion "**dw**"
