@@ -149,9 +149,10 @@ Para mover el cursor, pulse las teclas H,J,K,L de la forma que se indica.
 Como  puede verse en la imagen la tecla **H** está a la izquierda y mueve el cursor a la izquierda, la tecla **L** está a la derecha y mueve el cursor a la derecha, la tecla **J** parece una flecha que apunta hacia abajo y mueve el cursor abajo por ultimo la tecla **K** parece una flecha que apunta hacia arriba y mueve el cursor arriba.
 ### Agregar texto al archivo.
 Este editor es considerado como un editor modal, esto significa que puede tener diferentes comportamientos dependiendo del modo en el que nos encontremos y los 2 modos basicos son el modo normal e insertar.
-Desde el primer momento en el que ingresamos al editor nos topamos con el modo normal. Para ocupar el modo de insercion teclecleamos la letra "**i**":
+Desde el primer momento en el que ingresamos al editor nos topamos con el modo normal. Para ocupar el modo de insercion tecleremos la letra "**i**":
 ![VimModes](/Imagenes/VimTutorial/Tecla-I.svg)
-Y es asi como ya podremos ingresar texto en nuestro archivo
+Y es asi como ya podremos ingresar texto en nuestro archivo, ahora podras iniciar la edicion sin problemas hasta el momento en el que tecles <Esc>:
+![VimModes](/Imagenes/VimTutorial/Tecla-Esc.svg)
 
 ### Borrando caracteres.
 Existen muchas combinaciones para realizar el borrado entre las mas usuales se encuentra la opcion "**dw**"
