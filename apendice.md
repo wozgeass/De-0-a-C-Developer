@@ -6,8 +6,6 @@ Este es la primera parte de 3 más que le precederán cuya finalidad será que p
 Debo admitir que este libro sera un poco largo y en algunos momento bastante tedioso, tratare de detallar muchas partes ya que otra parte de la finalidad de este libro es aprenderlo de la mejor manera posible.
 
 Si llegaras a encontrar algo que no esta bien agradecería que me lo notificaras lo antes posible, con la finalidad de mejorar la calidad del contenido de este libro.
-*adrian@aztli.org* 
-
 ## ¿A quien esta dirigido?
 Para personas que sepan muy poco o nada de programación y que les interese iniciar a resolver problemas y plantear su solución en lenguaje C.
 
@@ -26,7 +24,6 @@ Es importante destacar que el nivel de complejidad de los temas aumenta en forma
 > Todos queremos sentirnos relevantes, y pensar que estamos haciendo una diferencia en este mundo. Tener un trabajo donde uno se siente productivo, y saber que el trabajo que uno hace “importa” es un gran desafío.
 
 *Linus Torvalds*
-
 ## Recomendaciones
 Utilizaremos **Linux** como sistema operativo base para correr todos los código que se hagan, ademas agregare un apartado detallando el compilador **GCC 5.3** que sera el que usaremos para compilar todos los ejemplos.
 
