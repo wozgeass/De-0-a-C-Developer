@@ -42,7 +42,7 @@ Vamos a poder seleccionar el texto "**visualmente**" antes de que "*operen*" en 
 
 Vim tiene comandos que completan su entrada de información sea con comandos, nombres de fichero, o palabras.
 
-Del mismo modo tiene "*autocommands*" para la ejecución automática de los comandos (ej. decompresión automática de ficheros comprimidos).
+Del mismo modo tiene "*autocommands*" para la ejecución automática de los comandos (ej. Decompresión automática de ficheros comprimidos).
 Vim reconoce automáticamente el tipo de ficheros (**DOS**, **mac**, **Unix**) y también le permite el guardar el archivo en cualquier otro formato ¡no hay necesidad de usar unix2dos para usar en Windows nunca más!
 
 Vim tiene una "*historia*" para los comandos y las búsquedas, así que usted puede llamar nuevamente los comandos o el patrón de búsqueda anteriores para editarlos.
@@ -61,12 +61,11 @@ Vim permite para salvar la información de una sesión de edición en un fichero
 
 Vim puede expandir las tabulaciones dentro del texto usando caracteres de espacio (**expandtab**,**retab* **).
 
-Vim permite el encontrar texto en ficheros usando un índice con las "*etiquetas*" (**tags* ***) junto con muchos otros comandos que manipulan la lista de de etiquetas.
+Vim permite el encontrar texto en ficheros usando un índice con las "*etiquetas*" (**tags* ***) junto con muchos otros comandos que manipulan la lista de etiquetas.
 
 Vim muestra el texto en color según su "*lenguaje de programación*".  Tu mismo puedes definir el "**lenguaje**" ("**sintaxis**") de los ficheros.
 Viene con muchisimos ficheros de sintaxis para la colorisación del texto
-en los lenguajes de programación comunes (*Ada*, *C*, *C++*, *Eiffel*, *FORTRAN*, *Haskell*, *Java*, *lisp*, *Modula*, *PASCAL*, *prólogo*, *Python*, *scheme*, *SQL*, *Verilog*, *VisualBasic*), programas de matemáticas (*arce*, *Matlab*, *Mathematica*, *SAS*), texto que use marcado específico (*DocBook*, *HTML*, *LaTeX*, *PostScript*, *SGML-LinuxDoc*, *TeX*, *WML*, *XML*, *Markdown*), retornos de programas (*diff*), ficheros de la configuració de programas (*Apache*, *autoconfig*, *BibTeX*, *CSS*, *CVS*, *IDL*, *LILO*, *mail*, *samba*), lenguajes de escritura del procesador de comandos (*shell*) y  de
-configuración (shells: *sh*, *csh*, *ksh*, *zsh*), lenguajes de procesamiento de texto (*awk*, *Perl*, *sed*, *yacc*), ficheros de sistema (*printcap*, *Xdefaults*) y por supuesto para Vim y sus textos de ayuda.
+en los lenguajes de programación comunes (**Ada**, **C**, **C++**, **Eiffel**, **FORTRAN**, **Haskell**, **Java**, **lisp**, **Modula**, **PASCAL**, **prolog***, **Python**, **scheme**, **SQL**, **Verilog**, **VisualBasic**, **Ensamblador**, **Ruby**, **Javascript**), programas de matemáticas (**arce**, **Matlab**, **Mathematica**, **SAS**), texto que use marcado específico (**DocBook**, **HTML**, **LaTeX**, **PostScript**, **SGML-LinuxDoc**, **TeX**, **WML**, **XML**, **Markdown**, **Json**), retornos de programas (**diff**), ficheros de la configuració de programas (**Apache**, **autoconfig**, **BibTeX**, **CSS**, **CVS**, **IDL**, **LILO**, **mail**, **samba**,**Grub**, **Nginx**), lenguajes de escritura del procesador de comandos (**Shell**) y  de configuración (shells: **sh**, **csh**, **ksh**, **zsh**), lenguajes de procesamiento de texto (**awk**, **gawk**, **Perl**, **sed**, **yacc**), ficheros de sistema (*printcap*, *Xdefaults*) y por supuesto para Vim y sus textos de ayuda.
 
 Ademas de que tiene otras extensiones como snipets, o verificadores de sintaxis que lo hacen mucho mas potente y mas cercano a un **IDE**, de ahí que les este dando una pequeña entrada sobre lo extraordinario que me resulta este editor.
 
