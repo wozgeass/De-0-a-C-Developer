@@ -6,26 +6,26 @@ Como lo dije casi al principio, el editor que desees usar para desarrollar es ir
 Se muy bien que existen varios editores pero este en especial me ha parecido muy sencillo y poderoso, ademas me encuentro trabajando en algo que contare mas adelante y te facilitara en gran medida la vida si es que quieres programar usando este editor.
 
 # Vim 
-Como ya dijimos Vim  o ("VI IMproved") es un clon de VI, es decir, un programa similar al editor de textos "VI".
+Como ya dijimos **Vim**  o ("**VI IMproved**") es un clon de **Vi**, es decir, un programa similar al editor de textos "**Vi**".
 
-Vim no solo trabaja en modo de texto en cualquier terminal, sino que también tiene un interfaz gráfica para el usuario, es decir, menús y soporte para el ratón.
+**Vim** no solo trabaja en modo de texto en cualquier terminal, sino que también tiene un interfaz gráfica para el usuario, es decir, menús y soporte para el ratón.
 
 ![Vim](/Imagenes/GVim.png)
 
-Está disponible para muchas plataformas y tiene muchas características añadidas en comparación con VI. Es compatible con casi todos los comandos de VI - excepto con los errores.
+Está disponible para muchas plataformas y tiene muchas características añadidas en comparación con **Vi**. Es compatible con casi todos los comandos de **Vi** - excepto con los errores.
 
 Esta disponible en un gran numero de sistemas operativos entre ellos:
 Linux:
-- Linux:
+- *Linux*:
 ![Linux](/Imagenes/logos/Linux.svg)
-- OSX:
+- *OSx*:
 ![OSX](/Imagenes/logos/Apple.svg)
-- Windows:
+- *Windows*:
 ![Windows](/Imagenes/logos/Windows.svg)
-- Pero si eres usuario de sistemas BSD debo informarte que también lo vas a poder usar:
+- Si eres usuario de sistemas *BSD* debo informarte que también lo vas a poder usar:
 ![FreeBSD](/Imagenes/logos/Freebsd.svg)
 
-El copyright está en las manos del autor principal y mantenedor, **Bram Moolenaar** <bram@vim.org>.  Vim es un "**programa-de-caridad**" "**charity-ware**"), es decir que se sugiere que hagas una donación a los huérfanos en Uganda.
+El copyright está en las manos del autor principal y mantenedor, **Bram Moolenaar** <bram@vim.org>.  **Vim** es un "**programa-de-caridad**" "**charity-ware**"), es decir que se sugiere que hagas una donación a los huérfanos en Uganda.
 
 Y si te lo preguntabas vim a pesar de entrar en **charity-ware** es software *Open Source* y todos los que quieran apoyar son bienvenidos para contribuir en algo al proyecto.
 
