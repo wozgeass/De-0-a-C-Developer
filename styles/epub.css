@@ -1,9 +1,9 @@
-/* CSS for website */
+/* CSS for epub */
 /* @font-face {
+@import url(https://fonts.googleapis.com/css?family=Inconsolata&subset=latin,latin-ext);
 font-family: Inconsolata;
 src: url (Fuentes/Inconsolata.otf) format(‘opentype’);
 }*/
-@import url(https://fonts.googleapis.com/css?family=Inconsolata&subset=latin,latin-ext);
 
 header {
     font-family: Inconsolata;
