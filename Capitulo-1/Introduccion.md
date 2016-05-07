@@ -5,7 +5,7 @@ En muchos de estos casos el aprender un lenguaje de programación nos ayuda a oc
 
 Cabe destacar que la complejidad de la programación dependerá del problema que se trate de solucionar, comprender que toda esta idea de poder dar solución a problemas con mayor rapidez y eficacia se debe en gran parte a los avances y progresos en electrónica, matemáticas, física, etc.
 
-En mi opinión la programación no es algo tan difícil, para muchos de nosotros que no tuvimos ciertas nociones, empezar con algo así no fue fácil, pero no por su complejidad, si no mas bien por que tuvimos un mal comienzo y quizás quisimos correr en lugar de aprender bueno fundamentos..
+En mi opinión la programación no es algo tan difícil, para muchos de nosotros que no tuvimos ciertas nociones, empezar con algo así no fue fácil, pero no por su complejidad, si no mas bien por que tuvimos un mal comienzo y quizás quisimos correr en lugar de aprender buenos fundamentos..
 
 Un poco mas tarde me di cuenta que lo que distingue a muchos programadores de otros es su creatividad, para poder iniciar el desarrollo de algo tan simple o tan complejo como su mente visualice.
 
@@ -14,9 +14,11 @@ Por lo que la programación es una disciplina que requiere simultáneamente del 
 La creatividad necesaria para programar no se diferencia demasiado de aquella utilizada para producir textos. Sin embargo, lo que hace a la programación algo especial es que requiere emplear un conjunto de conocimientos técnicos asociados a la manipulación de las computadoras. Esto agrega un grado notable de rigurosidad a esta actividad, ya que no podemos programar sin tener en cuenta este aspecto. Por otra parte, al poseer una naturaleza ligada a la resolución de diferente problemas del mundo real, se requiere de una capacidad de abstracción que permita operar sin que los conocimientos técnicos limiten al programador a resolver adecuadamente dichos problemas.
 
 Por ejemplo actividades que requieren:
-- Un uso intensivo de la creatividad son relacionadas comúnmente con el Arte.
-- Conocimientos técnicos profundos son los relacionados con la medicina, electrónica y química.
-- Operar continuamente en abstracto son las relacionadas con filosofía, lógica y matemáticas.
+> Un uso intensivo de la creatividad son relacionadas comúnmente con el Arte.
+
+> Conocimientos técnicos profundos son los relacionados con la medicina, electrónica y química.
+ 
+>Operar continuamente en abstracto son las relacionadas con filosofía, lógica y matemáticas.
 
 A lo largo de la vida seguiremos enfrentando continuamente con todo tipo de problemas. Para ellos nos valdremos de distintas herramientas, que combinadas de maneras innovadoras ampliaremos el espectro de soluciones y vuelven factible el desarrollo de cualquier programa.
 
