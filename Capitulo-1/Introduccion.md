@@ -18,7 +18,7 @@ Por ejemplo actividades que requieren:
 
 > Conocimientos técnicos profundos son los relacionados con la medicina, electrónica y química.
  
->Operar continuamente en abstracto son las relacionadas con filosofía, lógica y matemáticas.
+> Operar continuamente en abstracto son las relacionadas con filosofía, lógica y matemáticas.
 
 A lo largo de la vida seguiremos enfrentando continuamente con todo tipo de problemas. Para ellos nos valdremos de distintas herramientas, que combinadas de maneras innovadoras ampliaremos el espectro de soluciones y vuelven factible el desarrollo de cualquier programa.
 
@@ -27,7 +27,7 @@ Algo muy cierto es que a los que les guste la programación se podrán dedicar a
 # Conceptos de la programación
 Lo que nos lleva a definir formalmente que es un programa:
 
-> Un Programa es una descripción ejecutable de soluciones a problemas computacionales, es decir, un texto descriptivo que al ser procesado por una computadora da solución a un problema propuesto. De esta manera, la parte descriptiva de los programas es el texto que el programador le provee a la computadora.
+> Un **Programa** es una descripción ejecutable de soluciones a problemas computacionales, es decir, un texto descriptivo que al ser procesado por una computadora da solución a un problema propuesto. De esta manera, la parte descriptiva de los programas es el texto que el programador le provee a la computadora.
 
 Y como dijimos antes las descripciones dadas por los programas pueden estar escritas con diferentes símbolos y para diferentes propósitos.
 
