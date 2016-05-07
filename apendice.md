@@ -20,7 +20,7 @@ Considero que esta es una verdad que aplica tambien en esto:
 
 ![gustea](Imagenes/gustea.png)
 
-> "Cualquiera puede programar".
+> "*Cualquiera puede programar*".
 
 Es importante destacar que el nivel de complejidad de los temas aumenta en forma gradual, y cada uno tratare de hacerlo con la mayor amplitud y claridad posible.
 
