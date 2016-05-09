@@ -8,7 +8,7 @@
 * [Iniciando con la Programación.](Capitulo-1/README.md)
     * [Introducción](Capitulo-1/Introduccion.md) 
     * [Metodología de la programación](Capitulo-1/Metodologias.md)
-    * Buenas Practicas
+    * [Buenas Practicas](Capitulo-1/Buenas-Practicas.md)
     * [Editores](Capitulo-1/Editores.md)
 * [Introdución al lenguaje C](Capitulo-2/README.md)
     * [Historia](Capitulo-2/Historia.md)
