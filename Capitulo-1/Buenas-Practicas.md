@@ -1,2 +1,2 @@
 # Buenas Practicas al Programar.
-Como lo mencione al principio, basicamente en este libro nos centraremos en aprender el *como* podemos contribuir o empezar algun proyecto open source 
+Como lo mencione al principio, básicamente en este libro nos centraremos en aprender el lenguaje C para saber el **como** contribuir o empezar algún proyecto *open source*, aun hoy día existen tantas aplicaciones que usan el lenguaje C y es
