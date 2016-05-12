@@ -6,6 +6,6 @@ En esta parte nos adentraremos en el interesante mundo del lenguaje C, por un la
 void main()
 {
   printf("Introducción al lenguaje C");
-  return (EXIT_SUCCESS);     #Tambien puede llevar un cero por lo que EXIT_SUCCESS == 0
+  return (0);
 }
 ```
