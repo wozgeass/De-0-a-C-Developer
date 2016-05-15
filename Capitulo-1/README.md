@@ -7,5 +7,6 @@ En esta parte aprenderás varios conceptos básicos, entre ellos:
 * **¿Qué es un paradigma?**
 * **¿Qué es un diagrama de flujo?**
 * **¿Qué es el pseudocodigo?**
+* **Las buenas practicas en la programacion**
 * **Editor de Texto a utilizar.**
 
