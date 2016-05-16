@@ -99,9 +99,9 @@ Como siempre mi recomiendación sera la siguiente:
     Para Suse deberas usar el comando siguiente:
     > **zypper install vim**
 
-Una vez realizado todo esto seguiremos viendo como funciona vim. 
+Una vez realizado todo esto seguiremos viendo como funciona **vim**. 
 
-La ultima versión de vim es la **7.4.1831** hasta Mayo 2016.
+La ultima versión de **vim** es la **7.4.1831** hasta Mayo 2016.
 
 Para iniciar a ocupar el editor tendrás que hacerlo desde una terminal ejecutando lo siguiente:
 
@@ -115,7 +115,7 @@ De manera básica vim tiene varios modos entre ellos.
 - **Insertar**
 - *Entre algunos mas.*
 
-Cuando entras a vim inicias el modo normal:
+Cuando entras a **vim** inicias el modo normal:
 ![VimModes](/Imagenes/VimTutorial/VimModes.png)
 
 Pero al teclear algunas letras puedes acceder a algunos modos, aun que te parezca muy difícil al comienzo veras que te vas a acostumbrar muy pronto.
@@ -134,7 +134,7 @@ Para eso deberas pulsa la tecla "**Esc**" para asegurarte de que estas en modo *
 ![VimModes](/Imagenes/VimTutorial/Tecla-Esc.svg)
 
 Para salir de archivo sin guardar nada deberas pulsar las teclas:
-:q! <Enter>
+**:q! <Enter>**
 ![VimModes](/Imagenes/VimTutorial/Salir-Sin-Guardar.svg)
 
 Para salir del archivo guardando los cambios deberas pulsar las teclas: :wq <Enter>
