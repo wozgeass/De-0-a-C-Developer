@@ -88,13 +88,13 @@ Como siempre mi recomiendación sera la siguiente:
 - De otro modo te recomiendo instalar vim con el gestor de paquetes de la distribución que estés ocupando:
 
     Para fedora deberás usar el siguiente comando:
-    >dnf install vim
+    >**dnf install vim**
     
     Para Ubuntu o Debian deberás usar el siguiente comando:
-    >apt install vim ó apt-get install vim
+    >**apt install vim** ó **apt-get install vim**
     
     Para ArchLinux deberás usar el comando siguiente:
-    >pacman -S vim
+    >**pacman -S vim**
 
 Una vez realizado todo esto seguiremos viendo como funciona vim. 
 
