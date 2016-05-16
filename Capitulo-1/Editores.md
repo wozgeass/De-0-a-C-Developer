@@ -137,14 +137,14 @@ Para salir de archivo sin guardar nada deberas pulsar las teclas:
 **:q! <Enter>**
 ![VimModes](/Imagenes/VimTutorial/Salir-Sin-Guardar.svg)
 
-Para salir del archivo guardando los cambios deberas pulsar las teclas: :wq <Enter>
+Para salir del archivo guardando los cambios deberas pulsar las teclas: **:wq <Enter>**
 ![VimModes](/Imagenes/VimTutorial/Salir-Y-Guardar.svg)
 
-Si lo que quieres es solo guardar tu archivo sin salir lo lograras pulsando las siguiente teclas:  :w <ENTER>
+Si lo que quieres es solo guardar tu archivo sin salir lo lograras pulsando las siguiente teclas:  **:w <ENTER>**
 ![VimModes](/Imagenes/VimTutorial/Solo-Guardar.svg)
 
 ### Moviendo el cursor.
-Para mover el cursor, pulse las teclas H,J,K,L de la forma que se indica.
+Para mover el cursor, pulse las teclas **H**,**J**,**K**,**L** de la forma que se indica.
 
 ![Teclas de Movimiento](/Imagenes/VimTutorial/Moverse.svg)
 
