@@ -40,39 +40,39 @@ Soporta la edición de derecha-a-izquierda (ej. con el **Árabe**, **Farsi**, **
 
 Vamos a poder seleccionar el texto "**visualmente**" antes de que "*operen*" en él, ej. copiar, remover, substituir, mover la posición a la izquierda o derecha, cambiar la capitalización de las letras o el formato del texto incluso preservando la indentación del mismo.  También la selección y operaciones en bloques de texto rectangulares.
 
-Vim tiene comandos que completan su entrada de información sea con comandos, nombres de fichero, o palabras.
+**Vim** tiene comandos que completan su entrada de información sea con comandos, nombres de fichero, o palabras.
 
 Del mismo modo tiene "*autocommands*" para la ejecución automática de los comandos (ej. Decompresión automática de ficheros comprimidos).
-Vim reconoce automáticamente el tipo de ficheros (**DOS**, **mac**, **Unix**) y también le permite el guardar el archivo en cualquier otro formato ¡no hay necesidad de usar unix2dos para usar en Windows nunca más!
+Reconoce automáticamente el tipo de ficheros (**DOS**, **mac**, **Unix**) y también le permite el guardar el archivo en cualquier otro formato ¡no hay necesidad de usar unix2dos para usar en Windows nunca más!
 
-Vim tiene una "*historia*" para los comandos y las búsquedas, así que usted puede llamar nuevamente los comandos o el patrón de búsqueda anteriores para editarlos.
+Tiene un "*historial*" para los comandos y las búsquedas, así que puedes llamar nuevamente los comandos o el patrón de búsqueda anteriores para editarlos.
 
-Vim permite "*grabar*" una serie de acciones de edición para poder ejecutarlas nuevamente cuando se realizan tareas repetitivas.
+Permite "*grabar*" una serie de acciones de edición para poder ejecutarlas nuevamente cuando se realizan tareas repetitivas.
 
-Vim tiene límites de memoria mucho más grandes para la longitud de línea y el tamaño del almacenador intermediario (buffer) en comparación con VI normal.
+Tiene límites de memoria mucho más grandes para la longitud de línea y el tamaño del almacenador intermediario (buffer) en comparación con **VI** normal.
 
-Vim permite corregir de múltiples almacenadores intermediarios y puedes partir la pantalla en muchas *sub-ventanas* (**horizontal** o **verticalmente**), así que vas a poder ver muchos ficheros o muchas partes de algunos ficheros.
+Permite corregir de múltiples almacenadores intermediarios y puedes partir la pantalla en muchas *sub-ventanas* (**horizontal** o **verticalmente**), así que vas a poder ver muchos ficheros o muchas partes de algunos ficheros.
 
-Vim tiene un lenguaje de escritura incorporado para poder extenderlo facilemente.
+Tiene un lenguaje de escritura incorporado para poder extenderlo facilmente.
 
-Vim permite el usar desplazamientos relativos para los comandos de búsqueda, así que se puede poner el cursor inmediatamente en el lugar *después* del texto encontrado.
+Permite el usar desplazamientos relativos para los comandos de búsqueda, así que se puede poner el cursor inmediatamente en el lugar *después* del texto encontrado.
 
-Vim permite para salvar la información de una sesión de edición en un fichero ("*viminfo*") lo cual permite que sean usados en una subsecuente sesión de edición, ej.  la lista de almacenadores intermediarios, de las marcas de fichero, de los registros, comandos y de la historia de las búsquedas.
+Permite para salvar la información de una sesión de edición en un fichero ("*viminfo*") lo cual permite que sean usados en una subsecuente sesión de edición, ej.  la lista de almacenadores intermediarios, de las marcas de fichero, de los registros, comandos y de la historia de las búsquedas.
 
-Vim puede expandir las tabulaciones dentro del texto usando caracteres de espacio (**expandtab**,**retab* **).
+Puede expandir las tabulaciones dentro del texto usando caracteres de espacio (**expandtab**, **retab* **).
 
-Vim permite el encontrar texto en ficheros usando un índice con las "*etiquetas*" (**tags* ***) junto con muchos otros comandos que manipulan la lista de etiquetas.
+Permite el encontrar texto en ficheros usando un índice con las "*etiquetas*" (**tags* ***) junto con muchos otros comandos que manipulan la lista de etiquetas.
 
-Vim muestra el texto en color según su "*lenguaje de programación*".  Tu mismo puedes definir el "**lenguaje**" ("**sintaxis**") de los ficheros.
+Muestra el texto en color según su "*lenguaje de programación*".  Tu mismo puedes definir el "**lenguaje**" ("**sintaxis**") de los ficheros.
 Viene con muchisimos ficheros de sintaxis para la colorisación del texto
-en los lenguajes de programación comunes (**Ada**, **C**, **C++**, **Eiffel**, **FORTRAN**, **Haskell**, **Java**, **lisp**, **Modula**, **PASCAL**, **prolog***, **Python**, **scheme**, **SQL**, **Verilog**, **VisualBasic**, **Ensamblador**, **Ruby**, **Javascript**), programas de matemáticas (**arce**, **Matlab**, **Mathematica**, **SAS**), texto que use marcado específico (**DocBook**, **HTML**, **LaTeX**, **PostScript**, **SGML-LinuxDoc**, **TeX**, **WML**, **XML**, **Markdown**, **Json**), retornos de programas (**diff**), ficheros de la configuració de programas (**Apache**, **autoconfig**, **BibTeX**, **CSS**, **CVS**, **IDL**, **LILO**, **mail**, **samba**,**Grub**, **Nginx**), lenguajes de escritura del procesador de comandos (**Shell**) y  de configuración (shells: **sh**, **csh**, **ksh**, **zsh**), lenguajes de procesamiento de texto (**awk**, **gawk**, **Perl**, **sed**, **yacc**), ficheros de sistema (*printcap*, *Xdefaults*) y por supuesto para Vim y sus textos de ayuda.
+en los lenguajes de programación comunes (**Ada**, **C**, **C++**, **Eiffel**, **FORTRAN**, **Haskell**, **Java**, **lisp**, **Modula**, **PASCAL**, **prolog***, **Python**, **scheme**, **SQL**, **Verilog**, **VisualBasic**, **Ensamblador**, **Ruby**, **Javascript**), programas de matemáticas (**arce**, **Matlab**, **Mathematica**, **SAS**), texto que use marcado específico (**DocBook**, **HTML**, **LaTeX**, **PostScript**, **SGML-LinuxDoc**, **TeX**, **WML**, **XML**, **Markdown**, **Json**), retornos de programas (**diff**), ficheros de la configuración de programas (**Apache**, **autoconfig**, **BibTeX**, **CSS**, **CVS**, **IDL**, **LILO**, **mail**, **samba**,**Grub**, **Nginx**), lenguajes de escritura del procesador de comandos (**Shell**) y  de configuración (shells: **sh**, **csh**, **ksh**, **zsh**), lenguajes de procesamiento de texto (**awk**, **gawk**, **Perl**, **sed**, **yacc**), ficheros de sistema (*printcap*, *Xdefaults*) y por supuesto para **Vim** y sus textos de ayuda.
 
 Ademas de que tiene otras extensiones como snipets, o verificadores de sintaxis que lo hacen mucho mas potente y mas cercano a un **IDE**, de ahí que les este dando una pequeña entrada sobre lo extraordinario que me resulta este editor.
 
-En este momento me encuentro trabajando en algunas extensiones precisamente con este editor para hacerlo mas robusto y poder usarlo mas como un IDE para los lenguajes **C**, **C++**, **LaTeX**, **Python**, **Bash** entre otros. Al mismo tiempo estoy recolectando algunos scripts que me resalten sintaxis en varias librerías entre ellas esta **Gtk**, **Gdk**, **MPI**, **OpenGL**, **ANSI-C**, me encuentro trabajando en la actualización de **Gtk**, **Gdk**, **Ncurses** y la de **Linux Kernel-API**.
+En este momento me encuentro trabajando en algunas extensiones precisamente con este editor para hacerlo mas robusto y poder usarlo mas como un **IDE** para los lenguajes **C**, **C++**, **LaTeX**, **Python**, **Bash**, **Java**, **Javascript**, **Web** entre otros. Al mismo tiempo estoy recolectando algunos scripts que me resalten sintaxis en varias librerías entre ellas esta **Gtk**, **Gdk**, **MPI**, **OpenGL**, **ANSI-C**, me encuentro trabajando en la actualización de **Gtk**, **Gdk**, **Ncurses** y la de **Linux Kernel-API**.
 
 ## Iniciando con vim
-Ya vimos por que vim es un editor muy potente y que ademas dispone de muchos mandatos, demasiados para ser explicados en este libro. Esta parte está dedicada para describir suficientes mandatos para que seas capaz de aprender fácilmente a usar vim como un editor de propósito general.
+Ya vimos por que **vim** es un editor muy potente y que ademas dispone de muchos mandatos, demasiados para ser explicados en este libro. Esta parte está dedicada para describir suficientes mandatos para que seas capaz de aprender fácilmente a usar **vim** como un editor de propósito general.
 
 Es importante recordar que está parte es pensada para enseñar con la práctica. Esto significa que es necesario ejecutar los mandatos para aprenderlos adecuadamente. Si únicamente se lee el texto, se olvidarán los mandatos.
 
@@ -85,16 +85,19 @@ Para poder iniciar a usar el editor primero deberemos descargarlo para esto les 
 Como siempre mi recomiendación sera la siguiente:
 
 - Compilar unicamente si cumples con las dependencias de construcción y sabes lo que haces.
-- De otro modo te recomiendo instalar vim con el gestor de paquetes de la distribución que estés ocupando:
+- De otro modo te recomiendo instalar **vim** con el gestor de paquetes de la distribución que estés ocupando:
 
     Para fedora deberás usar el siguiente comando:
-    >**dnf install vim**
+    > **dnf install vim**
     
     Para Ubuntu o Debian deberás usar el siguiente comando:
-    >**apt install vim** ó **apt-get install vim**
+    > **apt install vim** ó **apt-get install vim**
     
     Para ArchLinux deberás usar el comando siguiente:
-    >**pacman -S vim**
+    > **pacman -S vim**
+
+    Para Suse deberas usar el comando siguiente:
+    > **zypper install vim**
 
 Una vez realizado todo esto seguiremos viendo como funciona vim. 
 
