@@ -1,6 +1,6 @@
 # Relación computadoras y los lenguajes de programación.
 Esta parte es un sugerencia de varias personas donde piden que se explique un poco mas a detalle como se relacionan las computadoras con los lenguajes de programación, lo quise omitir pensando que eso lo podrian buscar en algunos otros libros pero creo que no estaria completo el libro sin esta parte.
-Las computadoras hoy en dia se han convertido en una herramienta esencial en muchas areas: industria, gobierno, ciencia, educación, etc. El papel de los programas y aplicaciones juega un papel crucial; sin una lista de instrucciones a seguir, la computadora es virtualmente inútil. Y los lenguajes de programación nos permiten escribir esos programas y, por consiguiente, comunicarnos con las computadoras a traves de ellos.
+Las computadoras hoy en día se han convertido en una herramienta esencial en muchas areas: industria, gobierno, ciencia, educación, etc. El papel de los programas y aplicaciones juega un papel crucial; sin una lista de instrucciones a seguir, la computadora es virtualmente inútil. Y los lenguajes de programación nos permiten escribir esos programas y, por consiguiente, comunicarnos con las computadoras a traves de ellos.
 Una computadora procesa los datos y los convierte en información significativa. Para conseguir esos resultados, un programador necesita conocimientos tanto de hardware como de software.
 
 ## Organizacion de una computadora.
