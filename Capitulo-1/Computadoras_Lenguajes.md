@@ -13,4 +13,4 @@ Aunque a primera vista puedan parecer sinónimos los **datos** e **información*
 > La **información**, por otra parte, son datos procesados.
 
 La información tiene datos significativos; los datos en su forma original (en bruto) no lo son tanto. La computadora procesa esos datos y la información significativa es el resultado que se conoce muy comúnmente como *salida*.
-Los datos, por si mismo no sirven de mucho y no son muy útiles para las personas que los crean 
+Los datos, por si mismo no sirven de mucho y no son muy útiles para las personas que los manipulan y necesitan tomar desiciones con ellos.
