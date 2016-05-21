@@ -18,3 +18,23 @@ No te quiero engañar este capitulo no te hara mejor programador solo intentara 
 Pero todo esto requiere algo mas que conocer principios y patrones, deberemos practicarlo y fallar y volver a intentarlo, incluso debes ver como otros practican y fallan recuperandose al paso, o ver el precio que pagan por tomar decisiones equivocadas.
 
 Si eres un programador con algunos años de experiencia, probablemente ya sufriste los desastres cometidos por otros en el código. En un periodo de algunos años los equipos que avanzaban a pasos agigantados pueden acabar a pasos de tortuga. Cada cambio en el código afecta a dos o tres partes del mismo. Ningun cambio sera trivial. Y para ampliar o modificar el código sera necesario comprender todos los detalles, efectos y consecuencias, para de ese modo poder añadir nuevos detalles, efectos y consecuencias. Con el tiempo, el desastre aumenta de tal modo que no se puede remediar.
+
+Al aumentar este desastre, la productividad del equipo disminuye y acaba por desaparecer. Al reducirse la productividad, el encargado hace lo unico que puede; ampliar la plantilla del proyecto con la esperanza de aumentar la productividad. Pero esa nueva plantilla no conoce el diseño del sistema. No conoce la diferencia entre un cambio adecuado al objetivo de diseño y otro que lo destroce. Por tanto todos se encuentran sometidos a una gran presion para aumentar la productividad. Por ello, cometen mas errores, aumentando el desastre y la productividad se acerca a cero cada vez mas y mas.
+
+En ultima instancia, el equipo se rebela. Informan al encargado que no pueden seguir trabajando con ese codigo. Exigen un cambio de diseño. La direccion no requiere invertir en un cambio de diseño del proyecto pero no pueden ignorar el bajo nivel de productividad. Acaba por ceder a las exigencias de los programadores y autoriza el gran cambio de diseño. Se selecciona un nuevo equipo. Todos requiren formar parte del nuevo equipo por ser lienzo en blanco. Pueden empezar de cero y crear algo realmente bello, pero solo los mejores seran elegidos para el nuevo equipo. Los demas deben continuar con el mantenimiento del sistema actual.
+
+Ahora los 2 equipos compiten. El nuevo debe crear un sistema que haga lo que el antiguo no puede. Ademas, debe asumir los cambios que continuamente se aplican al sistema antiguo. El encargado no sustituira el sistema antiguo hasta que el nuevo sea capaz de hacer todo lo que hace el antiguo.
+
+Esta competicion puede durar mucho tiempo. Y cuando acaba, los miembros originales
+
+
+
+
+
+
+
+
+
+
+
+
