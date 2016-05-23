@@ -87,16 +87,16 @@ Como siempre mi recomendación sera la siguiente:
 - Compilar unicamente si cumples con las dependencias de construcción y sabes lo que haces.
 - De otro modo te recomiendo instalar **vim** con el gestor de paquetes de la distribución que estés ocupando:
 
-    Para fedora deberás usar el siguiente comando:
+    Para **Fedora** deberás usar el siguiente comando:
     > **dnf install vim**
     
-    Para Ubuntu o Debian deberás usar el siguiente comando:
+    Para **Ubuntu** o **Debian** deberás usar el siguiente comando:
     > **apt install vim** ó **apt-get install vim**
     
-    Para ArchLinux deberás usar el comando siguiente:
+    Para **ArchLinux** deberás usar el comando siguiente:
     > **pacman -S vim**
 
-    Para Suse deberás usar el comando siguiente:
+    Para **Suse** deberás usar el comando siguiente:
     > **zypper install vim**
 
 Una vez realizado todo esto seguiremos viendo como funciona **vim**. 
