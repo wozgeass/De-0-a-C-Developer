@@ -33,7 +33,7 @@ Y como dijimos antes las descripciones dadas por los programas pueden estar escr
 
 Cuando el código consiste mayormente de palabras y nociones que son mas sencillas para que manejen las personas, con el objetivo de que puedan entender y construir los programas, hablamos de un lenguaje de **Alto Nivel**, y al código resultante lo llamaremos **código de fuente**.
 
-Cuando el código consiste mayormente de números y símbolos de difícil compresión para las personas, pero de rápida ejecución por una maquina, hablamos de un lenguaje de **bajo nivel**, y al código resultante lo llamamos **código objeto** o **código ejecutable**. Por lo que hablariamos de un **alto nivel de abstracción** cuando nos referíamos a la abstracciones mas cercanas a las ideas del problema a ser solucionado, a la mente de los programadores; y de **bajo nivel de abstracción** cuando nos refiramos a abstracciones mas cercanas a las ideas relacionadas a la forma de funcionamiento de las computadoras.
+Cuando el código consiste mayormente de números y símbolos de difícil compresión para las personas, pero de rápida ejecución por una maquina, hablamos de un lenguaje de **bajo nivel**, y al código resultante lo llamamos **código objeto** o **código ejecutable**. Por lo que hablaríamos de un **alto nivel de abstracción** cuando nos referíamos a la abstracciones mas cercanas a las ideas del problema a ser solucionado, a la mente de los programadores; y de **bajo nivel de abstracción** cuando nos refiramos a abstracciones mas cercanas a las ideas relacionadas a la forma de funcionamiento de las computadoras.
 
 Es importante observar que tanto el código fuente como el código ejecutable están conformados por símbolos, y en este sentido es correcto llamar a ambos programas. Esto suele crear cierta confusión, pues entonces  la palabra programa se utiliza para dos propósitos diferentes:
 
@@ -42,7 +42,7 @@ Es importante observar que tanto el código fuente como el código ejecutable es
 
 El primer punto sera el punto de estudio en este libro y el segundo es el resultado de varios procesos de traducción y compilación sobre el código fuente, que veremos un poco mas adelante en un apartado especial.
 
-Si bien cuando escribimos el código fuente de un programa utlilizamos símbolos como los del lenguaje natural, este texto debe ser capaz de poder ejecutarse por medio de la traducción que realiza nuestro compilador. Siendo esta característica la que hace que los programas se diferencien de otros textos, ya que no cualquier texto es ejecutable por una computadora. Lo hace a un texto ejecutable es mas bien su *sintaxis dura*, que no es mas que un conjunto de reglas estrictas de un determinado lenguaje de programación. con las que se escribe el código fuente.
+Si bien cuando escribimos el código fuente de un programa utilizamos símbolos como los del lenguaje natural, este texto debe ser capaz de poder ejecutarse por medio de la traducción que realiza nuestro compilador. Siendo esta característica la que hace que los programas se diferencien de otros textos, ya que no cualquier texto es ejecutable por una computadora. Lo hace a un texto ejecutable es mas bien su *sintaxis dura*, que no es mas que un conjunto de reglas estrictas de un determinado lenguaje de programación. con las que se escribe el código fuente.
 
 > Los programadores tienen que balancear dos mundos bien diferente: un mundo de estructura y un mundo de imaginación. Creando conceptos abstractos usando lenguajes de programación muy estructurados.
 [Programmer-Creativity-Boost](http://lifedev.net/2008/07/programmer-creativity-boost/)
@@ -77,7 +77,7 @@ Los cuatro paradigmas de programación que surgieron a fines de los **60s** y pr
 3. El paradigma *Funcional*.
 4. El paradigma *Lógico*.
 
-Los dos primeros están mas orientados a la forma de manejar estados y podrían ser denominados **procedurales**, mientras que los 2 últimos están mas orientados a expresar conceptos o nociones independientes del estado y podrian ser denominados **declarativos**. El paradigma que se desarrollo con mayor ímpetu al principio fue el imperativo, debido a su cercanía con los lenguajes de bajo nivel. Los otros tardaron mas tiempo en adoptar un estado de madurez, y no fue hasta mediados de la década de **80s** que tanto el paradigma funcional como el lógico y el orientado a objetos empezó a ser foco de atención masiva.
+Los dos primeros están mas orientados a la forma de manejar estados y podrían ser denominados **procedurales**, mientras que los 2 últimos están mas orientados a expresar conceptos o nociones independientes del estado y podrían ser denominados **declarativos**. El paradigma que se desarrollo con mayor ímpetu al principio fue el imperativo, debido a su cercanía con los lenguajes de bajo nivel. Los otros tardaron mas tiempo en adoptar un estado de madurez, y no fue hasta mediados de la década de **80s** que tanto el paradigma funcional como el lógico y el orientado a objetos empezó a ser foco de atención masiva.
 
 Dentro del paradigma imperativo se clasifican lenguajes mas vinculados con la secuencia de instrucción y mas cercano al ensamblador. Algunos nombres notables que surgieron en esa época dentro del paradigma imperativo, y  aun conocidos hoy en día son:
 - **Basic**, desarrollado en 1965 por John Kemey y Thomas Kurtz con la intención de que se convirtieran en un lenguaje de enseñanza.
@@ -87,9 +87,9 @@ Dentro del paradigma imperativo se clasifican lenguajes mas vinculados con la se
 Y la fama y el motivo en el que nos centraremos en ese lenguaje se debe a que por la característica anterior en su diseño, fue utilizado en la programación del sistema operativo **UNIX** y fue ampliamente portado a numerosos sistemas. Es uno de los lenguajes mas difundidos y conocidos de todos los tiempos, y su estudio implica un conocimiento profundo de la forma en que se ejecutan un gran numero de aplicaciones en **Linux**, **Unix** y otros sistemas operativos.
 
 Dentro del paradigma funcional se clasifican lenguajes orientados a la descripción  de datos, de su forma, las relaciones entre ellos, y sus transformaciones. Si bien inicialmente no fueron tan populares, la investigación llevo a este paradigma a la madurez y desde el mismo se realizaron grandes aportes a todos los lenguajes modernos. Algunos lenguajes que surgieron en esa época dentro de este paradigma son: 
-- **ML**, desarrollado por Robin Milner y otros a principios de los 70s en la universidad de Edimburgo en Reino Unido con el proposito de servir para desarrollar tácticas de prueba en herramientas de demostracion automatica de teoremas, utilizando un sistema de tipos estáticos que es una de sus grandes innovaciones.
+- **ML**, desarrollado por Robin Milner y otros a principios de los 70s en la universidad de Edimburgo en Reino Unido con el propósito de servir para desarrollar tácticas de prueba en herramientas de demostración automática de teoremas, utilizando un sistema de tipos estáticos que es una de sus grandes innovaciones.
 - **Miranda**, desarrollado por David Turner en 1985 como sucesor de sus primeros lenguajes de programación SASL y KRC, incorporando conceptos aprendidos del lenguaje ML y Scheme, derivado como dialecto de LISP por Guy L. Stele and Gerald J. Sussman en el laboratorio de Inteligencia artificial del MIT, siguiendo principios de minimalidad en la cantidad de conceptos distintos a proveer, pero conservando un gran poder expresivo.
-- **Haskel**, en Honor de Haskell B. Curry, se publico por primera vez en 1990, y es actualmente el lenguaje  de alto nivel con mayor pureza conceptual, expresando el estado del arte en el desarrollo de lenguaje de programación funcional. Su impacto en la comprención de conceptos de alto nivel no puede ser ignorada por un programador actual.
+- **Haskel**, en Honor de Haskell B. Curry, se publico por primera vez en 1990, y es actualmente el lenguaje  de alto nivel con mayor pureza conceptual, expresando el estado del arte en el desarrollo de lenguaje de programación funcional. Su impacto en la comprensión de conceptos de alto nivel no puede ser ignorada por un programador actual.
 
 Dentro del paradigma orientado a objetos se encuentran lenguajes que agrupan el código alrededor de la metáfora de objeto, y que intenta representar mediante datos encapsulados las entidades del mundo real. Al ya mencionado lenguaje SIMULA, pionero de los lenguajes orientados a objetos, y algunos otros como:
 - **SmallTalk**, creado en el Learning Research Group de Xerox por Alan Kay y Otros, también en los 70s, Pensado con fines educacionales basándose en la teoría constructivista del aprendizaje. Siendo la base del desarrollo posterior en tecnología de objetos, que hoy es uno de los pilares de la construcción moderna de software.
@@ -102,7 +102,7 @@ Seguramente te veras que ademas de Prolog existe otro lenguaje llamado lisp,  es
 
 Cada uno de los lenguajes mencionados dejo un sin numero de descendientes y prácticamente todos  los lenguajes modernos se vinculan, de una forma u otra, con algunos de estos.
 
-Otro gran avance de esta época fue el desarrollo de lo que dio en llamarse programación estructurada, que sucedió dentro del paradigma imperativo, y consistió fundamentalmente en aumentar la abstracción de los lenguajes, eliminando primitivas de control desestructurado, o sea, que permitan moverse libremente por el código, sin tener en cuenta su estructura lógica.
+Otro gran avance de esta época fue el desarrollo de lo que dio en llamarse programación estructurada, que sucedió dentro del paradigma imperativo, y consistió fundamentalmente en aumentar la abstracción de los lenguajes, eliminando primitivas de control des-estructurado, o sea, que permitan moverse libremente por el código, sin tener en cuenta su estructura lógica.
 
 # Algoritmo
 Las personas efectuamos cotidianamente series de pasos, procedimientos o acciones que nos permiten alcanzar algún resultado o resolver algún problema. Estas series de pasos, procedimientos o acciones, comenzamos a aplicarlas desde que empieza el día, cuando, por ejemplo, decidimos bañarnos. Posteriormente, cuando tenemos que ingerir alimentos también seguimos una serie de pasos que nos permiten alcanzar un resultado especifico. Y la historia se repite un innumerable numero de veces. En realidad todo el tiempo estamos aplicando algoritmos para resolver problemas.
@@ -149,8 +149,8 @@ La tabla y las imágenes que veremos a continuación se utilizaran, junto con un
 |![Inicio o fin](/Imagenes/Circulo.svg)|Se utiliza para marcar el inicio y el fin del diagrama de flujo|
 |![Lectura](/Imagenes/RectanguloLadeado.svg)|Se utiliza para introducir los datos de entrada, expresando lectura|
 |![Proceso](/Imagenes/Rectangulo.svg)|Representa un proceso. En su interior se colocan asignaciones, operaciones aritméticas, cambios de valor de variables|
-|![Decision](/Imagenes/Rombo.svg)|Se utiliza para representar una dicisión. En su interior se almacena una condición, y, dependiendo del resultado se sigue por una de las ramas o camino alternativos. Este símbolo se utiliza con pequeñas variaciones en las estructuras selectivas if e if-else que veremos en otros capítulos, así como en las estructuras repetitivas for, while y do-while|
-|![Multiple Decision](/Imagenes/Pulpo.svg)|Se utiliza para representar una decisión múltiple, switch, que analizaremos también mas adelante. En su interior se almacena un selector, y, dependiendo del valor de dicho selector, se sigue por una de las ramas o caminos alternativos|
+|![Decision](/Imagenes/Rombo.svg)|Se utiliza para representar una decisión. En su interior se almacena una condición, y, dependiendo del resultado se sigue por una de las ramas o camino alternativos. Este símbolo se utiliza con pequeñas variaciones en las estructuras selectivas if e if-else que veremos en otros capítulos, así como en las estructuras repetitivas for, while y do-while|
+|![Multiple Decisión](/Imagenes/Pulpo.svg)|Se utiliza para representar una decisión múltiple, switch, que analizaremos también mas adelante. En su interior se almacena un selector, y, dependiendo del valor de dicho selector, se sigue por una de las ramas o caminos alternativos|
 |![Escritura](/Imagenes/RectanguloMordido.svg)|Se utiliza para representar la impresión de un resultado, expresando escritura|
 |![Direccion](/Imagenes/Flechas.svg)|Expresan la dirección del flujo del diagrama|
 |![Coneccion](/Imagenes/Circulo.svg)|Expresa conexión dentro de una misma pagina|
@@ -177,27 +177,27 @@ Aun que me parecen muy interesantes como primer acercamiento a la programación 
 Sin embargo cuando el algoritmos se complica, el diagrama de flujo se convierte en ininteligible. Ademas los diagramas de flujo no facilitan el aprendizaje de la programación estructurada.
 
 #Pseudocodigo
-Las bases de la programación estructurada fueron enunciadas por **Niklaus Wirdth**. Segun este cientifico cualquier problema algoritmico podia resolverse con el uso de estos 3 tipos de instrucciones:
-1. **Secuenciales** Instrucciones que se ejecutan en orden normal. El flujo del programa  ejecuta la instruccion y pasa a ejecutar la siguiente.
-2. **Alternativas** Instrucciones en las que se evalua una condicion y dependiendo si el resultado es verdadero o no, el flujo del programa se dirigira a una instruccion u otra.
-3. **Iterativas** Instrucciones que se repiten continuamente hasta que se cumple una determinada condicion.
+Las bases de la programación estructurada fueron enunciadas por **Niklaus Wirdth**. Segun este científico cualquier problema algorítmico podía resolverse con el uso de estos 3 tipos de instrucciones:
+1. **Secuenciales** Instrucciones que se ejecutan en orden normal. El flujo del programa  ejecuta la instrucción y pasa a ejecutar la siguiente.
+2. **Alternativas** Instrucciones en las que se evaluá una condición y dependiendo si el resultado es verdadero o no, el flujo del programa se dirigirá a una instrucción u otra.
+3. **Iterativas** Instrucciones que se repiten continuamente hasta que se cumple una determinada condición.
 
-El tiempo le ha dado completamente la razon y ha generado un programacion que insta a todo programador a utilizar solo instrucciones de esos 3 tipos. Es lo que se conoce como programacion estructurada.
+El tiempo le ha dado completamente la razón y ha generado un programación que insta a todo programador a utilizar solo instrucciones de esos 3 tipos. Es lo que se conoce como programación estructurada.
 
 Pero el propio **Niklaus Wirdth** diseño el lenguaje pascal como el primer lenguaje estructurado. Lo malo es que pascal al ser un lenguaje completo incluye instrucciones excesivamente orientadas al ordenador.
 
-Por lo que en aquella epoca se aconsejo para el diseño de algoritmos estructurados el uso de un lenguaje especial llamado pseudocodigo, que ademas de puede traducir a cualquier idioma y lenguaje de programacion.
+Por lo que en aquella época se aconsejo para el diseño de algoritmos estructurados el uso de un lenguaje especial llamado pseudocodigo, que ademas de puede traducir a cualquier idioma y lenguaje de programación.
 
-EL pseudocodigo ademas permiteel diseño modular de programas y el diseño descendente gracias a esta posiblidad.
+EL pseudocodigo ademas permite el diseño modular de programas y el diseño descendente gracias a esta posibilidad.
 
-Debes enterder ademas de que existe un gran numero de tipos de pseudocodigos, es decir no hay un pseudocodigo 100% estandar. Pero si hay una gran cantidad de detalles aceptados por todos los que escriben pseudocodigos. Aquie te comentare el pseudocodigo aceptado en español. Hay que tomar en cuenta que muchas de las ideas de pseudocodigo se basa en pascal, por lo que la traduccion es casi directa.
+Debes enterder ademas de que existe un gran numero de tipos de pseudocodigos, es decir no hay un pseudocodigo 100% estándar. Pero si hay una gran cantidad de detalles aceptados por todos los que escriben pseudocodigos. Aquie te comentare el pseudocodigo aceptado en español. Hay que tomar en cuenta que muchas de las ideas de pseudocodigo se basa en pascal, por lo que la traducción es casi directa.
 
 > El pseudocodigo son instrucciones escritas en un pseudolenguaje orientado a ser entendido por una personas no por un ordenador. Por ello en pseudocodigo  solo se pueden utilizar ciertas instrucciones.
 
 Entra las instrucciones que se pueden utilizar estan:
 - **De Entrada/Salida**. Para leer o escribir datos desde el programa hacia el usuario.
-- **De Proceso**. Operaciones que realiza el algoritmo (Suma, Resta, Multiplicacion, Division, cambio de valor, etc.)
+- **De Proceso**. Operaciones que realiza el algoritmo (Suma, Resta, Multiplicación, División, cambio de valor, etc.)
 - **De Control de Flujo**. Instrucciones alternativas o iterativas (bucles y condiciones).
-- **De Declaraciones**. Creacion de variables y subprogramas.
+- **De Declaraciones**. Creación de variables y subprogramas.
 - **Llamadas a Subprogramas**.
 - **Comentarios**. Notas que se escriben junto al pseudocodigo para explicar mejor su funcionamiento.
