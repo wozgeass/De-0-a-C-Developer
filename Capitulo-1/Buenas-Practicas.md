@@ -25,7 +25,9 @@ En ultima instancia, el equipo se rebela. Informan al encargado que no pueden se
 
 Ahora los 2 equipos compiten. El nuevo debe crear un sistema que haga lo que el antiguo no puede. Ademas, debe asumir los cambios que continuamente se aplican al sistema antiguo. El encargado no sustituirá el sistema antiguo hasta que el nuevo sea capaz de hacer todo lo que hace el antiguo.
 
-Esta competición puede durar mucho tiempo. Y cuando acaba, los miembros originales
+Esta competición puede durar mucho tiempo. Y cuando acaba, los miembros originales del equipo se encuentran en otras empresas y los miembros actuales exigen un cambio de diseño del nuevo sistema por que es un desastre.
+
+Si ya sufriste alguna fase de esta breve historia, ya sabras que dedicar tiempo a que el codigo sea correcto no solo es rentable, es una cuestion de supervivencia profesional.
 
 
 
