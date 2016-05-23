@@ -29,10 +29,10 @@ El copyright está en las manos del autor principal y mantenedor, **Bram Moolena
 
 Y si te lo preguntabas vim a pesar de entrar en **charity-ware** es software *Open Source* y todos los que quieran apoyar son bienvenidos para contribuir en algo al proyecto.
 
-## Caracteristicas
+## Características
 Es un editor para un Principiante - Amigable para el usuario:
 
-Es mucho más fácil para los principiantes que *VI* debido a la disponibilidad de ayuda en línea bien extensa, comandos para "deshacer" (undo) y "rehacer" (redo) (¡no te preocupes mucho con los errores - simplemente usa undo y redo!),  soporte para el ratón y tambien iconos y menús configurables (GUI).
+Es mucho más fácil para los principiantes que *VI* debido a la disponibilidad de ayuda en línea bien extensa, comandos para "deshacer" (undo) y "rehacer" (redo) (¡no te preocupes mucho con los errores - simplemente usa undo y redo!),  soporte para el ratón y también iconos y menús configurables (GUI).
 
 Soporta la edición de derecha-a-izquierda (ej. con el **Árabe**, **Farsi**, **Hebreo**), y textos en **multi-octeto**, es decir, lenguajes con caracteres gráficos representados por más de un "**octeto**", por ejemplo **Chino**, **Japonés**, **Coreano (Hangul)**, técnicamente hablando, Vim soporta texto escrito en **UTF-8** y **Unicode**.
 
@@ -42,7 +42,7 @@ Vamos a poder seleccionar el texto "**visualmente**" antes de que "*operen*" en 
 
 **Vim** tiene comandos que completan su entrada de información sea con comandos, nombres de fichero, o palabras.
 
-Del mismo modo tiene "*autocommands*" para la ejecución automática de los comandos (ej. Decompresión automática de ficheros comprimidos).
+Del mismo modo tiene "*autocommands*" para la ejecución automática de los comandos (ej. Descompresión automática de ficheros comprimidos).
 Reconoce automáticamente el tipo de ficheros (**DOS**, **mac**, **Unix**) y también le permite el guardar el archivo en cualquier otro formato ¡no hay necesidad de usar unix2dos para usar en Windows nunca más!
 
 Tiene un "*historial*" para los comandos y las búsquedas, así que puedes llamar nuevamente los comandos o el patrón de búsqueda anteriores para editarlos.
@@ -53,7 +53,7 @@ Tiene límites de memoria mucho más grandes para la longitud de línea y el tam
 
 Permite corregir de múltiples almacenadores intermediarios y puedes partir la pantalla en muchas *sub-ventanas* (**horizontal** o **verticalmente**), así que vas a poder ver muchos ficheros o muchas partes de algunos ficheros.
 
-Tiene un lenguaje de escritura incorporado para poder extenderlo facilmente.
+Tiene un lenguaje de escritura incorporado para poder extenderlo fácilmente.
 
 Permite el usar desplazamientos relativos para los comandos de búsqueda, así que se puede poner el cursor inmediatamente en el lugar *después* del texto encontrado.
 
@@ -64,7 +64,7 @@ Puede expandir las tabulaciones dentro del texto usando caracteres de espacio (*
 Permite el encontrar texto en ficheros usando un índice con las "*etiquetas*" (**tags* ***) junto con muchos otros comandos que manipulan la lista de etiquetas.
 
 Muestra el texto en color según su "*lenguaje de programación*".  Tu mismo puedes definir el "**lenguaje**" ("**sintaxis**") de los ficheros.
-Viene con muchisimos ficheros de sintaxis para la colorisación del texto
+Viene con muchísimos ficheros de sintaxis para la coloración del texto
 en los lenguajes de programación comunes (**Ada**, **C**, **C++**, **Eiffel**, **FORTRAN**, **Haskell**, **Java**, **lisp**, **Modula**, **PASCAL**, **prolog***, **Python**, **scheme**, **SQL**, **Verilog**, **VisualBasic**, **Ensamblador**, **Ruby**, **Javascript**), programas de matemáticas (**arce**, **Matlab**, **Mathematica**, **SAS**), texto que use marcado específico (**DocBook**, **HTML**, **LaTeX**, **PostScript**, **SGML-LinuxDoc**, **TeX**, **WML**, **XML**, **Markdown**, **Json**), retornos de programas (**diff**), ficheros de la configuración de programas (**Apache**, **autoconfig**, **BibTeX**, **CSS**, **CVS**, **IDL**, **LILO**, **mail**, **samba**,**Grub**, **Nginx**), lenguajes de escritura del procesador de comandos (**Shell**) y  de configuración (shells: **sh**, **csh**, **ksh**, **zsh**), lenguajes de procesamiento de texto (**awk**, **gawk**, **Perl**, **sed**, **yacc**), ficheros de sistema (*printcap*, *Xdefaults*) y por supuesto para **Vim** y sus textos de ayuda.
 
 Ademas de que tiene otras extensiones como snipets, o verificadores de sintaxis que lo hacen mucho mas potente y mas cercano a un **IDE**, de ahí que les este dando una pequeña entrada sobre lo extraordinario que me resulta este editor.
@@ -82,7 +82,7 @@ Para poder iniciar a usar el editor primero deberemos descargarlo para esto les 
 2. [Preguntas Frecuentes](http://vimdoc.sf.net/)
 3. [Código](https://github.com/vim/vim)
 
-Como siempre mi recomiendación sera la siguiente:
+Como siempre mi recomendación sera la siguiente:
 
 - Compilar unicamente si cumples con las dependencias de construcción y sabes lo que haces.
 - De otro modo te recomiendo instalar **vim** con el gestor de paquetes de la distribución que estés ocupando:
@@ -96,7 +96,7 @@ Como siempre mi recomiendación sera la siguiente:
     Para ArchLinux deberás usar el comando siguiente:
     > **pacman -S vim**
 
-    Para Suse deberas usar el comando siguiente:
+    Para Suse deberás usar el comando siguiente:
     > **zypper install vim**
 
 Una vez realizado todo esto seguiremos viendo como funciona **vim**. 
@@ -120,24 +120,24 @@ Cuando entras a **vim** inicias el modo normal:
 
 Pero al teclear algunas letras puedes acceder a algunos modos, aun que te parezca muy difícil al comienzo veras que te vas a acostumbrar muy pronto.
 
-Para entrar al modo edición tendras que teclear la letra "**i**".
+Para entrar al modo edición tendrás que teclear la letra "**i**".
 ![VimModes](/Imagenes/VimTutorial/Tecla-I.svg)
 Esto mismo inmediatamente te cambiara de modo para que puedas iniciar la edición del documento.
 
-Y para entrar al modo visual tendras que teclear la letra "**v**".
+Y para entrar al modo visual tendrás que teclear la letra "**v**".
 ![VimModes](/Imagenes/VimTutorial/Tecla-V.svg)
 Esto mismo inmediatamente te cambiara de modo para que puedas seleccionar algunas parte de tu texto a tu gusto.
 
 ### Iniciando.
-Ahora seguramente ya habras incursionado en **vim** pero no sabes ni como salir ni guardar tus cambios. 
+Ahora seguramente ya habrás incursionado en **vim** pero no sabes ni como salir ni guardar tus cambios. 
 Para eso deberas pulsa la tecla "**Esc**" para asegurarte de que estas en modo **Normal**:
 ![VimModes](/Imagenes/VimTutorial/Tecla-Esc.svg)
 
-Para salir de archivo sin guardar nada deberas pulsar las teclas:
+Para salir de archivo sin guardar nada deberás pulsar las teclas:
 **:q! <Enter>**
 ![VimModes](/Imagenes/VimTutorial/Salir-Sin-Guardar.svg)
 
-Para salir del archivo guardando los cambios deberas pulsar las teclas: **:wq <Enter>**
+Para salir del archivo guardando los cambios deberás pulsar las teclas: **:wq <Enter>**
 ![VimModes](/Imagenes/VimTutorial/Salir-Y-Guardar.svg)
 
 Si lo que quieres es solo guardar tu archivo sin salir lo lograras pulsando las siguiente teclas:  **:w <ENTER>**
@@ -151,9 +151,9 @@ Para mover el cursor, pulse las teclas **H**,**J**,**K**,**L** de la forma que s
 Como  puede verse en la imagen la tecla **H** está a la izquierda y mueve el cursor a la izquierda, la tecla **L** está a la derecha y mueve el cursor a la derecha, la tecla **J** parece una flecha que apunta hacia abajo y mueve el cursor abajo por ultimo la tecla **K** parece una flecha que apunta hacia arriba y mueve el cursor arriba.
 ### Agregar texto al archivo.
 Este editor es considerado como un editor modal, esto significa que puede tener diferentes comportamientos dependiendo del modo en el que nos encontremos y los 2 modos básicos son el modo normal e insertar.
-Desde el primer momento en el que ingresamos al editor nos topamos con el modo normal. Para ocupar el modo de inserción tecleremos la letra "**i**":
+Desde el primer momento en el que ingresamos al editor nos topamos con el modo normal. Para ocupar el modo de inserción teclearemos la letra "**i**":
 ![VimModes](/Imagenes/VimTutorial/Tecla-I.svg)
-Y es así como ya podremos ingresar texto en nuestro archivo, ahora podras iniciar la edición sin problemas hasta el momento en el que tecles <Esc>:
+Y es así como ya podremos ingresar texto en nuestro archivo, ahora podrás iniciar la edición sin problemas hasta el momento en el que tecles <Esc>:
 ![VimModes](/Imagenes/VimTutorial/Tecla-Esc.svg)
 
 ### Borrando caracteres.
