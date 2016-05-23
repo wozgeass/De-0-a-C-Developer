@@ -14,7 +14,7 @@ Si alguna vez viste algún otro libro podrás haberte dado cuenta que están muy
 
 Considero que esta característica es fundamental, sobre todo desde el punto de vista académico, por que trata de enseñar, de hacer entender, de hacer ver, al lector, como resolver un problema, y luego como programar  esa solución en **C**.
 
-Y también para los que ya tienen ciertas nociones y quieran mejorar, repasar un poco o quizás aprender algo nuevo les va a ser muy util este libro.
+Y también para los que ya tienen ciertas nociones y quieran mejorar, repasar un poco o quizás aprender algo nuevo les va a ser muy útil este libro.
 
 Considero que esta es una verdad que aplica también en este campo:
 
