@@ -4,7 +4,7 @@ Lo mas común con lo que nos topamos cada vez que aprendemos un lenguaje de prog
 Se entiende por metodología el conjunto de reglas y pasos estrictos que se siguen para desarrollar una aplicación. Hay diversas metodologías, independientemente de la vayamos a utilizar suele haber una serie de pasos comunes en todas ellas (*Relacionado con el ciclo de vida de la aplicación*):
 1. Análisis.
 2. Diseño.
-3. Codificacion.
+3. Codificación.
 4. Ejecución.
 5. Prueba.
 6. Mantenimiento.
@@ -36,7 +36,7 @@ En la construcción de aplicaciones complejas en esta fase se utilizan gran cant
 ### Codificación
 Es la escritura de la aplicación en un lenguaje de programación. Normalmente la herramienta utilizada en el diseño debe ser compatible con el lenguaje que se utilizara. Es decir si se utiliza un lenguaje orientado a objetos, la herramienta de diseño debe ser una herramienta que permita utilizar objetos.
 
-Pero no comas ansias, se muy bien que debes estar ya con muchas ganas de empezar a programar en **C** pero esta parte es de suma importancia y te dara las armas suficientes para hacer algo mas grande sin que tengas que hacer re-estructuraciones al momento de tu codificación.
+Pero no comas ansias, se muy bien que debes estar ya con muchas ganas de empezar a programar en **C** pero esta parte es de suma importancia y te dará las armas suficientes para hacer algo mas grande sin que tengas que hacer re-estructuraciones al momento de tu codificación.
 
 ### Ejecución
 Tras la escritura del código, mediante un compilar o un interprete podemos traducir el código a uno interpretable por la maquina. En este proceso pueden detectarse errores en el código que impiden su transformación. En este caso el software encargado de la traducción avisa de esos errores para que el programador los pueda corregir.
@@ -47,7 +47,7 @@ Las pruebas o verificaciones de un programa es el proceso de ejecución del prog
 La *depuración* es el proceso de encontrar los errores del programa y corregir o eliminar dichos errores.
 Cuando se ejecuta un programa, comúnmente se suele producir 3 tipos de errores:
 1. **Errores de Compilación**. Se producen normalmente por uso incorrecto de las reglas del lenguaje de programación y suelen ser *errores de sintaxis*. Si existe un *error de sintaxis*, la computadora no puede comprender la instrucción, no se obtendrá el programa objeto y el compilador imprimirá una lista de todos los errores encontrados durante la compilación.
-2. **Errores de Ejecución**. Estos se producen por instrucciones que la computadora puede comprender pero no ejecutar. Ejemplos típicos son: divición por cero y raíces cuadradas de números negativos. En estos casos se detiene una ejecución del programa y se imprime un mensaje de error.
+2. **Errores de Ejecución**. Estos se producen por instrucciones que la computadora puede comprender pero no ejecutar. Ejemplos típicos son: división por cero y raíces cuadradas de números negativos. En estos casos se detiene una ejecución del programa y se imprime un mensaje de error.
 3. **Errores lógicos**. Como su nombre lo dice se producen en la lógica del programa y la fuente del error suele ser el diseño del algoritmo. Estos errores son los mas difíciles de detectar, ya que el programa puede funcionar y no producir errores de compilación ni de ejecución, y solo puede advertirse el error por la obtención de resultados incorrectos. En este caso se debe volver a la fase de diseño del algoritmo, modificar el algoritmo, cambiar el programa fuente, compilar y ejecutar una vez mas. De ahí que la importancia de las primeras fases es crucial.
 
 ### Mantenimiento
@@ -68,13 +68,13 @@ Los módulos son independientes en el sentido en que ningún modulo puede tener 
 
 Dado que los módulos son independientes, diferentes programadores pueden trabajar simultáneamente en diferentes partes del mismo programa. Esto reducirá el tiempo del diseño del algoritmo y posterior codificación del programa. Ademas, un modulo se puede modificar radicalmente sin afectar a otros módulos, incluso sin alterar su función principal.
 
-La descomposición de un programa en módulos indpendientes mas simples se conoce también como método de **Divide y vencerás**. Por lo que se diseña cada modulo con independencia de los demás, y siguiendo el método ascendente o descendente se llegara hasta la descomposición final del problema en módulos en forma jerárquica.
+La descomposición de un programa en módulos independientes mas simples se conoce también como método de **Divide y vencerás**. Por lo que se diseña cada modulo con independencia de los demás, y siguiendo el método ascendente o descendente se llegara hasta la descomposición final del problema en módulos en forma jerárquica.
 
 ##Programación estructurada
-Según los términos de la *programación modular*, *programación descendente* y *programación estructurada* se introdujeron en la segunda mitad de la década de los sesenta y a menudo se utilizan son sinónimos aunque no significan lo mismo. La programación modular y descendente ya se ha examinado anteriormente. La programacion estructurada significa escribir un programa de acuerdo a las siguientes reglas:
+Según los términos de la *programación modular*, *programación descendente* y *programación estructurada* se introdujeron en la segunda mitad de la década de los sesenta y a menudo se utilizan son sinónimos aunque no significan lo mismo. La programación modular y descendente ya se ha examinado anteriormente. La programación estructurada significa escribir un programa de acuerdo a las siguientes reglas:
 - El programa tiene un diseño modular.
 - Los módulos son diseñados de modo descendente.
-- Cada modulo se codifica utilizando las tres estructuras de control básicas: secuencia, selección y repeticion.
+- Cada modulo se codifica utilizando las tres estructuras de control básicas: secuencia, selección y repetición.
 
 El termino **programación estructurada** se refiere a un conjunto de técnicas que han ido evolucionando desde los primeros trabajo de *Edgar Dijkstra*. Estas técnicas aumentan considerablemente la productividad del programa reduciendo en elevado grado el tiempo requerido para escribir, verificar, depurar y mantener los programas. Ademas utiliza un numero limitado de estructuras de control que minimizan la complejidad de los programas y, por consiguiente, reducen los errores; hace los programas mas fáciles de escribir, verificar, leer y mantener. Los programas deben estar dotados de una estructura.
 
@@ -88,7 +88,7 @@ La programación estructurada se auxilia de los recursos abstractos en lugar de 
 Descomponer un programa en términos de recursos abstractos -Según Dijkstra- consiste en descomponer una determinada acción compleja en términos de un numero de acciones mas simples capaces de ejecutarlas o que constituyan instrucciones de computadoras disponibles.
 
 ### Diseño descendente (top-down)
-Es el proceso mediante el cual un problema se descompone en una serie de niveles o pasos sucesivos de refinamiento. La metodologia descendiente consiste en efectuar una relación entre las sucesivas etapas de estructuración de modo que se relacionen unas con otras mediante entradas y salidas de información. Es decir, se descompone el problema en etapas o estructuras jerárquicas, de forma que se puede considerar cada estructura desde dos puntos de vista:
+Es el proceso mediante el cual un problema se descompone en una serie de niveles o pasos sucesivos de refinamiento. La metodología descendiente consiste en efectuar una relación entre las sucesivas etapas de estructuración de modo que se relacionen unas con otras mediante entradas y salidas de información. Es decir, se descompone el problema en etapas o estructuras jerárquicas, de forma que se puede considerar cada estructura desde dos puntos de vista:
 - ¿Qué hace?
 - ¿Cómo lo hace?
 
