@@ -29,6 +29,8 @@ Esta competición puede durar mucho tiempo. Y cuando acaba, los miembros origina
 
 Si ya sufriste alguna fase de esta breve historia, ya sabras que dedicar tiempo a que el codigo sea correcto no solo es rentable, es una cuestion de supervivencia profesional.
 
+Imaginemos que creemos que las buenas practicas no son un obstaculo significativo. Imaginemos tambien que aceptamos que la unica forma de avanzar es mantener esas buenas practicas. Entonces
+
 
 
 
