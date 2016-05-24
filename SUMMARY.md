@@ -10,7 +10,7 @@
    * [Metodología de la programación](Capitulo-1/Metodologias.md)
    * [Editores](Capitulo-1/Editores.md)
    * [Relación computadora y los lenguajes](Capitulo-1/Computadoras_Lenguajes.md)
-* [Buenas Practicas](Capitulo-1/Buenas-Practicas.md)
 * [Introducción al lenguaje C](Capitulo-2/README.md)
+   * [Buenas Practicas](Capitulo-1/Buenas-Practicas.md)
    * [Historia](Capitulo-2/Historia.md)
 
