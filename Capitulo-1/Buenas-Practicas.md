@@ -29,7 +29,7 @@ Esta competición puede durar mucho tiempo. Y cuando acaba, los miembros origina
 
 Si ya sufriste alguna fase de esta breve historia, ya sabras que dedicar tiempo a que el codigo sea correcto no solo es rentable, es una cuestion de supervivencia profesional.
 
-Imaginemos que creemos que las buenas practicas no son un obstaculo significativo. Imaginemos tambien que aceptamos que la unica forma de avanzar es mantener esas buenas practicas. Entonces
+Imaginemos que creemos que las buenas practicas no son un obstaculo significativo. Imaginemos tambien que aceptamos que la unica forma de avanzar es mantener esas buenas practicas. Entonces te preguntaras como puedo crear buen codigo. No tiene sentido intentar crearlo si no sabemos lo que es. La mala noticia es que crear buen codigo  es como pintar un cuadro. Muchos sabemos si un cuadro se ha pintado bien o no, pero reconocer la calidad de una obra no significa que podamos pintar. Por ellos, reconocer buen codigo no significa que sepamos como crearlo.
 
 
 
