@@ -35,7 +35,12 @@ Un programador sin este sentido puede reconocer el desastre cometido en un modul
 
 >En definitiva, un programador que tengas buenas practicas es un artista que puede transformar un lienzo en blanco en un sistema de codigo elegante.
 
+Y es gracias a estas buenas practicas dentro de los proyectos open source que ha logrado sobrevivir tantos años, inclusive al pasar a traves de encargados diferentes. Linux y muchos proyectos son muestra de ello.
 
+## Nombres consistentes.
+Por lo general al momento de codificar algo, asignamos nombre a archivos, carpetas y archivos. Usamos nombres constantemente. Por ello, debbemos hacerlo bien. 
+
+Es facil afirmar que los nombres deben revelar nuestras intenciones. Lo que queremos recalcar es la importancia de hacerlo
 
 
 
