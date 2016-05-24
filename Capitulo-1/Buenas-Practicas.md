@@ -33,14 +33,44 @@ Imaginemos que creemos que las buenas practicas no son un obstaculo significativ
 
 Un programador sin este sentido puede reconocer el desastre cometido en un modulo pero no saber como solucionarlo. Y un programador con este sentido vera las posibles opciones y elegira la variante optima para definir una secuencia de cambios.
 
->En definitiva, un programador que tengas buenas practicas es un artista que puede transformar un lienzo en blanco en un sistema de codigo elegante.
+>En definitiva, un programador que tengas buenas practicas es un artista que puede transformar un lienzo en blanco en un sisteTpracticas dentro de los proyectos open source que ha logrado sobrevivir tantos años, inclusive al pasar a traves de encargados diferentes. Linux y muchos proyectos son muestra de ello.
 
-Y es gracias a estas buenas practicas dentro de los proyectos open source que ha logrado sobrevivir tantos años, inclusive al pasar a traves de encargados diferentes. Linux y muchos proyectos son muestra de ello.
+
+---
+
 
 ## Nombres consistentes.
-Por lo general al momento de codificar algo, asignamos nombre a archivos, carpetas y archivos. Usamos nombres constantemente. Por ello, debbemos hacerlo bien. 
+Por lo general al momento de codificar algo, asignamos nombre a archivos, carpetas y archivos. Usamos nombres constantemente. Por ello, debemos hacerlo bien. 
 
-Es facil afirmar que los nombres deben revelar nuestras intenciones. Lo que queremos recalcar es la importancia de hacerlo
+Es facil afirmar que los nombres deben revelar nuestras intenciones. Lo que quiero recalcar es la importancia de hacerlo. Elegir nombres correctos lleva tiempo pero tambien ahorra trabajo. Por ello, prestar atencion a los nombres es vital.
+El nombre de una variable, funcion, o clase debe responder una serie de cuestiones basicas. Debe indicar por que existen, que hace y como se usa. Si un nombre requiere un comentario, significa que no revela su contenido.
+
+Incorrecto:
+
+`int d;  //indica el mi edad`
+
+Correcto:
+
+`int edad;`
+
+Como viste arriba el nombre de la variable "d" no indica nada. No evoca la sensacion de un valor que pueda describir mi edad.
+
+Otro mejor ejemplo podria ser el siguiente:
+
+`int edadEnDias`
+
+`int edadEnHoras`
+
+`int edadEnSegundos`
+
+`int creacionArchivoHora`
+
+`int edadEnAños`
+
+
+
+
+
 
 
 
