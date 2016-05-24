@@ -57,15 +57,15 @@ Como viste arriba el nombre de la variable "d" no indica nada. No evoca la sensa
 
 Otro mejor ejemplo podria ser el siguiente:
 
-`int edadEnDias`
+`int edadDias`
 
-`int edadEnHoras`
+`int edadHoras`
 
-`int edadEnSegundos`
-
-`int creacionArchivoHora`
+`int edadSegundos`
 
 `int edadEnAños`
+
+
 
 
 
