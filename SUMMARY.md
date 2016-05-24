@@ -1,4 +1,4 @@
-# Summary
+# Índice
 
 * [Léeme](README.md)
 * [Licencia](distribucion.md)
