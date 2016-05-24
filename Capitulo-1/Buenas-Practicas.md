@@ -31,11 +31,9 @@ Si ya sufriste alguna fase de esta breve historia, ya sabras que dedicar tiempo 
 
 Imaginemos que creemos que las buenas practicas no son un obstaculo significativo. Imaginemos tambien que aceptamos que la unica forma de avanzar es mantener esas buenas practicas. Entonces te preguntaras como puedo crear buen codigo. No tiene sentido intentar crearlo si no sabemos lo que es. La mala noticia es que crear buen codigo  es como pintar un cuadro. Muchos sabemos si un cuadro se ha pintado bien o no, pero reconocer la calidad de una obra no significa que podamos pintar. Por ellos, reconocer buen codigo no significa que sepamos como crearlo.
 
+Un programador sin este sentido puede reconocer el desastre cometido en un modulo pero no saber como solucionarlo. Y un programador con este sentido vera las posibles opciones y elegira la variante optima para definir una secuencia de cambios.
 
-
-
-
-
+>En definitiva, un programador que tengas buenas practicas es un artista que puede transformar un lienzo en blanco en un sistema de codigo elegante.
 
 
 
