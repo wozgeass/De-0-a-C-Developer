@@ -27,22 +27,22 @@ Ahora los 2 equipos compiten. El nuevo debe crear un sistema que haga lo que el 
 
 Esta competición puede durar mucho tiempo. Y cuando acaba, los miembros originales del equipo se encuentran en otras empresas y los miembros actuales exigen un cambio de diseño del nuevo sistema por que es un desastre.
 
-Si ya sufriste alguna fase de esta breve historia, ya sabras que dedicar tiempo a que el codigo sea correcto no solo es rentable, es una cuestion de supervivencia profesional.
+Si ya sufriste alguna fase de esta breve historia, ya sabrás que dedicar tiempo a que el código sea correcto no solo es rentable, es una cuestión de supervivencia profesional.
 
-Imaginemos que creemos que las buenas practicas no son un obstaculo significativo. Imaginemos tambien que aceptamos que la unica forma de avanzar es mantener esas buenas practicas. Entonces te preguntaras como puedo crear buen codigo. No tiene sentido intentar crearlo si no sabemos lo que es. La mala noticia es que crear buen codigo  es como pintar un cuadro. Muchos sabemos si un cuadro se ha pintado bien o no, pero reconocer la calidad de una obra no significa que podamos pintar. Por ellos, reconocer buen codigo no significa que sepamos como crearlo.
+Imaginemos que creemos que las buenas practicas no son un obstáculo significativo. Imaginemos también que aceptamos que la única forma de avanzar es mantener esas buenas practicas. Entonces te preguntaras como puedo crear buen código. No tiene sentido intentar crearlo si no sabemos lo que es. La mala noticia es que crear buen código  es como pintar un cuadro. Muchos sabemos si un cuadro se ha pintado bien o no, pero reconocer la calidad de una obra no significa que podamos pintar. Por ellos, reconocer buen código no significa que sepamos como crearlo.
 
-Un programador sin este sentido puede reconocer el desastre cometido en un modulo pero no saber como solucionarlo. Y un programador con este sentido vera las posibles opciones y elegira la variante optima para definir una secuencia de cambios.
+Un programador sin este sentido puede reconocer el desastre cometido en un modulo pero no saber como solucionarlo. Y un programador con este sentido vera las posibles opciones y elegirá la variante optima para definir una secuencia de cambios.
 
-> En definitiva, un programador que tengas buenas practicas es un artista que puede transformar un lienzo en blanco en un sistema de codigo elegante. 
+> En definitiva, un programador que tengas buenas practicas es un artista que puede transformar un lienzo en blanco en un sistema de código elegante. 
 
-Y este es uno de los motivos por el que los proyectos open source han logrado sobrevivir tantos años, inclusive al pasar a traves de encargados diferentes. Linux y muchos proyectos son muestra de ello.
+Y este es uno de los motivos por el que los proyectos open source han logrado sobrevivir tantos años, inclusive al pasar a través de encargados diferentes. Linux y muchos proyectos son muestra de ello.
 
 ## Nombres consistentes.
 Por lo general al momento de codificar algo, asignamos nombre a archivos, carpetas y archivos. Usamos nombres constantemente. Por ello, debemos hacerlo bien. 
 
-Es facil afirmar que los nombres deben revelar nuestras intenciones. Lo que quiero recalcar es la importancia de hacerlo. Elegir nombres correctos lleva tiempo pero tambien ahorra trabajo. Por ello, prestar atencion a los nombres es vital.
+Es fácil afirmar que los nombres deben revelar nuestras intenciones. Lo que quiero recalcar es la importancia de hacerlo. Elegir nombres correctos lleva tiempo pero también ahorra trabajo. Por ello, prestar atención a los nombres es vital.
 
-El nombre de una variable, funcion, o clase debe responder una serie de cuestiones basicas. Debe indicar por que existen, que hace y como se usa. Si un nombre requiere un comentario, significa que no revela su contenido.
+El nombre de una variable, función, o clase debe responder una serie de cuestiones básicas. Debe indicar por que existen, que hace y como se usa. Si un nombre requiere un comentario, significa que no revela su contenido.
 
 Incorrecto:
 
@@ -52,9 +52,9 @@ Correcto:
 
 `int edad;`
 
-Como viste arriba el nombre de la variable "d" no indica nada. No evoca la sensacion de un valor que pueda describir mi edad.
+Como viste arriba el nombre de la variable "d" no indica nada. No evoca la sensación de un valor que pueda describir mi edad.
 
-Otro mejor ejemplo podria ser el siguiente:
+Otro mejor ejemplo podría ser el siguiente:
 
 `int edadDias`
 
@@ -63,7 +63,6 @@ Otro mejor ejemplo podria ser el siguiente:
 `int edadSegundos`
 
 `int edadEnAños`
-
 
 
 
