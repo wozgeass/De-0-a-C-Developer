@@ -62,7 +62,17 @@ Otro mejor ejemplo podría ser el siguiente:
 
 `int edadSegundos`
 
-`int edadEnAños`
+`int edadAños`
+
+Debes evitar dejar pistas falsas el significado del código, cuyo significado se aleje del que pretendemos. Por ejemplo:
+
+`int aix`
+`int hp`
+`int oracle`
+`int solaris`
+ 
+Que son nombres de variables pobres ya que son los nombres de otros sistemas operativos. 
+
 
 
 
