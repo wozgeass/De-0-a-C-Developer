@@ -44,11 +44,11 @@ Es fácil afirmar que los nombres deben revelar nuestras intenciones. Lo que qui
 
 El nombre de una variable, función, o clase debe responder una serie de cuestiones básicas. Debe indicar por que existen, que hace y como se usa. Si un nombre requiere un comentario, significa que no revela su contenido.
 
-Incorrecto:
+> Incorrecto:
 
 `int d;  //indica el mi edad`
 
-Correcto:
+> Correcto:
 
 `int edad;`
 
@@ -75,8 +75,10 @@ Que son nombres de variables pobres ya que son los nombres de otros sistemas ope
 
 Gran parte de nuestro cerebro se dedica al concepto palabra. Y, por definicion, las palabras son pronunciables. Seria una pena malgastar esa parte de nuestro cerebro dedicada al lenguaje hablado. Por tanto es importante tambien usar nombres que sean pronunciables. Esta es una actividad importante, ya que la programacion es una actividad social.
 
+> Incorrecto:
 `int vsdincper;  //Variable que guarda solo el dia del nacimiento de la persona `
 
+> Correcto:
 `int diaNacimPersona;`
 
 Como puedes ver quiza sea un poco grande pero esa variable al leerla es facil y te dice que valor guarda.
