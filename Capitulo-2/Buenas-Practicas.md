@@ -83,7 +83,12 @@ Gran parte de nuestro cerebro se dedica al concepto palabra. Y, por definicion, 
 
 Como puedes ver quiza sea un poco grande pero esa variable al leerla es facil y te dice que valor guarda.
 
-  Evita usar la misma palabra para 2 fines distintos. Si aplicas la regla de una palabra por conceptos, acabaras con muchas variables que por ejemplo tengan una funcion *agregar*. Mientras las listas de parametros y los valores devueltos de las distintas funciones *agregar* sean semanticamente equivalentes, no hay problema. Sin embargo podrias usar la palabra *agregar* por motivos de coherencia, aunque no sea en el mismo sentido. Imagina que hay varias funciones en las que *agregar* puede crear un nuevo valor sumando variables o concatenando 2 cadenas
+  Evita usar la misma palabra para 2 fines distintos. Si aplicas la regla de una palabra por conceptos, acabaras con muchas variables que por ejemplo tengan una funcion *agregar*. Mientras las listas de parametros y los valores devueltos de las distintas funciones *agregar* sean semanticamente equivalentes, no hay problema. Sin embargo podrias usar la palabra *agregar* por motivos de coherencia, aunque no sea en el mismo sentido. Imagina que hay varias funciones en las que *agregar* puede crear un nuevo valor sumando variables o concatenando 2 cadenas. Imagina ahora creamos una nueva funcion que añade una parametro a una coleccion. Parece coherente ya que hay muchas otras funciones *agregar* 
+  
+  
+  
+  
+  
 
 
 
