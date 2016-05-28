@@ -77,9 +77,11 @@ Gran parte de nuestro cerebro se dedica al concepto palabra. Y, por definicion, 
 
 `int vsdincper;  //Variable que guarda solo el dia del nacimiento de la persona `
 
-`int DiaNacimiento;`
+`int diaNacimPersona;`
 
+Como puedes ver quiza sea un poco grande pero esa variable al leerla es facil y te dice que valor guarda.
 
+Evita usar la misma palabra para 2 fines distintos. Si aplicas la regla de una palabra por conceptos, acabaras con muchas variables que por ejemplo tengan una funcion 
 
 
 
