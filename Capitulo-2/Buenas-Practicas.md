@@ -85,7 +85,10 @@ Como puedes ver quiza sea un poco grande pero esa variable al leerla es facil y 
 
 Evita usar la misma palabra para 2 fines distintos. Si aplicas la regla de una palabra por conceptos, acabaras con muchos elementos que por ejemplo tengan una palabra *agregar*. Mientras las listas de parametros y los valores devueltos de las distintas funciones *agregar* sean semanticamente equivalentes, no hay problema. Sin embargo podrias usar la palabra *agregar* por motivos de coherencia, aunque no sea en el mismo sentido. Imagina que hay varias funciones en las que *agregar* puede crear un nuevo valor sumando variables o concatenando 2 cadenas. Imagina ahora creamos una nueva funcion que añade una parametro a una coleccion. Parece coherente ya que hay muchas otras funciones *agregar*, pero en este caso hay una diferencia semantica, de modo que debemos usar un nombre como *insertar* o *añadir*. Ten en consideracion que como desarrolladores y autores de algun programa, nuestro objetivo es facilitar la compresion del codigo.
   
-Recuerda que las personas que quizas vayan a leer tu codigo seran programadores. Por ello, es recomendable usar terminos 
+Recuerda que las personas que quizas vayan a leer tu codigo seran programadores. Por ello, es recomendable usar terminos matematicos, algoritmos, nombres de patrones y demas. 
+
+## Añadir contexto.
+Algunos nombres tienen significado por si mismos, pero la mayoria no. Por ello, debemos incluirlos con un contexto
   
   
   
