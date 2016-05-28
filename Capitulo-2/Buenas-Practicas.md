@@ -73,7 +73,11 @@ Debes evitar dejar pistas falsas el significado del código, cuyo significado se
  
 Que son nombres de variables pobres ya que son los nombres de otros sistemas operativos. 
 
-Gran parte de nuestro cerebro se dedica al concepto palabra. Y, por definicion, las palabras son pronunciables. Seria una pena malgastar
+Gran parte de nuestro cerebro se dedica al concepto palabra. Y, por definicion, las palabras son pronunciables. Seria una pena malgastar esa parte de nuestro cerebro dedicada al lenguaje hablado. Por tanto es importante tambien usar nombres que sean pronunciables. Esta es una actividad importante, ya que la programacion es una actividad social.
+
+`int vsdincper;  //Variable que guarda solo el dia del nacimiento de la persona `
+
+`int DiaNacimiento;`
 
 
 
