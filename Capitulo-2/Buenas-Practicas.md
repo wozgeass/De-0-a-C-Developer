@@ -21,11 +21,11 @@ Si eres un programador con algunos años de experiencia, probablemente ya sufris
 
 Al aumentar este desastre, la productividad del equipo disminuye y acaba por desaparecer. Al reducirse la productividad, el encargado hace lo único que puede; ampliar la plantilla del proyecto con la esperanza de aumentar la productividad. Pero esa nueva plantilla no conoce el diseño del sistema. No conoce la diferencia entre un cambio adecuado al objetivo de diseño y otro que lo destroce. Por tanto todos se encuentran sometidos a una gran presión para aumentar la productividad. Por ello, cometen mas errores, aumentando el desastre y la productividad se acerca a cero cada vez mas y mas.
 
-En ultima instancia, el equipo se rebela. Informan al encargado que no pueden seguir trabajando con ese código. Exigen un cambio de diseño. La dirección no requiere invertir en un cambio de diseño del proyecto pero no pueden ignorar el bajo nivel de productividad. Acaba por ceder a las exigencias de los programadores y autoriza el gran cambio de diseño. Se selecciona un nuevo equipo. Todos requieren formar parte del nuevo equipo por ser lienzo en blanco. Pueden empezar de cero y crear algo realmente bello, pero solo los mejores serán elegidos para el nuevo equipo. Los demás deben continuar con el mantenimiento del sistema actual.
+En ultima instancia, el equipo se rebela. Informan al encargado que no pueden seguir trabajando con ese código. Exigen un cambio de diseño. La dirección no requiere invertir en un cambio de diseño del proyecto pero no pueden ignorar el bajo nivel de productividad. Acaban por ceder a las exigencias de los programadores y autoriza el gran cambio de diseño. Se selecciona un nuevo equipo. Todos requieren formar parte del nuevo equipo por ser lienzo en blanco. Pueden empezar de cero y crear algo realmente bello, pero solo los mejores serán elegidos para el nuevo equipo. Los demás deben continuar con el mantenimiento del sistema actual.
 
 Ahora los 2 equipos compiten. El nuevo debe crear un sistema que haga lo que el antiguo no puede. Ademas, debe asumir los cambios que continuamente se aplican al sistema antiguo. El encargado no sustituirá el sistema antiguo hasta que el nuevo sea capaz de hacer todo lo que hace el antiguo.
 
-Esta competición puede durar mucho tiempo. Y cuando acaba, los miembros originales del equipo se encuentran en otras empresas y los miembros actuales exigen un cambio de diseño del nuevo sistema por que es un desastre.
+Esta competición puede durar mucho tiempo. Y cuando acaba, los miembros originales del equipo se encuentran trabajando en otras empresas y los miembros actuales exigen un cambio de diseño del nuevo sistema por que es un desastre.
 
 Si ya sufriste alguna fase de esta breve historia, ya sabrás que dedicar tiempo a que el código sea correcto no solo es rentable, es una cuestión de supervivencia profesional.
 
@@ -33,7 +33,7 @@ Imaginemos que creemos que las buenas practicas no son un obstáculo significati
 
 Un programador sin este sentido puede reconocer el desastre cometido en un modulo pero no saber como solucionarlo. Y un programador con este sentido vera las posibles opciones y elegirá la variante optima para definir una secuencia de cambios.
 
-> En definitiva, un programador que tengas buenas practicas es un artista que puede transformar un lienzo en blanco en un sistema de código elegante. 
+> **En definitiva, un programador que tengas buenas practicas es un artista que puede transformar un lienzo en blanco en un sistema de código elegante.** 
 
 Y este es uno de los motivos por el que los proyectos open source han logrado sobrevivir tantos años, inclusive al pasar a través de encargados diferentes. Linux y muchos proyectos son muestra de ello.
 
