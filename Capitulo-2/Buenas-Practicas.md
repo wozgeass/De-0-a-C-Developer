@@ -91,7 +91,7 @@ Recuerda que las personas que quizas vayan a leer tu codigo seran programadores.
 Algunos nombres tienen significado por si mismos, pero la mayoria no. Por ello, debemos incluirlos con un contexto, variables, funciones y espacios de nombres con nombres adecuados.
 Cuando todo lo demas falle, pueden usarse prefijos como ultimo recurso.
 
-Imaginemos que tenemos la variable *primerNombre*, *ultimoNombre*, *calle*, *numeroCasa*, *ciudad*, *estado*, *codigoPostal*. Si las combinamos, es evidente que forman una direccion. Pero si las variable *state* se usa de forma aislada en una funcion, ¿Sabriamos que es parte de una direccion? logicamente podemos añadir contextos por medio de prefijos: *agregarPrimNombre*,  
+Imaginemos que tenemos la variable `**primerNombre**`, *ultimoNombre*, *calle*, *numeroCasa*, *ciudad*, *estado*, *codigoPostal*. Si las combinamos, es evidente que forman una direccion. Pero si las variable *state* se usa de forma aislada en una funcion, ¿Sabriamos que es parte de una direccion? logicamente podemos añadir contextos por medio de prefijos: *agregarPrimNombre*,  
   
   
   
