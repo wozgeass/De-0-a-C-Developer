@@ -89,12 +89,15 @@ Evita usar la misma palabra para 2 fines distintos. Si aplicas la regla de una p
   
 Recuerda que las personas que quizas vayan a leer tu codigo seran programadores. Por ello, es recomendable usar terminos matematicos, algoritmos, nombres de patrones y demas. 
 
-## Añadir contexto.
 Algunos nombres tienen significado por si mismos, pero la mayoria no. Por ello, debemos incluirlos con un contexto, variables, funciones y espacios de nombres con nombres adecuados.
 Cuando todo lo demas falle, pueden usarse prefijos como ultimo recurso.
 
-Imaginemos que tenemos la variable `primerNombre`, `ultimoNombre`, `calle`, `numeroCasa`, `ciudad`, `estado`, `codigoPostal`. Si las combinamos, es evidente que forman una direccion. Pero si las variable `state` se usa de forma aislada en una funcion, ¿Sabriamos que es parte de una direccion? logicamente podemos añadir contextos por medio de prefijos: `agregarPrimNombre`,   
-  
+Imaginemos que tenemos la variable `primerNombre`, `ultimoNombre`, `calle`, `numeroCasa`, `ciudad`, `estado`, `codigoPostal`. Si las combinamos, es evidente que forman una direccion. Pero si las variable `state` se usa de forma aislada en una funcion, ¿Sabriamos que es parte de una direccion? logicamente podemos añadir contextos por medio de prefijos: `agregarPrimNombre`,  `agregarUltimNombre`, `agregarEstado`. Al menos si los lectores del codigo comprenderan que estas variables forman parte de una estructura mayor.
+
+## Manejo de las funciones
+Desde los inicios de la programacion, creabamos sistemas a partir de rutinas y subrutinas. Despues de la epoca de 
+La primera regla de las funciones es que deben ser de tamaño reducido. La segunda 
+
   
   
   
