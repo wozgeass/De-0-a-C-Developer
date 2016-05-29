@@ -88,7 +88,10 @@ Evita usar la misma palabra para 2 fines distintos. Si aplicas la regla de una p
 Recuerda que las personas que quizas vayan a leer tu codigo seran programadores. Por ello, es recomendable usar terminos matematicos, algoritmos, nombres de patrones y demas. 
 
 ## Añadir contexto.
-Algunos nombres tienen significado por si mismos, pero la mayoria no. Por ello, debemos incluirlos con un contexto
+Algunos nombres tienen significado por si mismos, pero la mayoria no. Por ello, debemos incluirlos con un contexto, variables, funciones y espacios de nombres con nombres adecuados.
+Cuando todo lo demas falle, pueden usarse prefijos como ultimo recurso.
+
+Imaginemos que tenemos la variable *primerNombre*, *ultimoNombre*
   
   
   
