@@ -76,9 +76,11 @@ Que son nombres de variables pobres ya que son los nombres de otros sistemas ope
 Gran parte de nuestro cerebro se dedica al concepto palabra. Y, por definicion, las palabras son pronunciables. Seria una pena malgastar esa parte de nuestro cerebro dedicada al lenguaje hablado. Por tanto es importante tambien usar nombres que sean pronunciables. Esta es una actividad importante, ya que la programacion es una actividad social.
 
 > Incorrecto:
+
 `int vsdincper;  //Variable que guarda solo el dia del nacimiento de la persona `
 
 > Correcto:
+
 `int diaNacimPersona;`
 
 Como puedes ver quiza sea un poco grande pero esa variable al leerla es facil y te dice que valor guarda.
@@ -91,7 +93,7 @@ Recuerda que las personas que quizas vayan a leer tu codigo seran programadores.
 Algunos nombres tienen significado por si mismos, pero la mayoria no. Por ello, debemos incluirlos con un contexto, variables, funciones y espacios de nombres con nombres adecuados.
 Cuando todo lo demas falle, pueden usarse prefijos como ultimo recurso.
 
-Imaginemos que tenemos la variable `**primerNombre**`, *ultimoNombre*, *calle*, *numeroCasa*, *ciudad*, *estado*, *codigoPostal*. Si las combinamos, es evidente que forman una direccion. Pero si las variable *state* se usa de forma aislada en una funcion, ¿Sabriamos que es parte de una direccion? logicamente podemos añadir contextos por medio de prefijos: *agregarPrimNombre*,  
+Imaginemos que tenemos la variable `primerNombre`, `ultimoNombre`, `calle`, `numeroCasa`, `ciudad`, `estado`, `codigoPostal`. Si las combinamos, es evidente que forman una direccion. Pero si las variable `state` se usa de forma aislada en una funcion, ¿Sabriamos que es parte de una direccion? logicamente podemos añadir contextos por medio de prefijos: `agregarPrimNombre`,   
   
   
   
