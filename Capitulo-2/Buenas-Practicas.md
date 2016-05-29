@@ -95,8 +95,15 @@ Cuando todo lo demas falle, pueden usarse prefijos como ultimo recurso.
 Imaginemos que tenemos la variable `primerNombre`, `ultimoNombre`, `calle`, `numeroCasa`, `ciudad`, `estado`, `codigoPostal`. Si las combinamos, es evidente que forman una direccion. Pero si las variable `state` se usa de forma aislada en una funcion, ¿Sabriamos que es parte de una direccion? logicamente podemos añadir contextos por medio de prefijos: `agregarPrimNombre`,  `agregarUltimNombre`, `agregarEstado`. Al menos si los lectores del codigo comprenderan que estas variables forman parte de una estructura mayor.
 
 ## Manejo de las funciones
-Desde los inicios de la programacion, creabamos sistemas a partir de rutinas y subrutinas. Despues de la epoca de 
-La primera regla de las funciones es que deben ser de tamaño reducido. La segunda 
+Desde los inicios de la programacion, creabamos sistemas a partir de rutinas y subrutinas. Despues de la epoca de Fortran y PL/1, se creaban sistemas con programas, subprogramas y funciones. En la actualidad, solo las funciones han sobrevivido. Son la primera linea organizativa en cualquier programa en varios proyectos Open Source.
+
+> La primera regla de las funciones es que deben ser de tamaño reducido. 
+
+> La segunda es que deben ser todavia mas reducidas.
+
+Quizas no sea una afirmacion que pueda justificar. Del mismo modo no puedo mostrar referencias a estudios que demuestren que las funciones muy reducidas sean mejores. Lo que si puedo afirmar es que durante casi 7 años he creado funciones de diferentes tamaños. Desde mostruosas funciones de 300 a 400 lineas a funciones de 30 a 100 lineas. Esta experiencia me ha demostrado, mediante ensayo y error, que las funciones deben ser muy reducidas.
+
+En la decada de los 80's se decia que una funcion no debia superar el tamaño de una pantalla. Que por aquellos tiempos tenian 24 lineas por 80 columnas. En la actualidad, con una fuente minanima y un monitor de gran resolucion
 
   
   
