@@ -103,7 +103,16 @@ Desde los inicios de la programacion, creabamos sistemas a partir de rutinas y s
 
 Quizas no sea una afirmacion que pueda justificar. Del mismo modo no puedo mostrar referencias a estudios que demuestren que las funciones muy reducidas sean mejores. Lo que si puedo afirmar es que durante casi 7 años he creado funciones de diferentes tamaños. Desde mostruosas funciones de 300 a 400 lineas a funciones de 30 a 100 lineas. Esta experiencia me ha demostrado, mediante ensayo y error, que las funciones deben ser muy reducidas.
 
-En la decada de los 80's se decia que una funcion no debia superar el tamaño de una pantalla. Que por aquellos tiempos tenian 24 lineas por 80 columnas. En la actualidad, con una fuente minanima y un monitor de gran resolucion
+En la decada de los 80's se decia que una funcion no debia superar el tamaño de una pantalla. Que por aquellos tiempos tenian 24 lineas por 80 columnas. En la actualidad, con una fuente minima y un monitor de gran resolucion, se puede ver 180 caracteres por lineas y 120 lineas o mas en monitores 4k.
+
+Lo que nos deja con la siguiente interrogante:
+
+> ¿Qué tamaño mínimo debe tener una función?
+
+Quizas para responder esta interrogante debas considerar una de las premisas de UNIX, pero modificada un poco para entender este contexto:
+
+> Que cada funcion realice unicamente la tarea por la que fue creada y la haga bien y lo mas optima posible.
+
 
   
   
