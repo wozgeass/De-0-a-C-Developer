@@ -108,10 +108,25 @@ En la decada de los 80's se decia que una funcion no debia superar el tamaño de
 Lo que nos deja con la siguiente interrogante:
 
 > ¿Qué tamaño mínimo debe tener una función?
-
+ 
 Quizas para responder esta interrogante debas considerar una de las premisas de UNIX, pero modificada un poco para entender este contexto:
 
-> Que cada funcion realice unicamente la tarea por la que fue creada y la haga bien y lo mas optima posible.
+> Que cada funcion solo debe hacer una cosa. Debe hacerlo bien y debe ser lo unico que haga.
+
+De igualmanera que las variables las funciones necesitan nombres consistentes. Cuanto mas reducida y concreta es una funcion, mas sencillo sera elegir un nombre descriptivo. No temas a los nombres extensos. En muchos casos un nombre extenso es preferible sobre uno brebe y enigmatico. Lo mejor seria usar una convencion de nombres que permita leer varias palabras en los nombres de la funciones y usa esas palabras para asignar a la funcion un nombre que describa su cometido.
+
+>Correcto:
+
+`int sumaEnteros()`
+
+>Incorrecto:
+
+`int suEN()`
+
+La eleccion de nombres descriptivos clarifica el diseño de las funciones y le permite mejorarlos. Se coherente con los nombres. Eso quiere decir que uses las mismas frases, sustantivos y verbos en los nombres de funcion que elijas para las funciones.
+
+
+
 
 
   
