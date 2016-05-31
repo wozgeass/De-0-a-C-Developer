@@ -14,3 +14,7 @@ Aunque a primera vista puedan parecer sinónimos los **datos** e **información*
 
 La información tiene datos significativos; los datos en su forma original (en bruto) no lo son tanto. La computadora procesa esos datos y la información significativa es el resultado que se conoce muy comúnmente como *salida*.
 Los datos, por si mismo no sirven de mucho y no son muy útiles para las personas que los manipulan y necesitan tomar decisiones con ellos.
+
+Los programas modernos producen informacion en muchos formatos. Estos programas reproducen musica, se comunican con otras computadoras a traves de la red y mas aun con los smart phones que en los ultimos años se han convertido en algo casi obligatorio. Todos estos envian una salida a la pantalla, impresora, es decir los datos de entrada y los datos de salida pueden ser, realmente, cualquier cosa, texto, imagenes, musica.
+
+Una computadora necesita tanto del hardware como del software para poder ser usada real y practicamente. El hardware de la computadora sin el software que le acompaña es como si tuvieramos un libro con paginas en blanco. La portada, contraportada y las paginas interiores constituyen el hardware del libro, pero el libro no es util sin ningun texto, el software.
