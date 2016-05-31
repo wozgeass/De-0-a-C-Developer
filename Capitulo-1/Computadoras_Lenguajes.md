@@ -34,9 +34,15 @@ El procesador es el dispositivo interior de la computadora que ejecuta las instr
 
 | INTEL | AMD |
 | -- | -- |
-| Core i3 | 1:2 |
-| Core i5 | 1:3 |
-| Core i7 |     | 
+| Core i3 (Sexta Generacion) | APU ATHLON (Cuarta Generacion)|
+| Core i5 (Sexta Generacion) | APU A10 (Septima Generacion)|
+| Core i7 (Sexta Generacion) | FX | 
+
+Y para servidores y maquinas de alta disponibilidad:
+| INTEL | AMD |
+| -- | -- |
+| XEON | OPTERON |
+| 0:3 | 1:3 |
 
 
 Pero se hoy en dia los moviles han superado con creces a las PC y laptops que ahora hablamos de otros provedores para estos dispositivos:
