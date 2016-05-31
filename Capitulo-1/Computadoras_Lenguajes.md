@@ -30,7 +30,19 @@ Cuando un usuario interactua con una computadora, proporciona una entrada; en re
 
 ![imagen]
 
-El procesador es el dispositivo interior de la computadoa que ejecuta las instrucciones
+El procesador es el dispositivo interior de la computadora que ejecuta las instrucciones del programa o aplicacion. Tambien se le suele conocer como UCP (Unidad Central de Procesamiento). En el mercado existen muchas marcas disponibles para computadoras de escritorio o laptop como:
+
+| INTEL | AMD |
+| -- | -- |
+| Core i3 | 1:2 |
+| Core i5 | 1:3 |
+| Core i7 |     | 
+
+
+Pero se hoy en dia los moviles han superado con creces a las PC y laptops que ahora hablamos de otros provedores para estos dispositivos:
+
+- ARM
+- QUALCOM
 
 
 
