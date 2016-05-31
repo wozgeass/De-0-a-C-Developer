@@ -19,6 +19,9 @@ Los programas modernos producen informacion en muchos formatos. Estos programas 
 
 Una computadora necesita tanto del **hardware** como del **software** para poder ser usada real y practicamente. El **hardware** de la computadora sin el software que le acompaña es como si tuvieramos un libro con paginas en blanco. La portada, contraportada y las paginas interiores constituyen el **hardware** del libro, pero el libro no es util sin ningun texto, el **software**.
 
+## Hardware
+Cuando un usuario interactua con una computadora, proporciona una entrada; en respuesta, la computadora procesa la entrada devolviendo una salida valiosa
+
 
 
 
