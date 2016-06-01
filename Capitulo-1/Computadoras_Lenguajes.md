@@ -45,11 +45,14 @@ Y para servidores y maquinas de alta disponibilidad:
 
 Pero se hoy en dia los moviles han superado con creces a las PC y laptops que ahora hablamos de otros provedores para estos dispositivos:
 
-| ARM | INTEL | AMD | NVIDIA | Samsung | Qualcomm |
+| **ARM** | **INTEL** | **AMD** | **NVIDIA** | **Samsung** | **Qualcomm** |
 | -- | -- | -- | -- | -- | -- |
 | Cortex-A73 | Core M | Polaris | Tegra X1 | Exynos 8 | Snapdragon 820 |
 
-Y esto es una muestra de como en pleno año 2016
+Ya casi no existe persona que no tenga un smart phone y ha sido este el caso en el que mucha gente ahora prefiere desarrollar apps que aprender el bajo nivel, sin embargo ignoran que lo que sustenta esas apps son el sistema operativo.
+
+El procesador solo puede ejecutar 
+
 
 
 
