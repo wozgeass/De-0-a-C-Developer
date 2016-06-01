@@ -62,7 +62,14 @@ La **UCP** consta de dos componentes:
 2. Unidad Aritmetico Logica (UAL)
 
 > La unidad de **Unidad de Control (UC)** coordina las actividades de la computadora, determinando que operaciones se deben realizar y en que orden; asi mismo controla y sincroniza todo el proceso de la computadora.
-> La **Unidad Aritmetico Logica (UAL)**   
+> La **Unidad Aritmetico Logica (UAL)** Realiza operaciones aritmeticas y logicas, tales como suma, resta, multiplicacion, division y compraraciones. Los datos en la memoria central se pueden leer o escribir por la **UCP**.
+
+Otra parte muy importante de una computadora es la memoria. La unidad de memoria almacena almacena la informacion en un formato logicamente consistente. Normalmente, tanto las instrucciones como los datos se almacenan en memoria, con frecuencia en areas distintas y separadas. La memoria se divide en dos categorias:
+
+1. Memoria Principal
+2. Memoria Auxiliar
+
+> La **memoria Principal** 
 
 
 
