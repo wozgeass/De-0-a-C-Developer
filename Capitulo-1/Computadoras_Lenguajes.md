@@ -94,10 +94,18 @@ Pero se hoy en dia los moviles han superado con creces a las PC y laptops que ah
 | -- | -- | -- | -- | -- | -- |
 | Cortex-A73 | Core M | Polaris | Tegra X1 | Exynos 8 | Snapdragon 820 |
 
+### Dispositivos de Entrada/Salida
+Para que el usuario pueda introducir la entrada, la computadora tiene varios **dispositivos de entrada** como par de su hardware, tales como:
 
+1. Teclado
+2. Raton (Mouse)
 
+La salida al usuario se le proporciona mediante **dispositivos de salida**, tales como
 
+1. Monitor
+2. Cañon
+3. Impresora
 
-
+Los dispositivos de entrada/Salida 
 
 
