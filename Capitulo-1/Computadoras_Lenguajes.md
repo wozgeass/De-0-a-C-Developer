@@ -28,8 +28,7 @@ Cuando un usuario interactua con una computadora, proporciona una entrada; en re
 4. Ejecutar operaciones aritmeticas o logicas bien sobre datos de entrada o bien sobre datos de salida.
 5. Monitorizar, controlar y dirigir las operaciones globales y de secuencia del sistema.
 
-![imagen]
-
+![Vim](/Imagenes/Arquitectura/CPU.svg)
 El procesador es el dispositivo interior de la computadora que ejecuta las instrucciones del programa o aplicacion. Tambien se le suele conocer como UCP (Unidad Central de Procesamiento). En el mercado existen muchas marcas disponibles para computadoras de escritorio o laptop como:
 
 | INTEL | AMD |
