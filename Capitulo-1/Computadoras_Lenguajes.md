@@ -31,6 +31,18 @@ Cuando un usuario interactua con una computadora, proporciona una entrada; en re
 ![Vim](/Imagenes/Arquitectura/CPU.svg)
 El procesador es el dispositivo interior de la computadora que ejecuta las instrucciones del programa o aplicación. Tambien se le suele conocer como **UCP** *(Unidad Central de Procesamiento)*. En el mercado existen muchas marcas disponibles para computadoras de escritorio o laptop como:
 
+1. INTEL
+2. AMD
+
+O para moviles como:
+
+1. ARM.
+2. INTEL
+3. AMD
+4. NVIDIA
+5. SAMSUNG
+6. QUALCOMM
+
 | **INTEL** | **AMD** |
 | -- | -- |
 | Core i3 *(Sexta Generacion)* | APU ATHLON *(Cuarta Generacion)* |
