@@ -51,10 +51,10 @@ Pero se hoy en dia los moviles han superado con creces a las PC y laptops que ah
 
 Ya casi no existe persona que no tenga un smart phone y ha sido este el caso en el que mucha gente ahora prefiere desarrollar apps que aprender el bajo nivel, sin embargo ignoran que lo que sustenta esas apps son el sistema operativo.
 
-El procesador solo puede ejecutar 
+El procesador solo puede ejecutar instrucciones simples, ale como calculos aritmeticos sencillos o desplazamientos de numero por diferentes posiciones. Sin embargo, la velocidad a la cual se realizan estos calculos debe ser muy grande y esta caracteristica le permite ejecutar instrucciones que realizan calculos complejos.
 
+La UCP, dirige y controla el proceso de informacion realizado por la computadora, procesando y manipulando la informacion almacenada en la memoria. Se puede recuperar esa informacion de la memoria. Tambien puede almacenar los resultados de estos procesos en memoria para su uso posterior.
 
-
-
+![Vim](/Imagenes/Arquitectura/CPU.sv)
 
 
