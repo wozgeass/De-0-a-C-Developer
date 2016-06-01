@@ -29,6 +29,8 @@ Cuando un usuario interactua con una computadora, proporciona una entrada; en re
 5. Monitorizar, controlar y dirigir las operaciones globales y de secuencia del sistema.
 
 ![Vim](/Imagenes/Arquitectura/CPU.svg)
+### Procesador
+
 El procesador es el dispositivo interior de la computadora que ejecuta las instrucciones del programa o aplicación. Tambien se le suele conocer como **UCP** *(Unidad Central de Procesamiento)*. En el mercado existen muchas marcas disponibles para computadoras de escritorio o laptop como:
 
 1. INTEL
@@ -76,13 +78,18 @@ La **UCP** consta de dos componentes:
 > La unidad de **Unidad de Control (UC)** coordina las actividades de la computadora, determinando que operaciones se deben realizar y en que orden; asi mismo controla y sincroniza todo el proceso de la computadora.
 > La **Unidad Aritmetico Logica (UAL)** Realiza operaciones aritmeticas y logicas, tales como suma, resta, multiplicacion, division y compraraciones. Los datos en la memoria central se pueden leer o escribir por la **UCP**.
 
+### Memoria.
+
 Otra parte muy importante de una computadora es la memoria. La unidad de memoria almacena almacena la informacion en un formato logicamente consistente. Normalmente, tanto las instrucciones como los datos se almacenan en memoria, con frecuencia en areas distintas y separadas. La memoria se divide en dos categorias:
 
 1. Memoria Principal
 2. Memoria Auxiliar
 
-> La **memoria Principal** 
+> La **memoria Principal** contiene el programa en ejecucion y los resultados de los calculos intermedios de la computadora. Se le suele conocer mas como **Memoria Ram**.
+> La **Memoria Auxiliar** o almacenamiento secundario consta de dispositivos utilizados para almacenar los datos en modo permanente. Cuando se necesitan los datos se pueden recuperar de estos dispositivos.
 
+El programa se almacena en memoria externa de modo permanente pero cuando se ha de ejecutar debe transferirse a la memoria central. Este proceso se realiza mediante ordenes al sistema operativo que realiza las operaciones correspondientes.
 
+### Microprocesador.
 
 
