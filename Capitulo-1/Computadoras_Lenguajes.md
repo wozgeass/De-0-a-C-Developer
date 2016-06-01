@@ -34,8 +34,8 @@ El procesador es el dispositivo interior de la computadora que ejecuta las instr
 
 | INTEL | AMD |
 | -- | -- |
-| Core i3 (Sexta Generacion) | APU ATHLON (Cuarta Generacion)|
-| Core i5 (Sexta Generacion) | APU A10 (Septima Generacion)|
+| Core i3 (Sexta Generacion) | APU ATHLON (Cuarta Generacion) |
+| Core i5 (Sexta Generacion) | APU A10 (Septima Generacion) |
 | Core i7 (Sexta Generacion) | FX | 
 
 Y para servidores y maquinas de alta disponibilidad:
@@ -46,9 +46,11 @@ Y para servidores y maquinas de alta disponibilidad:
 
 Pero se hoy en dia los moviles han superado con creces a las PC y laptops que ahora hablamos de otros provedores para estos dispositivos:
 
-| ARM | INTEL | AMD | NVIDIA | 4:0 |
-| -- | -- | -- | -- | -- |
-| 0:2 | Core M | 2:2 | Tegra X1 | 4:2 |
+| ARM | INTEL | AMD | NVIDIA | Samsung | Qualcomm |
+| -- | -- | -- | -- | -- | -- |
+| Cortex-A73 | Core M | Polaris | Tegra X1 | Exynos 8 | Snapdragon 820 |
+
+Y esto es una muestra de como en pleno año 2016
 
 
 
