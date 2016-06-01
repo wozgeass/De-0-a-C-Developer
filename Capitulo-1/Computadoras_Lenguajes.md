@@ -29,17 +29,17 @@ Cuando un usuario interactua con una computadora, proporciona una entrada; en re
 5. Monitorizar, controlar y dirigir las operaciones globales y de secuencia del sistema.
 
 ![Vim](/Imagenes/Arquitectura/CPU.svg)
-El procesador es el dispositivo interior de la computadora que ejecuta las instrucciones del programa o aplicacion. Tambien se le suele conocer como UCP (Unidad Central de Procesamiento). En el mercado existen muchas marcas disponibles para computadoras de escritorio o laptop como:
+El procesador es el dispositivo interior de la computadora que ejecuta las instrucciones del programa o aplicación. Tambien se le suele conocer como **UCP** *(Unidad Central de Procesamiento)*. En el mercado existen muchas marcas disponibles para computadoras de escritorio o laptop como:
 
-| INTEL | AMD |
+| **INTEL** | **AMD** |
 | -- | -- |
-| Core i3 (Sexta Generacion) | APU ATHLON (Cuarta Generacion) |
-| Core i5 (Sexta Generacion) | APU A10 (Septima Generacion) |
-| Core i7 (Sexta Generacion) | FX | 
+| Core i3 *(Sexta Generacion)* | APU ATHLON *(Cuarta Generacion)* |
+| Core i5 *(Sexta Generacion)* | APU A10 *(Septima Generacion)* |
+| Core i7 *(Sexta Generacion)* | FX | 
 
 Y para servidores y maquinas de alta disponibilidad:
 
-| INTEL | AMD |
+| **INTEL** | **AMD** |
 | -- | -- |
 | XEON | OPTERON |
 
