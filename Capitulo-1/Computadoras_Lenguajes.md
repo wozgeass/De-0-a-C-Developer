@@ -53,8 +53,17 @@ Ya casi no existe persona que no tenga un smart phone y ha sido este el caso en 
 
 El procesador solo puede ejecutar instrucciones simples, ale como calculos aritmeticos sencillos o desplazamientos de numero por diferentes posiciones. Sin embargo, la velocidad a la cual se realizan estos calculos debe ser muy grande y esta caracteristica le permite ejecutar instrucciones que realizan calculos complejos.
 
-La UCP, dirige y controla el proceso de informacion realizado por la computadora, procesando y manipulando la informacion almacenada en la memoria. Se puede recuperar esa informacion de la memoria. Tambien puede almacenar los resultados de estos procesos en memoria para su uso posterior.
+La **UCP**, dirige y controla el proceso de informacion realizado por la computadora, procesando y manipulando la informacion almacenada en la memoria. Se puede recuperar esa informacion de la memoria. Tambien puede almacenar los resultados de estos procesos en memoria para su uso posterior.
 
-![Vim](/Imagenes/Arquitectura/CPU.sv)
+![Procesamiento](/Imagenes/Arquitectura/Procesamiento.svg)
+La **UCP** consta de dos componentes:
+
+1. Unidad de Control (UC)
+2. Unidad Aritmetico Logica (UAL)
+
+> La unidad de **Unidad de Control (UC)** coordina las actividades de la computadora, determinando que operaciones se deben realizar y en que orden; asi mismo controla y sincroniza todo el proceso de la computadora.
+> La **Unidad Aritmetico Logica (UAL)**   
+
+
 
 
