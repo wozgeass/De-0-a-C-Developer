@@ -39,16 +39,17 @@ El procesador es el dispositivo interior de la computadora que ejecuta las instr
 | Core i7 (Sexta Generacion) | FX | 
 
 Y para servidores y maquinas de alta disponibilidad:
+
 | INTEL | AMD |
 | -- | -- |
 | XEON | OPTERON |
-| 0:3 | 1:3 |
-
 
 Pero se hoy en dia los moviles han superado con creces a las PC y laptops que ahora hablamos de otros provedores para estos dispositivos:
 
-- ARM
-- QUALCOM
+| ARM | INTEL | AMD | NVIDIA | 4:0 |
+| -- | -- | -- | -- | -- |
+| 0:2 | Core M | 2:2 | Tegra X1 | 4:2 |
+
 
 
 
