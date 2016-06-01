@@ -45,24 +45,6 @@ O para moviles como:
 5. SAMSUNG
 6. QUALCOMM
 
-| **INTEL** | **AMD** |
-| -- | -- |
-| Core i3 *(Sexta Generacion)* | APU ATHLON *(Cuarta Generacion)* |
-| Core i5 *(Sexta Generacion)* | APU A10 *(Septima Generacion)* |
-| Core i7 *(Sexta Generacion)* | FX | 
-
-Y para servidores y maquinas de alta disponibilidad:
-
-| **INTEL** | **AMD** |
-| -- | -- |
-| XEON | OPTERON |
-
-Pero se hoy en dia los moviles han superado con creces a las PC y laptops que ahora hablamos de otros provedores para estos dispositivos:
-
-| **ARM** | **INTEL** | **AMD** | **NVIDIA** | **Samsung** | **Qualcomm** |
-| -- | -- | -- | -- | -- | -- |
-| Cortex-A73 | Core M | Polaris | Tegra X1 | Exynos 8 | Snapdragon 820 |
-
 Ya casi no existe persona que no tenga un smart phone y ha sido este el caso en el que mucha gente ahora prefiere desarrollar apps que aprender el bajo nivel, sin embargo ignoran que lo que sustenta esas apps son el sistema operativo.
 
 El procesador solo puede ejecutar instrucciones simples, ale como calculos aritmeticos sencillos o desplazamientos de numero por diferentes posiciones. Sin embargo, la velocidad a la cual se realizan estos calculos debe ser muy grande y esta caracteristica le permite ejecutar instrucciones que realizan calculos complejos.
@@ -91,5 +73,31 @@ Otra parte muy importante de una computadora es la memoria. La unidad de memoria
 El programa se almacena en memoria externa de modo permanente pero cuando se ha de ejecutar debe transferirse a la memoria central. Este proceso se realiza mediante ordenes al sistema operativo que realiza las operaciones correspondientes.
 
 ### Microprocesador.
+Es un circuito integrado que controla y realiza las funciones y operaciones con los datos. En realidad el microprocesador representa la Unidad Central de Procesamiento o procesador, y popularmente cuando se habla de una computadora el termino que se utiliza en las caracteristicas tecnicas para referirse a la Unidad Central de Procesamiento.
+Las velocidades de un microprocesador se mide en MegaHercios (MHz) aunque es mas comun que encuentres los GigaHercios (Ghz).
+
+| **INTEL** | **AMD** |
+| -- | -- |
+| Core i3 *(Sexta Generacion)* | APU ATHLON *(Cuarta Generacion)* |
+| Core i5 *(Sexta Generacion)* | APU A10 *(Septima Generacion)* |
+| Core i7 *(Sexta Generacion)* | FX | 
+
+Y para servidores y maquinas de alta disponibilidad:
+
+| **INTEL** | **AMD** |
+| -- | -- |
+| XEON | OPTERON |
+
+Pero se hoy en dia los moviles han superado con creces a las PC y laptops que ahora hablamos de otros provedores para estos dispositivos:
+
+| **ARM** | **INTEL** | **AMD** | **NVIDIA** | **Samsung** | **Qualcomm** |
+| -- | -- | -- | -- | -- | -- |
+| Cortex-A73 | Core M | Polaris | Tegra X1 | Exynos 8 | Snapdragon 820 |
+
+
+
+
+
+
 
 
