@@ -106,6 +106,6 @@ La salida al usuario se le proporciona mediante **dispositivos de salida**, tale
 2. Cañon
 3. Impresora
 
-Los dispositivos de entrada/Salida 
+Los dispositivos de **entrada/Salida** permiten la comunicacion entre la computadora y el usuario. Los Dispositivos de entrada como su nombre lo indica, sirven para introducir datos en la computadora para su procesamiento.
 
 
