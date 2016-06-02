@@ -99,13 +99,21 @@ Para que el usuario pueda introducir la entrada, la computadora tiene varios **d
 
 1. Teclado
 2. Raton (Mouse)
+3. Scanner
+5. Unidad DVD
+6. Unidad Blue Ray
+7. Web Cam
+8. Joystick
+9. Lectores de Codigo de Barras
+10. Microfonos.
 
 La salida al usuario se le proporciona mediante **dispositivos de salida**, tales como
 
 1. Monitor
 2. Cañon
 3. Impresora
+4. Bocinas
 
-Los dispositivos de **entrada/Salida** permiten la comunicacion entre la computadora y el usuario. Los Dispositivos de entrada como su nombre lo indica, sirven para introducir datos en la computadora para su procesamiento.
+Los dispositivos de **entrada/Salida** permiten la comunicacion entre la computadora y el usuario. Los Dispositivos de entrada como su nombre lo indica, sirven para introducir datos en la computadora para su procesamiento. Los datos se leen de los dispositivos de entrada y se almacenan en la memoria principal. Convirtiendo la informacion de entrada en impulsos electricos que son procesados por el sistema operativo.
 
 
