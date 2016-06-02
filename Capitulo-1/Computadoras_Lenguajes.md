@@ -119,3 +119,4 @@ Los dispositivos de **entrada/Salida** permiten la comunicacion entre la computa
 ![Procesamiento](/Imagenes/Arquitectura/IO.svg)
 
 
+
