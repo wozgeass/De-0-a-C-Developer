@@ -96,12 +96,12 @@ Como puedes ver quizá sea un poco grande pero esa variable al leerla es fácil 
 
 Evita usar la misma palabra para 2 fines distintos. Si aplicas la regla de una palabra por conceptos, acabaras con muchos elementos que por ejemplo tengan una palabra *agregar*. Mientras las listas de parámetros y los valores devueltos de las distintas funciones *agregar* sean semánticamente equivalentes, no hay problema. Sin embargo podrías usar la palabra *agregar* por motivos de coherencia, aunque no sea en el mismo sentido. Imagina que hay varias funciones en las que *agregar* puede crear un nuevo valor sumando variables o concatenando 2 cadenas. Imagina ahora creamos una nueva función que añade una parámetro a una colección. Parece coherente ya que hay muchas otras funciones *agregar*, pero en este caso hay una diferencia semántica, de modo que debemos usar un nombre como *insertar* o *añadir*. Ten en consideración que como desarrolladores y autores de algún programa, nuestro objetivo es facilitar la compresión del código.
   
-Recuerda que las personas que quizas vayan a leer tu codigo seran programadores. Por ello, es recomendable usar terminos matematicos, algoritmos, nombres de patrones y demas. 
+Recuerda que las personas que quizás vayan a leer tu código serán programadores. Por ello, es recomendable usar términos matemáticos, algoritmos, nombres de patrones y demás. 
 
-Algunos nombres tienen significado por si mismos, pero la mayoria no. Por ello, debemos incluirlos con un contexto, variables, funciones y espacios de nombres con nombres adecuados.
-Cuando todo lo demas falle, pueden usarse prefijos como ultimo recurso.
+Algunos nombres tienen significado por si mismos, pero la mayoría no. Por ello, debemos incluirlos con un contexto, variables, funciones y espacios de nombres con nombres adecuados.
+Cuando todo lo demás falle, pueden usarse prefijos como ultimo recurso.
 
-Imaginemos que tenemos la variable `primerNombre`, `ultimoNombre`, `calle`, `numeroCasa`, `ciudad`, `estado`, `codigoPostal`. Si las combinamos, es evidente que forman una direccion. Pero si las variable `state` se usa de forma aislada en una funcion, ¿Sabriamos que es parte de una direccion? logicamente podemos añadir contextos por medio de prefijos: `agregarPrimNombre`,  `agregarUltimNombre`, `agregarEstado`. Al menos si los lectores del codigo comprenderan que estas variables forman parte de una estructura mayor.
+Imaginemos que tenemos la variable `primerNombre`, `ultimoNombre`, `calle`, `numeroCasa`, `ciudad`, `estado`, `codigoPostal`. Si las combinamos, es evidente que forman una direccion. Pero si las variable `state` se usa de forma aislada en una función, ¿Sabríamos que es parte de una dirección? logicamente podemos añadir contextos por medio de prefijos: `agregarPrimNombre`,  `agregarUltimNombre`, `agregarEstado`. Al menos si los lectores del código comprenderán que estas variables forman parte de una estructura mayor.
 
 ## Manejo de las funciones
 Desde los inicios de la programacion, creabamos sistemas a partir de rutinas y subrutinas. Despues de la epoca de Fortran y PL/1, se creaban sistemas con programas, subprogramas y funciones. En la actualidad, solo las funciones han sobrevivido. Son la primera linea organizativa en cualquier programa en varios proyectos Open Source.
