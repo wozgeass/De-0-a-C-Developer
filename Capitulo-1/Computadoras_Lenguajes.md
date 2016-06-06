@@ -20,7 +20,7 @@ Los programas modernos producen información en muchos formatos. Estos programas
 Una computadora necesita tanto del **hardware** como del **software** para poder ser usada real y prácticamente. El **hardware** de la computadora sin el software que le acompaña es como si tuviéramos un libro con paginas en blanco. La portada, contraportada y las paginas interiores constituyen el **hardware** del libro, pero el libro no es útil sin ningún texto, el **software**.
 
 ## Hardware
-Cuando un usuario interactuá con una computadora, proporciona una entrada; en respuesta, la computadora procesa la entrada devolviendo una salida valiosa al usuario. La entrada puede ser en formato de ordenes o instrucciones dadas, texto, números o imágenes. La salida puede ser el resultado: cálculos en calc de libreoffice, una oficio en writer o un auto moviéndose por la pantalla en un juego como super tux. Una computadora necesita disponer de un conjunto de funcionalidades y proporcionar la capacidad de:
+Cuando un usuario interactuá con una computadora, proporciona una entrada; en respuesta, la computadora procesa la entrada devolviendo una salida valiosa al usuario. La entrada puede ser en formato de ordenes o instrucciones dadas, texto, números o imágenes. La salida puede ser el resultado: cálculos en *calc* de **libreoffice**, una oficio en *writer* o un auto moviéndose por la pantalla en un juego como **super tux**. Una computadora necesita disponer de un conjunto de funcionalidades y proporcionar la capacidad de:
 
 1. Aceptar la entrada.
 2. Visualiza o presentar la salida.
@@ -30,7 +30,6 @@ Cuando un usuario interactuá con una computadora, proporciona una entrada; en r
 
 ![Vim](/Imagenes/Arquitectura/CPU.svg)
 ### Procesador
-
 El procesador es el dispositivo interior de la computadora que ejecuta las instrucciones del programa o aplicación. Tambien se le suele conocer como **UCP** *(Unidad Central de Procesamiento)*. En el mercado existen muchas marcas disponibles para computadoras de escritorio o laptop como:
 
 1. INTEL
