@@ -73,14 +73,13 @@ Otra parte muy importante de una computadora es la memoria. La unidad de memoria
 El programa se almacena en memoria externa de modo permanente pero cuando se ha de ejecutar debe transferirse a la memoria central. Este proceso se realiza mediante ordenes al sistema operativo que realiza las operaciones correspondientes.
 
 ### Microprocesador
-Es un circuito integrado que controla y realiza las funciones y operaciones con los datos. En realidad el microprocesador representa la Unidad Central de Procesamiento o procesador, y popularmente cuando se habla de una computadora el termino que se utiliza en las caracteristicas tecnicas para referirse a la Unidad Central de Procesamiento.
-Las velocidades de un microprocesador se mide en MegaHercios (MHz) aunque es mas comun que encuentres los GigaHercios (Ghz).
+Es un circuito integrado que controla y realiza las funciones y operaciones con los datos. En realidad el microprocesador representa la Unidad Central de Procesamiento o procesador, y popularmente cuando se habla de una computadora el termino que se utiliza en las características técnicas para referirse a la Unidad Central de Procesamiento. Las velocidades de un microprocesador se mide en MegaHercios (MHz) aunque es mas común que encuentres los GigaHercios (Ghz).
 
 | **INTEL** | **AMD** |
 | -- | -- |
-| Core i3 *(Sexta Generacion)* | APU ATHLON *(Cuarta Generacion)* |
-| Core i5 *(Sexta Generacion)* | APU A10 *(Septima Generacion)* |
-| Core i7 *(Sexta Generacion)* | FX | 
+| Core i3 *(Sexta Generación)* | APU ATHLON *(Cuarta Generación)* |
+| Core i5 *(Sexta Generación)* | APU A10 *(Séptima Generación)* |
+| Core i7 *(Sexta Generación)* | FX | 
 
 Y para servidores y maquinas de alta disponibilidad:
 
@@ -88,7 +87,7 @@ Y para servidores y maquinas de alta disponibilidad:
 | -- | -- |
 | XEON | OPTERON |
 
-Pero se hoy en dia los moviles han superado con creces a las PC y laptops que ahora hablamos de otros provedores para estos dispositivos:
+Pero se hoy en día los móviles han superado con creces a las PC y laptops que ahora hablamos de otros proveedores para estos dispositivos:
 
 | **ARM** | **INTEL** | **AMD** | **NVIDIA** | **Samsung** | **Qualcomm** |
 | -- | -- | -- | -- | -- | -- |
