@@ -30,25 +30,25 @@ Cuando un usuario interactuá con una computadora, proporciona una entrada; en r
 
 ![Vim](/Imagenes/Arquitectura/CPU.svg)
 ### Procesador
-El procesador es el dispositivo interior de la computadora que ejecuta las instrucciones del programa o aplicación. Tambien se le suele conocer como **UCP** *(Unidad Central de Procesamiento)*. En el mercado existen muchas marcas disponibles para computadoras de escritorio o laptop como:
+El procesador es el dispositivo interior de la computadora que ejecuta las instrucciones del programa o aplicación. También se le suele conocer como **UCP** *(Unidad Central de Procesamiento)*. En el mercado existen muchas marcas disponibles para computadoras de escritorio o laptop como:
 
-1. INTEL
-2. AMD
+1. **INTEL**
+2. **AMD**
 
-O para moviles como:
+O para móviles como:
 
-1. ARM.
-2. INTEL
-3. AMD
-4. NVIDIA
-5. SAMSUNG
-6. QUALCOMM
+1. **ARM**
+2. **INTEL**
+3. **AMD**
+4. **NVIDIA**
+5. **SAMSUNG**
+6. **QUALCOMM**
 
 Ya casi no existe persona que no tenga un smart phone y ha sido este el caso en el que mucha gente ahora prefiere desarrollar apps que aprender el bajo nivel, sin embargo ignoran que lo que sustenta esas apps son el sistema operativo.
 
-El procesador solo puede ejecutar instrucciones simples, tales como calculos aritmeticos sencillos o desplazamientos de numero por diferentes posiciones. Sin embargo, la velocidad a la cual se realizan estos calculos debe ser muy grande y esta caracteristica le permite ejecutar instrucciones que realizan calculos complejos.
+El procesador solo puede ejecutar instrucciones simples, tales como cálculos aritméticos sencillos o desplazamientos de numero por diferentes posiciones. Sin embargo, la velocidad a la cual se realizan estos cálculos debe ser muy grande y esta característica le permite ejecutar instrucciones que realizan cálculos complejos.
 
-La **UCP**, dirige y controla el proceso de informacion realizado por la computadora, procesando y manipulando la informacion almacenada en la memoria. Se puede recuperar esa informacion de la memoria. Tambien puede almacenar los resultados de estos procesos en memoria para su uso posterior.
+La **UCP**, dirige y controla el proceso de información realizado por la computadora, procesando y manipulando la información almacenada en la memoria. Se puede recuperar esa información de la memoria. También puede almacenar los resultados de estos procesos en memoria para su uso posterior.
 
 ![Procesamiento](/Imagenes/Arquitectura/Procesamiento.svg)
 La **UCP** consta de dos componentes:
