@@ -62,12 +62,12 @@ La **UCP** consta de dos componentes:
 
 ### Memoria
 
-Otra parte muy importante de una computadora es la memoria. La unidad de memoria almacena la informacion en un formato logicamente consistente. Normalmente, tanto las instrucciones como los datos se almacenan en memoria, con frecuencia en areas distintas y separadas. La memoria se divide en dos categorias:
+Otra parte muy importante de una computadora es la memoria. La unidad de memoria almacena la información en un formato lógicamente consistente. Normalmente, tanto las instrucciones como los datos se almacenan en memoria, con frecuencia en áreas distintas y separadas. La memoria se divide en dos categorías:
 
-1. Memoria Principal
-2. Memoria Auxiliar
+1. **Memoria Principal**
+2. **Memoria Auxiliar**
 
-> La **memoria Principal** contiene el programa en ejecucion y los resultados de los calculos intermedios de la computadora. Se le suele conocer mas como **Memoria Ram**.
+> La **memoria Principal** contiene el programa en ejecución y los resultados de los cálculos intermedios de la computadora. Se le suele conocer mas como **Memoria Ram**.
 > La **Memoria Auxiliar** o almacenamiento secundario consta de dispositivos utilizados para almacenar los datos en modo permanente. Cuando se necesitan los datos se pueden recuperar de estos dispositivos.
 
 El programa se almacena en memoria externa de modo permanente pero cuando se ha de ejecutar debe transferirse a la memoria central. Este proceso se realiza mediante ordenes al sistema operativo que realiza las operaciones correspondientes.
