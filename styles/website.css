@@ -112,6 +112,11 @@ i {
     color: #7C7C7C;
 }
 
+b {
+    font-family: Inconsolata;
+    color: #2185D0;
+}
+
 pre{
     font-family: Inconsolata;
     background-color: #000000;
