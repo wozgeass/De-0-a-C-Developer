@@ -120,7 +120,7 @@ Lo que nos deja con la siguiente interrogante:
  
 Quizás para responder esta interrogante debas considerar una de las premisas de **UNIX**, pero modificada un poco para entender este contexto:
 
-> Que cada funcion solo debe hacer una cosa. Debe hacerlo bien y debe ser lo unico que haga.
+> Que cada función solo debe hacer una cosa. Debe hacerlo bien y debe ser lo único que haga.
 
 De igual manera que las variables las funciones necesitan nombres consistentes. Cuanto mas reducida y concreta es una función, mas sencillo sera elegir un nombre descriptivo. No temas a los nombres extensos. En muchos casos un nombre extenso es preferible sobre uno breve y enigmático. Lo mejor seria usar una convención de nombres que permita leer varias palabras en los nombres de la funciones y usa esas palabras para asignar a la función un nombre que describa su cometido.
 
