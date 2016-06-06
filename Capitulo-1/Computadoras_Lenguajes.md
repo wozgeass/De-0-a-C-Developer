@@ -53,11 +53,12 @@ La **UCP**, dirige y controla el proceso de información realizado por la comput
 ![Procesamiento](/Imagenes/Arquitectura/Procesamiento.svg)
 La **UCP** consta de dos componentes:
 
-1. Unidad de Control (UC)
-2. Unidad Aritmetico Logica (UAL)
+1. **Unidad de Control** (*UC*)
+2. **Unidad Aritmético Lorica** (*UAL*)
 
-> La **Unidad de Control (UC)** coordina las actividades de la computadora, determinando que operaciones se deben realizar y en que orden; asi mismo controla y sincroniza todo el proceso de la computadora.
-> La **Unidad Aritmetico Logica (UAL)** Realiza operaciones aritmeticas y logicas, tales como suma, resta, multiplicacion, division y comparaciones. Los datos en la memoria central se pueden leer o escribir por la **UCP**.
+> La **Unidad de Control (UC)** coordina las actividades de la computadora, determinando que operaciones se deben realizar y en que orden; así mismo controla y sincroniza todo el proceso de la computadora.
+
+> La **Unidad Aritmético Lorica (UAL)** Realiza operaciones aritméticas y lógicas, tales como suma, resta, multiplicación, división y comparaciones. Los datos en la memoria central se pueden leer o escribir por la **UCP**.
 
 ### Memoria
 
