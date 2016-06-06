@@ -20,12 +20,12 @@ Los programas modernos producen información en muchos formatos. Estos programas
 Una computadora necesita tanto del **hardware** como del **software** para poder ser usada real y prácticamente. El **hardware** de la computadora sin el software que le acompaña es como si tuviéramos un libro con paginas en blanco. La portada, contraportada y las paginas interiores constituyen el **hardware** del libro, pero el libro no es útil sin ningún texto, el **software**.
 
 ## Hardware
-Cuando un usuario interactua con una computadora, proporciona una entrada; en respuesta, la computadora procesa la entrada devolviendo una salida valiosa al usuario. La entrada puede ser en formato de ordenes o instrucciones dadas, texto, numeros o imagenes. La salida puede ser el resultado: calculos en calc de libreoffice, una oficio en writer o un auto moviendose por la pantalla en un juego como super tux. Una computadora necesita disponer de un conjunto de funcionalidades y proporcionar la capacidad de:
+Cuando un usuario interactuá con una computadora, proporciona una entrada; en respuesta, la computadora procesa la entrada devolviendo una salida valiosa al usuario. La entrada puede ser en formato de ordenes o instrucciones dadas, texto, números o imágenes. La salida puede ser el resultado: cálculos en calc de libreoffice, una oficio en writer o un auto moviéndose por la pantalla en un juego como super tux. Una computadora necesita disponer de un conjunto de funcionalidades y proporcionar la capacidad de:
 
 1. Aceptar la entrada.
 2. Visualiza o presentar la salida.
-3. Almacenar la informacion en un formato consistente.
-4. Ejecutar operaciones aritmeticas o logicas bien sobre datos de entrada o bien sobre datos de salida.
+3. Almacenar la información en un formato consistente.
+4. Ejecutar operaciones aritméticas o lógicas bien sobre datos de entrada o bien sobre datos de salida.
 5. Monitorizar, controlar y dirigir las operaciones globales y de secuencia del sistema.
 
 ![Vim](/Imagenes/Arquitectura/CPU.svg)
