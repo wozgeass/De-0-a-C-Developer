@@ -35,7 +35,7 @@ Un programador sin este sentido puede reconocer el desastre cometido en un modul
 
 > **En definitiva, un programador que tengas buenas practicas es un artista que puede transformar un lienzo en blanco en un sistema de código elegante.** 
 
-Y este es uno de los motivos por el que los proyectos open source han logrado sobrevivir tantos años, inclusive al pasar a través de encargados diferentes. Linux y muchos proyectos son muestra de ello.
+Y este es uno de los motivos por el que los proyectos *open source* han logrado sobrevivir tantos años, inclusive al pasar a través de encargados diferentes. *Linux* y muchos proyectos son muestra de ello.
 
 ## Nombres consistentes.
 Por lo general al momento de codificar algo, asignamos nombre a archivos, carpetas y archivos. Usamos nombres constantemente. Por ello, debemos hacerlo bien. 
@@ -104,7 +104,7 @@ Cuando todo lo demás falle, pueden usarse prefijos como ultimo recurso.
 Imaginemos que tenemos la variable `primerNombre`, `ultimoNombre`, `calle`, `numeroCasa`, `ciudad`, `estado`, `codigoPostal`. Si las combinamos, es evidente que forman una dirección. Pero si las variable `state` se usa de forma aislada en una función, ¿Sabríamos que es parte de una dirección? lógicamente podemos añadir contextos por medio de prefijos: `agregarPrimNombre`,  `agregarUltimNombre`, `agregarEstado`. Al menos si los lectores del código comprenderán que estas variables forman parte de una estructura mayor.
 
 ## Manejo de las funciones
-Desde los inicios de la programación, creábamos sistemas a partir de rutinas y subrutinas. Después de la época de Fortran y PL/1, se creaban sistemas con programas, subprogramas y funciones. En la actualidad, solo las funciones han sobrevivido. Son la primera linea organizativa en cualquier programa en varios proyectos Open Source.
+Desde los inicios de la programación, creábamos sistemas a partir de rutinas y subrutinas. Después de la época de **Fortran** y **PL/1**, se creaban sistemas con programas, subprogramas y funciones. En la actualidad, solo las funciones han sobrevivido. Son la primera linea organizativa en cualquier programa en varios proyectos *Open Source*.
 
 > La primera regla de las funciones es que deben ser de tamaño reducido. 
 
