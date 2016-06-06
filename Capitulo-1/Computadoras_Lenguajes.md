@@ -73,7 +73,7 @@ Otra parte muy importante de una computadora es la memoria. La unidad de memoria
 El programa se almacena en memoria externa de modo permanente pero cuando se ha de ejecutar debe transferirse a la memoria central. Este proceso se realiza mediante ordenes al sistema operativo que realiza las operaciones correspondientes.
 
 ### Microprocesador
-Es un circuito integrado que controla y realiza las funciones y operaciones con los datos. En realidad el microprocesador representa la Unidad Central de Procesamiento o procesador, y popularmente cuando se habla de una computadora el termino que se utiliza en las características técnicas para referirse a la Unidad Central de Procesamiento. Las velocidades de un microprocesador se mide en MegaHercios (MHz) aunque es mas común que encuentres los GigaHercios (Ghz).
+Es un circuito integrado que controla y realiza las funciones y operaciones con los datos. En realidad el microprocesador representa la Unidad Central de Procesamiento o procesador, y popularmente cuando se habla de una computadora el termino que se utiliza en las características técnicas para referirse a la Unidad Central de Procesamiento. Las velocidades de un microprocesador se mide en **MegaHercios** (*MHz*) aunque es mas común que encuentres los **GigaHercios** (*Ghz*).
 
 | **INTEL** | **AMD** |
 | -- | -- |
