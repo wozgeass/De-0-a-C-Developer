@@ -101,7 +101,7 @@ Recuerda que las personas que quizás vayan a leer tu código serán programador
 Algunos nombres tienen significado por si mismos, pero la mayoría no. Por ello, debemos incluirlos con un contexto, variables, funciones y espacios de nombres con nombres adecuados.
 Cuando todo lo demás falle, pueden usarse prefijos como ultimo recurso.
 
-Imaginemos que tenemos la variable `primerNombre`, `ultimoNombre`, `calle`, `numeroCasa`, `ciudad`, `estado`, `codigoPostal`. Si las combinamos, es evidente que forman una direccion. Pero si las variable `state` se usa de forma aislada en una función, ¿Sabríamos que es parte de una dirección? logicamente podemos añadir contextos por medio de prefijos: `agregarPrimNombre`,  `agregarUltimNombre`, `agregarEstado`. Al menos si los lectores del código comprenderán que estas variables forman parte de una estructura mayor.
+Imaginemos que tenemos la variable `primerNombre`, `ultimoNombre`, `calle`, `numeroCasa`, `ciudad`, `estado`, `codigoPostal`. Si las combinamos, es evidente que forman una dirección. Pero si las variable `state` se usa de forma aislada en una función, ¿Sabríamos que es parte de una dirección? lógicamente podemos añadir contextos por medio de prefijos: `agregarPrimNombre`,  `agregarUltimNombre`, `agregarEstado`. Al menos si los lectores del código comprenderán que estas variables forman parte de una estructura mayor.
 
 ## Manejo de las funciones
 Desde los inicios de la programacion, creabamos sistemas a partir de rutinas y subrutinas. Despues de la epoca de Fortran y PL/1, se creaban sistemas con programas, subprogramas y funciones. En la actualidad, solo las funciones han sobrevivido. Son la primera linea organizativa en cualquier programa en varios proyectos Open Source.
