@@ -77,21 +77,21 @@ Es un circuito integrado que controla y realiza las funciones y operaciones con 
 
 | **INTEL** | **AMD** |
 | -- | -- |
-| Core i3 *(Sexta Generación)* | APU ATHLON *(Cuarta Generación)* |
-| Core i5 *(Sexta Generación)* | APU A10 *(Séptima Generación)* |
-| Core i7 *(Sexta Generación)* | FX | 
+| **Core i3** *(Sexta Generación)* | **APU ATHLON** *(Cuarta Generación)* |
+| **Core i5** *(Sexta Generación)* | **APU A10** *(Séptima Generación)* |
+| **Core i7** *(Sexta Generación)* | **FX** | 
 
 Y para servidores y maquinas de alta disponibilidad:
 
 | **INTEL** | **AMD** |
 | -- | -- |
-| XEON | OPTERON |
+| **XEON** | **OPTERON** |
 
 Pero se hoy en día los móviles han superado con creces a las PC y laptops que ahora hablamos de otros proveedores para estos dispositivos:
 
 | **ARM** | **INTEL** | **AMD** | **NVIDIA** | **Samsung** | **Qualcomm** |
 | -- | -- | -- | -- | -- | -- |
-| Cortex-A73 | Core M | Polaris | Tegra X1 | Exynos 8 | Snapdragon 820 |
+| **Cortex-A73** | **Core M** | **Polaris** | **Tegra X1** | **Exynos 8** | **Snapdragon 820** |
 
 ### Dispositivos de Entrada/Salida
 Para que el usuario pueda introducir la entrada, la computadora tiene varios **dispositivos de entrada** como parte de su hardware, como:
