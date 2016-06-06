@@ -51,6 +51,11 @@ thead{
     color: #000000;
 }
 
+tbody {
+    background-color: #2185D0 !important;
+    background: #2185D0 !important;
+}
+
 td, th {
     font-family: Inconsolata;
     border-collapse: collapse;
