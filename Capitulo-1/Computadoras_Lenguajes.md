@@ -20,7 +20,7 @@ Los programas modernos producen informacion en muchos formatos. Estos programas 
 Una computadora necesita tanto del **hardware** como del **software** para poder ser usada real y practicamente. El **hardware** de la computadora sin el software que le acompaña es como si tuvieramos un libro con paginas en blanco. La portada, contraportada y las paginas interiores constituyen el **hardware** del libro, pero el libro no es util sin ningun texto, el **software**.
 
 ## Hardware
-Cuando un usuario interactua con una computadora, proporciona una entrada; en respuesta, la computadora procesa la entrada devolviendo una salida valiosa al usuario. La entrada puede ser en formato de ordenes o instrucciones dadas, texto, numeros o imagenes. La salida puede ser el resultado: calculos en calc de libreoffice, una oficio en writer o un auto miviendose por la pantalla en un juego como super tux. Una computadora necesita disponer de un conjunto de funcionalidades y proporcionar la capacidad de:
+Cuando un usuario interactua con una computadora, proporciona una entrada; en respuesta, la computadora procesa la entrada devolviendo una salida valiosa al usuario. La entrada puede ser en formato de ordenes o instrucciones dadas, texto, numeros o imagenes. La salida puede ser el resultado: calculos en calc de libreoffice, una oficio en writer o un auto moviendose por la pantalla en un juego como super tux. Una computadora necesita disponer de un conjunto de funcionalidades y proporcionar la capacidad de:
 
 1. Aceptar la entrada.
 2. Visualiza o presentar la salida.
@@ -47,7 +47,7 @@ O para moviles como:
 
 Ya casi no existe persona que no tenga un smart phone y ha sido este el caso en el que mucha gente ahora prefiere desarrollar apps que aprender el bajo nivel, sin embargo ignoran que lo que sustenta esas apps son el sistema operativo.
 
-El procesador solo puede ejecutar instrucciones simples, ale como calculos aritmeticos sencillos o desplazamientos de numero por diferentes posiciones. Sin embargo, la velocidad a la cual se realizan estos calculos debe ser muy grande y esta caracteristica le permite ejecutar instrucciones que realizan calculos complejos.
+El procesador solo puede ejecutar instrucciones simples, tales como calculos aritmeticos sencillos o desplazamientos de numero por diferentes posiciones. Sin embargo, la velocidad a la cual se realizan estos calculos debe ser muy grande y esta caracteristica le permite ejecutar instrucciones que realizan calculos complejos.
 
 La **UCP**, dirige y controla el proceso de informacion realizado por la computadora, procesando y manipulando la informacion almacenada en la memoria. Se puede recuperar esa informacion de la memoria. Tambien puede almacenar los resultados de estos procesos en memoria para su uso posterior.
 
@@ -57,12 +57,12 @@ La **UCP** consta de dos componentes:
 1. Unidad de Control (UC)
 2. Unidad Aritmetico Logica (UAL)
 
-> La unidad de **Unidad de Control (UC)** coordina las actividades de la computadora, determinando que operaciones se deben realizar y en que orden; asi mismo controla y sincroniza todo el proceso de la computadora.
-> La **Unidad Aritmetico Logica (UAL)** Realiza operaciones aritmeticas y logicas, tales como suma, resta, multiplicacion, division y compraraciones. Los datos en la memoria central se pueden leer o escribir por la **UCP**.
+> La **Unidad de Control (UC)** coordina las actividades de la computadora, determinando que operaciones se deben realizar y en que orden; asi mismo controla y sincroniza todo el proceso de la computadora.
+> La **Unidad Aritmetico Logica (UAL)** Realiza operaciones aritmeticas y logicas, tales como suma, resta, multiplicacion, division y comparaciones. Los datos en la memoria central se pueden leer o escribir por la **UCP**.
 
-### Memoria.
+### Memoria
 
-Otra parte muy importante de una computadora es la memoria. La unidad de memoria almacena almacena la informacion en un formato logicamente consistente. Normalmente, tanto las instrucciones como los datos se almacenan en memoria, con frecuencia en areas distintas y separadas. La memoria se divide en dos categorias:
+Otra parte muy importante de una computadora es la memoria. La unidad de memoria almacena la informacion en un formato logicamente consistente. Normalmente, tanto las instrucciones como los datos se almacenan en memoria, con frecuencia en areas distintas y separadas. La memoria se divide en dos categorias:
 
 1. Memoria Principal
 2. Memoria Auxiliar
@@ -72,7 +72,7 @@ Otra parte muy importante de una computadora es la memoria. La unidad de memoria
 
 El programa se almacena en memoria externa de modo permanente pero cuando se ha de ejecutar debe transferirse a la memoria central. Este proceso se realiza mediante ordenes al sistema operativo que realiza las operaciones correspondientes.
 
-### Microprocesador.
+### Microprocesador
 Es un circuito integrado que controla y realiza las funciones y operaciones con los datos. En realidad el microprocesador representa la Unidad Central de Procesamiento o procesador, y popularmente cuando se habla de una computadora el termino que se utiliza en las caracteristicas tecnicas para referirse a la Unidad Central de Procesamiento.
 Las velocidades de un microprocesador se mide en MegaHercios (MHz) aunque es mas comun que encuentres los GigaHercios (Ghz).
 
@@ -95,7 +95,7 @@ Pero se hoy en dia los moviles han superado con creces a las PC y laptops que ah
 | Cortex-A73 | Core M | Polaris | Tegra X1 | Exynos 8 | Snapdragon 820 |
 
 ### Dispositivos de Entrada/Salida
-Para que el usuario pueda introducir la entrada, la computadora tiene varios **dispositivos de entrada** como par de su hardware, tales como:
+Para que el usuario pueda introducir la entrada, la computadora tiene varios **dispositivos de entrada** como parte de su hardware, como:
 
 1. Teclado
 2. Raton (Mouse)
