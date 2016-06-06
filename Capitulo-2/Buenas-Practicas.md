@@ -78,12 +78,12 @@ int solaris;
  
 Que son nombres de variables pobres ya que son los nombres de otros sistemas operativos. 
 
-Gran parte de nuestro cerebro se dedica al concepto palabra. Y, por definicion, las palabras son pronunciables. Seria una pena malgastar esa parte de nuestro cerebro dedicada al lenguaje hablado. Por tanto es importante tambien usar nombres que sean pronunciables. Esta es una actividad importante, ya que la programacion es una actividad social.
+Gran parte de nuestro cerebro se dedica al concepto palabra. Y, por definición, las palabras son pronunciables. Seria una pena malgastar esa parte de nuestro cerebro dedicada al lenguaje hablado. Por tanto es importante también usar nombres que sean pronunciables. Esta es una actividad importante, ya que la programación es una actividad social.
 
 > Incorrecto:
 
 ```C
-int vsdincper;  //Variable que guarda solo el dia del nacimiento de la persona
+int vsdincper;  //Variable que guarda solo el día del nacimiento de la persona
 ```
 
 > Correcto:
@@ -92,7 +92,7 @@ int vsdincper;  //Variable que guarda solo el dia del nacimiento de la persona
 int diaNacimPersona;
 ```
 
-Como puedes ver quiza sea un poco grande pero esa variable al leerla es facil y te dice que valor guarda.
+Como puedes ver quizá sea un poco grande pero esa variable al leerla es fácil y te dice que valor guarda.
 
 Evita usar la misma palabra para 2 fines distintos. Si aplicas la regla de una palabra por conceptos, acabaras con muchos elementos que por ejemplo tengan una palabra *agregar*. Mientras las listas de parametros y los valores devueltos de las distintas funciones *agregar* sean semanticamente equivalentes, no hay problema. Sin embargo podrias usar la palabra *agregar* por motivos de coherencia, aunque no sea en el mismo sentido. Imagina que hay varias funciones en las que *agregar* puede crear un nuevo valor sumando variables o concatenando 2 cadenas. Imagina ahora creamos una nueva funcion que añade una parametro a una coleccion. Parece coherente ya que hay muchas otras funciones *agregar*, pero en este caso hay una diferencia semantica, de modo que debemos usar un nombre como *insertar* o *añadir*. Ten en consideracion que como desarrolladores y autores de algun programa, nuestro objetivo es facilitar la compresion del codigo.
   
