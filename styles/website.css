@@ -35,8 +35,8 @@ h4 {
 }
 
 table {
-    background-color: 2185D0;
-    background: 2185D0;
+    background-color: #2185D0;
+    background: #2185D0;
     color: #777;
     display:block;
     margin:0 auto 0 auto;
@@ -44,8 +44,9 @@ table {
 }
 
 thead{
-    border-top: 0.4em solid #214bd0ff;
-    background-color: #2185D0;
+    background: #214bd0;
+    border-top: 0.4em solid #214bd0;
+    background-color: #214bd0;
     font-family: Inconsolata;
     color: #000000;
 }
