@@ -1,7 +1,7 @@
 # Relación computadoras y los lenguajes de programación.
 Esta parte es un sugerencia de varias personas donde piden que se explique un poco mas a detalle como se relacionan las computadoras con los lenguajes de programación, lo quise omitir pensando que eso lo podrían buscar en algunos otros libros pero creo que no estaría completo el libro sin esta parte.
 Las computadoras hoy en día se han convertido en una herramienta esencial en muchas áreas: industria, gobierno, ciencia, educación, etc. El papel de los programas y aplicaciones juega un papel crucial; sin una lista de instrucciones a seguir, la computadora es virtualmente inútil. Y los lenguajes de programación nos permiten escribir esos programas y, por consiguiente, comunicarnos con las computadoras a través de ellos.
-Una computadora procesa los datos y los convierte en información significativa. Para conseguir esos resultados, un programador necesita conocimientos tanto de hardware como de software.
+Una computadora procesa los datos y los convierte en información significativa. Para conseguir esos resultados, un programador necesita conocimientos tanto de **hardware** como de software.
 
 ## Organización de una computadora.
 Desde la decada de los *40's* se crearon las primeras computadoras con nombres muy extravagantes como **Atanasoff-Berry**, **UNIVAC**, **ENIAC** o **EDVAC**.
@@ -94,24 +94,24 @@ Pero se hoy en día los móviles han superado con creces a las PC y laptops que 
 | **Cortex-A73** | **Core M** | **Polaris** | **Tegra X1** | **Exynos 8** | **Snapdragon 820** |
 
 ### Dispositivos de Entrada/Salida
-Para que el usuario pueda introducir la entrada, la computadora tiene varios **dispositivos de entrada** como parte de su hardware, como:
+Para que el usuario pueda introducir la entrada, la computadora tiene varios **dispositivos de entrada** como parte de su **hardware**, como:
 
-1. Teclado
-2. Ratón  (Mouse)
-3. Scanner
-5. Unidad DVD
-6. Unidad Blue Ray
-7. Web Cam
-8. Joystick
-9. Lectores de Codigo de Barras
-10. Micrófonos
+1. **Teclado**
+2. **Ratón**  (*Mouse*)
+3. **Scanner**
+5. **Unidad DVD**
+6. **Unidad Blue Ray**
+7. **Web Cam**
+8. **Joystick**
+9. **Lectores de Codigo de Barras**
+10. **Micrófonos**
 
 La salida al usuario se le proporciona mediante **dispositivos de salida**, tales como
 
-1. Monitor
-2. Cañón
-3. Impresora
-4. Bocinas
+1. **Monitor**
+2. **Cañón**
+3. **Impresora**
+4. **Bocinas**
 
 Los dispositivos de **entrada/Salida** permiten la comunicación entre la computadora y el usuario. Los Dispositivos de entrada como su nombre lo indica, sirven para introducir datos en la computadora para su procesamiento. Los datos se leen de los dispositivos de entrada y se almacenan en la memoria principal. Convirtiendo la información de entrada en impulsos eléctricos que son procesados por el sistema operativo.
 
