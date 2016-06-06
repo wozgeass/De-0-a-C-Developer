@@ -46,30 +46,35 @@ El nombre de una variable, función, o clase debe responder una serie de cuestio
 
 > Incorrecto:
 
-`int d;  //indica el mi edad`
+```C
+int d;  //indica el mi edad
+```
 
 > Correcto:
 
-`int edad;`
+```C
+int edad;
+```
 
 Como viste arriba el nombre de la variable "d" no indica nada. No evoca la sensación de un valor que pueda describir mi edad.
 
 Otro mejor ejemplo podría ser el siguiente:
 
-`int edadDias;`
-
-`int edadHoras;`
-
-`int edadSegundos;`
-
-`int edadAños;`
+```C
+int edadDias;
+int edadHoras;
+int edadSegundos;
+int edadAños;
+```
 
 Debes evitar dejar pistas falsas el significado del código, cuyo significado se aleje del que pretendemos. Por ejemplo:
 
-`int aix;`
-`int hp;`
-`int oracle;`
-`int solaris;`
+```C
+int aix;
+int hp;
+int oracle;
+int solaris;
+```
  
 Que son nombres de variables pobres ya que son los nombres de otros sistemas operativos. 
 
@@ -77,11 +82,15 @@ Gran parte de nuestro cerebro se dedica al concepto palabra. Y, por definicion, 
 
 > Incorrecto:
 
-`int vsdincper;  //Variable que guarda solo el dia del nacimiento de la persona `
+```C
+int vsdincper;  //Variable que guarda solo el dia del nacimiento de la persona
+```
 
 > Correcto:
 
-`int diaNacimPersona;`
+```C
+int diaNacimPersona;
+```
 
 Como puedes ver quiza sea un poco grande pero esa variable al leerla es facil y te dice que valor guarda.
 
@@ -117,11 +126,15 @@ De igualmanera que las variables las funciones necesitan nombres consistentes. C
 
 >Correcto:
 
-`int sumaEnteros()`
+```C
+int sumaEnteros()
+```
 
 >Incorrecto:
 
-`int suEN()`
+```C
+int suEN()
+```
 
 La eleccion de nombres descriptivos clarifica el diseño de las funciones y le permite mejorarlos. Se coherente con los nombres. Eso quiere decir que uses las mismas frases, sustantivos y verbos en los nombres de funcion que elijas para las funciones.
 
