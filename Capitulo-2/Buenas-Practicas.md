@@ -139,9 +139,9 @@ int suEN()
 La elección de nombres descriptivos clarifica el diseño de las funciones y le permite mejorarlos. Se coherente con los nombres. Eso quiere decir que uses las mismas frases, sustantivos y verbos en los nombres de función que elijas para las funciones.
 
 ##Argumento de funciones.
-El numero ideal de argumentos para una funcion es lo menor que se pueda. Ya que los argumentos son todavia mas complicados desde un punto de vista de pruebas. Imagina la dificultad de crear todos los casos de prueba para garantizar el funcionamiento de las distintas combinaciones de argumentos. Si no hay argumentos, todo sera mas sencillo. Si hay uno, no es demasiado dificil. Con 2 o 3 argumentos el problema es mas complejo. Con mas de 3 argumentos, probar cada combinacion de valores adecuados es tod un reto. Los argumentos de salida son mas dificiles de entender que los de entrada. Ya que al leer una funcion, estamos acostumbrados al concepto de informacion añadida a la funcion a traves de argumentos y extraida a traves de un valor de retorno. No esperamos que la informacion se devuelva a traves de los argumentos. Por ellos, los argumentos de salida suelen obligarnos a realizar una comprobacion doble.
+El numero ideal de argumentos para una función es lo menor que se pueda. Ya que los argumentos son todavía mas complicados desde un punto de vista de pruebas. Imagina la dificultad de crear todos los casos de prueba para garantizar el funcionamiento de las distintas combinaciones de argumentos. Si no hay argumentos, todo sera mas sencillo. Si hay uno, no es demasiado difícil. Con 2 o 3 argumentos el problema es mas complejo. Con mas de 3 argumentos, probar cada combinación de valores adecuados es todo un reto. Los argumentos de salida son mas difíciles de entender que los de entrada. Ya que al leer una función, estamos acostumbrados al concepto de información añadida a la función a través de argumentos y extraída a través de un valor de retorno. No esperamos que la información se devuelva a través de los argumentos. Por ellos, los argumentos de salida suelen obligarnos a realizar una comprobación doble.
 
-Hay 2 motivos principales para pasar un solo argumentos a una funcion.
+Hay 2 motivos principales para pasar un solo argumentos a una función.
 
 
 
