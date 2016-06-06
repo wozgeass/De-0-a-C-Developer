@@ -97,23 +97,23 @@ Pero se hoy en día los móviles han superado con creces a las PC y laptops que 
 Para que el usuario pueda introducir la entrada, la computadora tiene varios **dispositivos de entrada** como parte de su hardware, como:
 
 1. Teclado
-2. Raton (Mouse)
+2. Ratón  (Mouse)
 3. Scanner
 5. Unidad DVD
 6. Unidad Blue Ray
 7. Web Cam
 8. Joystick
 9. Lectores de Codigo de Barras
-10. Microfonos.
+10. Micrófonos
 
 La salida al usuario se le proporciona mediante **dispositivos de salida**, tales como
 
 1. Monitor
-2. Cañon
+2. Cañón
 3. Impresora
 4. Bocinas
 
-Los dispositivos de **entrada/Salida** permiten la comunicacion entre la computadora y el usuario. Los Dispositivos de entrada como su nombre lo indica, sirven para introducir datos en la computadora para su procesamiento. Los datos se leen de los dispositivos de entrada y se almacenan en la memoria principal. Convirtiendo la informacion de entrada en impulsos electricos que son procesados por el sistema operativo.
+Los dispositivos de **entrada/Salida** permiten la comunicación entre la computadora y el usuario. Los Dispositivos de entrada como su nombre lo indica, sirven para introducir datos en la computadora para su procesamiento. Los datos se leen de los dispositivos de entrada y se almacenan en la memoria principal. Convirtiendo la información de entrada en impulsos eléctricos que son procesados por el sistema operativo.
 
 ![Procesamiento](/Imagenes/Arquitectura/IO.svg)
 
