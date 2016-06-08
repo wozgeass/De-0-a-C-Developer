@@ -7,7 +7,7 @@ Este libro esta desarrollo y puedes verlo en linea desde acá:
 
 [Libro en Linea](https://wozgeass.gitbooks.io/de-0-a-c-developer/content/)
 
-En pdf o epub:
+En **pdf** o **epub**:
 
 [Pdf](https://www.gitbook.com/download/pdf/book/wozgeass/de-0-a-c-developer)
 [Epub](https://www.gitbook.com/download/epub/book/wozgeass/de-0-a-c-developer)
