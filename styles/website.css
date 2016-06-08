@@ -86,6 +86,7 @@ blockquote {
 
 ul {
     font-family: Inconsolata;
+    list-style-type: square;
     color: #7C7C7C;
     text-align : justify;
 }
