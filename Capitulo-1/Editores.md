@@ -157,4 +157,4 @@ Y es así como ya podremos ingresar texto en nuestro archivo, ahora podrás inic
 ![VimModes](/Imagenes/VimTutorial/Tecla-Esc.svg)
 
 ### Borrando caracteres.
-Existen muchas combinaciones para realizar el borrado entre las mas usuales se encuentra la opción "**dw**"
+Existen muchas combinaciones para realizar el borrado entre las mas usuales se encuentra las opciónes "**x**", "**dw**", "**dd**", "**d$**"
