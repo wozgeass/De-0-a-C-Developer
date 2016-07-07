@@ -121,16 +121,21 @@ Cuando entras a **vim** inicias el modo normal:
 Pero al teclear algunas letras puedes acceder a algunos modos, aun que te parezca muy difícil al comienzo veras que te vas a acostumbrar muy pronto.
 
 Para entrar al modo edición tendrás que teclear la letra "**i**".
+
 ![VimModes](/Imagenes/VimTutorial/Tecla-I.svg)
+
 Esto mismo inmediatamente te cambiara de modo para que puedas iniciar la edición del documento.
 
 Y para entrar al modo visual tendrás que teclear la letra "**v**".
+
 ![VimModes](/Imagenes/VimTutorial/Tecla-V.svg)
+
 Esto mismo inmediatamente te cambiara de modo para que puedas seleccionar algunas parte de tu texto a tu gusto.
 
 ### Iniciando.
 Ahora seguramente ya habrás incursionado en **vim** pero no sabes ni como salir ni guardar tus cambios. 
 Para eso deberas pulsa la tecla "**Esc**" para asegurarte de que estas en modo **Normal**:
+
 ![VimModes](/Imagenes/VimTutorial/Tecla-Esc.svg)
 
 Para salir de archivo sin guardar nada deberás pulsar las teclas:
@@ -153,9 +158,18 @@ Como  puede verse en la imagen la tecla **H** está a la izquierda y mueve el cu
 ### Agregar texto al archivo.
 Este editor es considerado como un editor modal, esto significa que puede tener diferentes comportamientos dependiendo del modo en el que nos encontremos y como vimos antes los 2 modos básicos son: **modo normal** y **Modo insertar**.
 Desde el primer momento en el que ingresamos al editor nos topamos con el **modo normal**. Para ocupar el **modo inserción** teclearemos la letra "**i**":
+
 ![VimModes](/Imagenes/VimTutorial/Tecla-I.svg)
+
 Y es así como ya podremos ingresar texto en nuestro archivo, ahora podrás iniciar la edición sin problemas hasta el momento en el que tecles <Esc>:
+
 ![VimModes](/Imagenes/VimTutorial/Tecla-Esc.svg)
 
 ### Borrando caracteres.
-Existen muchas combinaciones para realizar el borrado entre las mas usuales se encuentra las opciónes "**x**", "**dw**", "**dd**", "**d$**", "**d#**" y "de".
+Existen muchas combinaciones para realizar el borrado entre las mas usuales se encuentra las opciones "**x**", "**dw**", "**dd**", "**d$**", "**d#**" y "de".
+
+Donde:
+- **x** Elimina un solo caracter.
+- **dw** Elimina desde el cursor hasta el final de la palabra, incluyendo el espacio.
+- **dd** Elimina toda una linea entera.
+- **d$**
