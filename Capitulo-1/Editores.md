@@ -17,11 +17,17 @@ Está disponible para muchas plataformas y tiene muchas características añadid
 Esta disponible en un gran numero de sistemas operativos entre ellos:
 Linux:
 - *Linux*:
+
 ![Linux](/Imagenes/logos/Linux.svg)
+
 - *OSx*:
+
 ![OSX](/Imagenes/logos/Apple.svg)
+
 - *Windows*:
+
 ![Windows](/Imagenes/logos/Windows.svg)
+
 - Si eres usuario de sistemas *BSD* debo informarte que también lo vas a poder usar:
 ![FreeBSD](/Imagenes/logos/Freebsd.svg)
 
