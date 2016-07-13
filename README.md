@@ -19,7 +19,7 @@ Este lenguaje es usado en proyectos como:
 
 Y si aun permaneces escéptico pueden verificar aca o directamente buscando el codigo fuente de cada proyecto
 
-> **Bienvenidos a lo bonito.**
+> **Bienvenido a lo bonito.**
 
 ![Terminal](Imagenes/interprete.svg)
 
