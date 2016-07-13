@@ -4,9 +4,9 @@ Un libro para aprender a programar iniciando con el lenguaje **C** usando sistem
 
 Este lenguaje es usado en proyectos como:
 
-- **Gnome**.
-- **Linux Kernel**.
-- **Gnu**
+* **Gnome**.
+* **Linux Kernel**.
+* **Gnu**
 * **Hurd Kernel**
 * **Xfce**
 * **Lxde**
@@ -16,6 +16,8 @@ Este lenguaje es usado en proyectos como:
 * **Audacity**
 * **Vlc**
 * **Postfix**
+
+Y si aun permaneces escéptico pueden verificar aca o directamente buscando el codigo fuente de cada proyecto
 
 Bienvenidos a lo bonito.
 
