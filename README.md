@@ -17,5 +17,7 @@ Este lenguaje es usado en proyectos como:
 * **Vlc**
 * **Postfix**
 
+Bienvenidos a lo bonito.
+
 ![Terminal](Imagenes/interprete.svg)
 
