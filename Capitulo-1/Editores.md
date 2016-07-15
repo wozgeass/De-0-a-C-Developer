@@ -179,6 +179,12 @@ Existen muchas combinaciones para realizar el borrado entre las mas usuales se e
 
 Donde:
 - **x** Elimina un solo caracter.
+![Teclas de Movimiento](/Imagenes/VimTutorial/Moverse.svg)
 - **dw** Elimina desde el cursor hasta el final de la palabra, incluyendo el espacio.
+![Teclas de Movimiento](/Imagenes/VimTutorial/Moverse.svg)
 - **dd** Elimina toda una linea entera.
-- **d$**
+![Teclas de Movimiento](/Imagenes/VimTutorial/Moverse.svg)
+- **d$** Elimina todos los caracteres desde donde se encuentra posicionado el cursor.
+![Teclas de Movimiento](/Imagenes/VimTutorial/Moverse.svg)
+- **d#** Elimina los caracteres de derecha a izquierda hasta donde se encuentra posicionado el cursor.
+![Teclas de Movimiento](/Imagenes/VimTutorial/Moverse.svg)
