@@ -99,6 +99,9 @@ Como siempre mi recomendación sera la siguiente:
     Para **Ubuntu** o **Debian** deberás usar el siguiente comando:
     > **apt install vim** ó **apt-get install vim**
     
+    Nota: Hay un reporte sobre que no funcionan algunos plugins de vim para ello tendremos que instalar los siguiente:
+    > **apt install vim-nox** ó **apt-get install vim-nox**
+    
     Para **ArchLinux** deberás usar el comando siguiente:
     > **pacman -S vim**
 
