@@ -185,6 +185,6 @@ Donde:
 - **dd** Elimina toda una linea entera.
 ![Teclas de Movimiento](/Imagenes/VimTutorial/Teclas-DD.svg)
 - **d$** Elimina todos los caracteres desde donde se encuentra posicionado el cursor.
-![Teclas de Movimiento](/Imagenes/VimTutorial/Tclas-D$.svg)
+![Teclas de Movimiento](/Imagenes/VimTutorial/Teclas-D$.svg)
 - **d#** Elimina los caracteres de derecha a izquierda hasta donde se encuentra posicionado el cursor.
 ![Teclas de Movimiento](/Imagenes/VimTutorial/Teclas-D#.svg)
