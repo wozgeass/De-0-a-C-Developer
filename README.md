@@ -16,8 +16,9 @@ Este lenguaje es usado en proyectos como:
 * **Audacity**
 * **Vlc**
 * **Postfix**
+* Entre muchos mas ...
 
-Y si aun permaneces escéptico pueden verificar aca o directamente buscando el codigo fuente de cada proyecto
+Y si aun permaneces escéptico pueden verificar directamente buscando el codigo fuente de cada proyecto.
 
 > **Bienvenido a lo bonito.**
 
