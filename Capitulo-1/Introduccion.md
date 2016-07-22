@@ -50,7 +50,7 @@ Si bien cuando escribimos el código fuente de un programa utilizamos símbolos 
 # Lenguajes de Programación
 Cuando programamos, no podemos utilizar el lenguaje natural con que nos comunicamos cotidianamente. Por el contrario, se emplea un lenguaje que un interprete o un compilador sea capaz de traducir a lenguaje maquina.
 
-> Un lenguaje de programación es una serie de reglas que establecen que descripciones serán aceptadas y ejecutadas y cuales no tienen sentido para el mecanismo de ejecución provisto por la computadora.
+> Un **lenguaje de programación** es una serie de reglas que establecen que descripciones serán aceptadas y ejecutadas y cuales no tienen sentido para el mecanismo de ejecución provisto por la computadora.
 Ademas, estas reglas están diseñadas de manera composicional, para que sea sencillo construir programas de mayor envergadura.
 
 En actualidad existe un gran numero de lenguajes de programación, de características sumamente diferentes y que emplean diferentes enfoques con los que podemos programar. Cada lenguaje depende de un conjunto de ideas que guían, como su propósito final, la forma en que codificamos la descripción que otorgaremos a la computadora. Ya que esta forma viene dada por las reglas que definen como se combinan los elementos que el lenguaje de programación provee al programador.
@@ -67,29 +67,30 @@ En la gran mayoría de los cursos de programación inicial suelen utilizarse una
 Durante la década de 1960, la proliferación de lenguajes de programación siguió creciendo, y de a poco fueron diferenciándose grupos o familias de lenguajes, en torno a la predominancia de ciertas características. El foco de desarrollo de software se fue desplazando hacia la educación, para poder formar a los futuros programadores. La administración a gran escala siguió teniendo fuerte presencia, pero las aplicaciones orientadas a la defensa fueron disminuyendo.
 
 Estos grupos o familias de lenguajes dieron origen a lo que ahora denominamos paradigma de programación, que no es otra cosa que un conjunto de ideas y conceptos al respecto del estilo con el que se expresan las soluciones a problemas a través de un lenguaje de programación. Cada paradigma privilegia ciertas ideas sobre otras, y  ciertas formas de combinación por sobre otras, dando lugar a estilos muy diferentes en la forma de programar.
+
 > Un **paradigma de programación** es un conjunto de ideas y conceptos vinculados a la forma en que se relacionan las nociones necesarias para solucionar problemas con el uso de un lenguaje de programación.
 
 Para 1970 ya se podían identificar cuatro grandes paradigmas, que están vigentes hoy incluso hoy en día y que son claramente reconocidos. Mucho después se intento identificar paradigmas adicionales a estos cuatro, pero no hubo cierto consenso sobre si alguno de ellos llegaría o no a poder ser considerado un paradigma y merecer ese nombre.
 
 Los cuatro paradigmas de programación que surgieron a fines de los **60s** y principio de los **70s**, y que resultaron de fundamental influencia en la forma de hacer la programación, son:
-1. El paradigma *Imperativo*.
-2. EL paradigma *Orientado a Objetos*.
-3. El paradigma *Funcional*.
-4. El paradigma *Lógico*.
+1. **El paradigma Imperativo**.
+2. **El paradigma Orientado a Objetos**.
+3. **El paradigma Funcional**.
+4. **El paradigma Lógico**.
 
 Los dos primeros están mas orientados a la forma de manejar estados y podrían ser denominados **procedurales**, mientras que los 2 últimos están mas orientados a expresar conceptos o nociones independientes del estado y podrían ser denominados **declarativos**. El paradigma que se desarrollo con mayor ímpetu al principio fue el imperativo, debido a su cercanía con los lenguajes de bajo nivel. Los otros tardaron mas tiempo en adoptar un estado de madurez, y no fue hasta mediados de la década de **80s** que tanto el paradigma funcional como el lógico y el orientado a objetos empezó a ser foco de atención masiva.
 
 Dentro del paradigma imperativo se clasifican lenguajes mas vinculados con la secuencia de instrucción y mas cercano al ensamblador. Algunos nombres notables que surgieron en esa época dentro del paradigma imperativo, y  aun conocidos hoy en día son:
-- **Basic**, desarrollado en 1965 por John Kemey y Thomas Kurtz con la intención de que se convirtieran en un lenguaje de enseñanza.
-- **Pascal**, desarrollado en 1970 con fines didácticos, por  Niklaus Wirth a partir de Algo.
-- **C**, desarrollado por Dennis Ritchie y Ken Thompson en los laboratorios Bell entre 1969 y 1973, con el propósito de proveer una traducción eficiente a ensamblador y permitir la administración eficaz de los recursos de computo  de las maquinas con arquitectura Von Neumann a través de abstracciones cercanas al bajo nivel, que brinda una forma cómoda e independiente a la computadora de administrar sus recursos.
+- **Basic**, desarrollado en 1965 por **John Kemey** y **Thomas Kurtz** con la intención de que se convirtieran en un lenguaje de enseñanza.
+- **Pascal**, desarrollado en 1970 con fines didácticos, por  **Niklaus Wirth** se caracteriza por ser un lenguaje de programacion fuertemente tipado.
+- **C**, desarrollado por **Dennis Ritchie** y **Ken Thompson** en los laboratorios Bell entre 1969 y 1973, con el propósito de proveer una traducción eficiente a ensamblador y permitir la administración eficaz de los recursos de computo  de las maquinas con arquitectura Von Neumann a través de abstracciones cercanas al bajo nivel, que brinda una forma cómoda e independiente a la computadora de administrar sus recursos.
 
 Y la fama y el motivo en el que nos centraremos en ese lenguaje se debe a que por la característica anterior en su diseño, fue utilizado en la programación del sistema operativo **UNIX** y fue ampliamente portado a numerosos sistemas. Es uno de los lenguajes mas difundidos y conocidos de todos los tiempos, y su estudio implica un conocimiento profundo de la forma en que se ejecutan un gran numero de aplicaciones en **Linux**, **Unix** y otros sistemas operativos.
 
 Dentro del paradigma funcional se clasifican lenguajes orientados a la descripción  de datos, de su forma, las relaciones entre ellos, y sus transformaciones. Si bien inicialmente no fueron tan populares, la investigación llevo a este paradigma a la madurez y desde el mismo se realizaron grandes aportes a todos los lenguajes modernos. Algunos lenguajes que surgieron en esa época dentro de este paradigma son: 
-- **ML**, desarrollado por Robin Milner y otros a principios de los 70s en la universidad de Edimburgo en Reino Unido con el propósito de servir para desarrollar tácticas de prueba en herramientas de demostración automática de teoremas, utilizando un sistema de tipos estáticos que es una de sus grandes innovaciones.
-- **Miranda**, desarrollado por David Turner en 1985 como sucesor de sus primeros lenguajes de programación SASL y KRC, incorporando conceptos aprendidos del lenguaje ML y Scheme, derivado como dialecto de LISP por Guy L. Stele and Gerald J. Sussman en el laboratorio de Inteligencia artificial del MIT, siguiendo principios de minimalidad en la cantidad de conceptos distintos a proveer, pero conservando un gran poder expresivo.
-- **Haskel**, en Honor de Haskell B. Curry, se publico por primera vez en 1990, y es actualmente el lenguaje  de alto nivel con mayor pureza conceptual, expresando el estado del arte en el desarrollo de lenguaje de programación funcional. Su impacto en la comprensión de conceptos de alto nivel no puede ser ignorada por un programador actual.
+- **ML**, desarrollado por **Robin Milner** y otros a principios de los 70s en la universidad de Edimburgo en Reino Unido con el propósito de servir para desarrollar tácticas de prueba en herramientas de demostración automática de teoremas, utilizando un sistema de tipos estáticos que es una de sus grandes innovaciones.
+- **Miranda**, desarrollado por **David Turner** en 1985 como sucesor de sus primeros lenguajes de programación SASL y KRC, incorporando conceptos aprendidos del lenguaje ML y Scheme, derivado como dialecto de LISP por Guy L. Stele and Gerald J. Sussman en el laboratorio de Inteligencia artificial del MIT, siguiendo principios de minimalidad en la cantidad de conceptos distintos a proveer, pero conservando un gran poder expresivo.
+- **Haskel**, en Honor de **Haskell B. Curry**, se publico por primera vez en 1990, y es actualmente el lenguaje  de alto nivel con mayor pureza conceptual, expresando el estado del arte en el desarrollo de lenguaje de programación funcional. Su impacto en la comprensión de conceptos de alto nivel no puede ser ignorada por un programador actual.
 
 Dentro del paradigma orientado a objetos se encuentran lenguajes que agrupan el código alrededor de la metáfora de objeto, y que intenta representar mediante datos encapsulados las entidades del mundo real. Al ya mencionado lenguaje SIMULA, pionero de los lenguajes orientados a objetos, y algunos otros como:
 - **SmallTalk**, creado en el Learning Research Group de Xerox por Alan Kay y Otros, también en los 70s, Pensado con fines educacionales basándose en la teoría constructivista del aprendizaje. Siendo la base del desarrollo posterior en tecnología de objetos, que hoy es uno de los pilares de la construcción moderna de software.
@@ -107,7 +108,7 @@ Otro gran avance de esta época fue el desarrollo de lo que dio en llamarse prog
 # Algoritmo
 Las personas efectuamos cotidianamente series de pasos, procedimientos o acciones que nos permiten alcanzar algún resultado o resolver algún problema. Estas series de pasos, procedimientos o acciones, comenzamos a aplicarlas desde que empieza el día, cuando, por ejemplo, decidimos bañarnos. Posteriormente, cuando tenemos que ingerir alimentos también seguimos una serie de pasos que nos permiten alcanzar un resultado especifico. Y la historia se repite un innumerable numero de veces. En realidad todo el tiempo estamos aplicando algoritmos para resolver problemas.
 
-> Un algoritmo es un conjunto de paso por paso, procedimientos o acciones que nos permiten alcanzar un resultado o resolver un problema.
+> Un **algoritmo** es un conjunto de paso por paso, procedimientos o acciones que nos permiten alcanzar un resultado o resolver un problema.
 
 Una receta en un libro de cocina seria un excelente ejemplo de algoritmo: la preparación de un platillo complicado se divide en pasos simples comprensibles para cualquier personas con experiencia en cocina.
 
@@ -131,9 +132,9 @@ Las características que deben tener los algoritmos son las siguientes:
 3. **Finitud:** El algoritmo, independientemente de la complejidad del mismo, siempre debe tener longitud finita.
 
 Los algoritmos tienen comúnmente 3 secciones o módulos principales.
-- Datos de Entrada.
-- Procesamiento de los datos.
-- Impresión de resultados.
+- **Datos de Entrada.**
+- **Procesamiento de los datos.**
+- **Impresión de resultados.**
 
 ![Partes de Un Algoritmo](/Imagenes/Algoritmo.svg)
 
@@ -142,7 +143,7 @@ Los algoritmos tienen comúnmente 3 secciones o módulos principales.
 
 Realmente muestra gráficamente los pasos o procesos a seguir para alcanzar la solución de un problema. La construcción correcta del mismo es muy importante, ya que a partir de este se escribe el programa en un lenguaje de programación determinado. En este caso utilizaremos el lenguaje, aun que cabe recordar el diagrama de flujo se debe construir de manera independiente al lenguaje de programación. El diagrama de flujo representa la solución del problema. El programa representa la implementación de un lenguaje de programación.
 
-La tabla y las imágenes que veremos a continuación se utilizaran, junto con una explicación de las mismas imágenes, satisfaciendo las recomendaciones de la International Organization for Standarization (**ISO**), y el American National Standards Institute (**ANSI**).
+La tabla y las imágenes que veremos a continuación se utilizaran, junto con una explicación de las mismas imágenes, satisfaciendo las recomendaciones de la **International Organization for Standarization** (**ISO**), y el **American National Standards Institute** (**ANSI**).
 
 | Representación del Símbolo | Explicación del Símbolo |
 |--------|--------|
@@ -192,7 +193,7 @@ EL pseudocodigo ademas permite el diseño modular de programas y el diseño desc
 
 Debes enterder ademas de que existe un gran numero de tipos de pseudocodigos, es decir no hay un pseudocodigo 100% estándar. Pero si hay una gran cantidad de detalles aceptados por todos los que escriben pseudocodigos. Aquie te comentare el pseudocodigo aceptado en español. Hay que tomar en cuenta que muchas de las ideas de pseudocodigo se basa en pascal, por lo que la traducción es casi directa.
 
-> El pseudocodigo son instrucciones escritas en un pseudolenguaje orientado a ser entendido por una personas no por un ordenador. Por ello en pseudocodigo  solo se pueden utilizar ciertas instrucciones.
+> El **pseudocodigo** son instrucciones escritas en un pseudolenguaje orientado a ser entendido por una personas no por un ordenador. Por ello en pseudocodigo  solo se pueden utilizar ciertas instrucciones.
 
 Entra las instrucciones que se pueden utilizar estan:
 - **De Entrada/Salida**. Para leer o escribir datos desde el programa hacia el usuario.

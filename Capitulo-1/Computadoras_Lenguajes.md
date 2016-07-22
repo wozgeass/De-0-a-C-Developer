@@ -54,11 +54,11 @@ La **UCP**, dirige y controla el proceso de información realizado por la comput
 La **UCP** consta de dos componentes:
 
 1. **Unidad de Control** (*UC*)
-2. **Unidad Aritmético Lorica** (*UAL*)
+2. **Unidad Aritmético Lógica** (*UAL*)
 
 > La **Unidad de Control (UC)** coordina las actividades de la computadora, determinando que operaciones se deben realizar y en que orden; así mismo controla y sincroniza todo el proceso de la computadora.
 
-> La **Unidad Aritmético Lorica (UAL)** Realiza operaciones aritméticas y lógicas, tales como suma, resta, multiplicación, división y comparaciones. Los datos en la memoria central se pueden leer o escribir por la **UCP**.
+> La **Unidad Aritmético Lógica (UAL)** Realiza operaciones aritméticas y lógicas, tales como suma, resta, multiplicación, división y comparaciones. Los datos en la memoria central se pueden leer o escribir por la **UCP**.
 
 ### Memoria
 
@@ -77,6 +77,7 @@ Es un circuito integrado que controla y realiza las funciones y operaciones con 
 
 | **INTEL** | **AMD** |
 | -- | -- |
+| **Pentium Celeron** *(Sexta Generación)* | **APU Athlon** *(Cuarta Generación)* |
 | **Core i3** *(Sexta Generación)* | **APU ATHLON** *(Cuarta Generación)* |
 | **Core i5** *(Sexta Generación)* | **APU A10** *(Séptima Generación)* |
 | **Core i7** *(Sexta Generación)* | **FX** | 

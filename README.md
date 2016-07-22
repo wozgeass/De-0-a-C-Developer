@@ -4,21 +4,23 @@ Un libro para aprender a programar iniciando con el lenguaje **C** usando sistem
 
 Este lenguaje es usado en proyectos como:
 
-* **Gnome**.
-* **Linux Kernel**.
-* **Gnu**
-* **Hurd Kernel**
-* **Xfce**
-* **Lxde**
-* **Vim**
-* **The Gimp**
-* **Inkscape**
-* **Audacity**
-* **Vlc**
-* **Postfix**
-* Entre muchos mas ...
+|Proyectos|
+|---------|
+| **Gnome** |
+| **Linux Kernel** |
+| **Gnu** |
+| **Hurd Kernel** |
+| **Xfce** |
+| **Lxde** |
+| **Vim** |
+| **The Gimp** |
+| **Inkscape** |
+| **Audacity** |
+| **Vlc** |
+| **Postfix** |
+| Entre muchos mas ...|
 
-Y si aun permaneces escéptico pueden verificar directamente buscando el codigo fuente de cada proyecto.
+Y si aun permaneces escéptico pueden verificar directamente buscando el código fuente de cada proyecto.
 
 > **Bienvenido a lo bonito.**
 
