@@ -18,7 +18,7 @@ Este lenguaje es usado en proyectos como:
 * **Postfix**
 * Entre muchos mas ...
 
-Y si aun permaneces escéptico pueden verificar directamente buscando el codigo fuente de cada proyecto.
+Y si aun permaneces escéptico pueden verificar directamente buscando el código fuente de cada proyecto.
 
 > **Bienvenido a lo bonito.**
 
