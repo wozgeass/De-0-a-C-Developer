@@ -7,7 +7,7 @@ Este lenguaje es usado en proyectos como:
 |Proyectos|
 |---------|
 | **Gnome** |
-|* **Linux Kernel** |
+| **Linux Kernel** |
 | **Gnu** |
 | **Hurd Kernel** |
 | **Xfce** |
