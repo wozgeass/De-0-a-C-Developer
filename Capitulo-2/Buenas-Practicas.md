@@ -89,7 +89,7 @@ int vsdincper;  //Variable que guarda solo el día del nacimiento de la persona
 > Correcto:
 
 ```C
-int diaNacimPersona;
+int diaNacimiento;
 ```
 
 Como puedes ver quizá sea un poco grande pero esa variable al leerla es fácil y te dice que valor guarda.
