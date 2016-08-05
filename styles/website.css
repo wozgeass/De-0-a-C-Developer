@@ -28,6 +28,7 @@ h2 {
     color: #546e7a;
     font-weight: bold;
     text-transform: uppercase;
+    text-decoration: underline;
 }
 
 h3 {
@@ -35,6 +36,7 @@ h3 {
     color: #546e7a;
     font-weight: bold;
     text-transform: uppercase;
+    text-decoration: underline;
 }
 
 h4 {
@@ -42,6 +44,7 @@ h4 {
     color: #546e7a;
     font-weight: bold;
     text-transform: uppercase;
+    text-decoration: underline;
 }
 
 table {
