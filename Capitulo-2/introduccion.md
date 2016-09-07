@@ -16,6 +16,5 @@ Acontinuacion te dejo un recuento del numero de lineas logicas que podemos encon
 | Awk | 1130 | 0.01 |
 | Pascal | 231 | 0.0 |
 | Lisp | 218 | 0.0 |
-| --   | --   | --  |
-| **Total** | 14,446,942 | 100 |
+| **Total** | **14,446,942** | **100** |
 
