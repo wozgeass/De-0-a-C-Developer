@@ -47,7 +47,7 @@ El nombre de una variable, función, o clase debe responder una serie de cuestio
 > Incorrecto:
 
 ```C
-int d;  //indica el mi edad
+int d;  // variable que indica la edad
 ```
 
 > Correcto:
