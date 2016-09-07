@@ -8,7 +8,7 @@ Este lenguaje es usado en proyectos como:
 |---------|
 | **Gnome** |
 | **Linux Kernel** |
-| **Gnu** |
+| **Gran numero de proyectos de GNU** |
 | **Hurd Kernel** |
 | **Xfce** |
 | **Lxde** |
