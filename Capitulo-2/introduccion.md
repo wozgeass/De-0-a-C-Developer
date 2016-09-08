@@ -27,7 +27,8 @@ Tambien permite el desarrollo de aplicaciones que se ajustan al paradigma de pro
 - Los programas grandes se dividen en unidades con una extension menor, los modulos.
 - La descomposicion favorecen el analisis descendente que va de lo general a lo particular.
 - Cada uno de los modulos se puede compilar por separado y todos juntos se enlazaran para formar el programa ejecutable final.
-- 
+- La depuracion se ve facilitada al poder aislar, por lo menos a nivel de modulos, los fallos en la codificacion y en la concepcion de los programas.
+- La divicion del trabajo favorece su distribucion entre los distintos programadores que intervienen en el desarrollo de una aplicacion. Esto se traduce en una mejor gestion de los recursos humanos.
 
 ## Ciclo de creacion de un programa
 A la hora de crear un programa, hemos de empezar por la edicion de un fichero que contendra el codigo fuente. Este fichero se nombra, por convenio, añadiendole la extension .c. Si nos valemos del editor vim la forma de editarlo seria:
