@@ -6,8 +6,15 @@ Para los que ya tienen tiempo usando el sistema y solo han sido usuarios del sis
 Usualmente en muchos libros encontraras información sobre como poder compilar tus programas usando el compilador **GCC**, pero muy pocos nos explican que existen mas compiladores asi como librerias de **C**. Entre los compiladores que nos encontraremos estan:
 
 - Clang
-- gcc
-- icc
+- Gcc
+- Icc
+
+Del mismo modo existen un gran numero de librerias para programar en C respetando logicamente el estandar OSI de C.
+
+- glibc
+- eglibc
+- uClibc
+- musl libc
 
 Considerado el compilador mas usado en el ambiente Linux incluso actualmente **UNIX**. **GCC** significa **GNU compiler collection** (**Colección de compiladores de GNU**).
 La *Free Software Fundation* lo distribuye con una licencia **GPL**. A principio de los **90s**, el recién terminado sistema operativo **GNU** fue finalmente completado con la inclusión del **Kernel Linux**.
