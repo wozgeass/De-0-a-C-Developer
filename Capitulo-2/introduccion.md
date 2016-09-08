@@ -18,4 +18,18 @@ A continuacion te dejo un recuento del numero de lineas logicas que podemos enco
 | Lisp | 218 | 0.0 |
 | **Total** | **14,446,942** | **100** |
 
-La gran mayoria de aplicaciones estandar que acompañan a cualquier sistema Linux y Unix estan escritas en C. Esta es la razon
+La gran mayoria de aplicaciones estandar que acompañan a cualquier sistema Linux y Unix estan escritas en C. Esta es la razon que hace de este lenguaje la forma natural de comunicarse con el sistema.
+
+El lenguaje puede clasificarse dentro del grupo de los lenguajes de alto nivel, aun a pesar de no estar fuertemente tipado; sin embargo, tambien le ofrece al programador posibilidades que solo estan presentes en los lenguajes de bajo nivel. Así, por ejemplo, en C se pueden manipular bits y aritmetica de direcciones. C tambien permite como ya vimos en el capitulo anterior la programacion estructurada y modular.
+
+## Ciclo de creacion de un programa
+A la hora de crear un programa, hemos de empezar por la edicion de un fichero que contendra el codigo fuente. Este fichero se nombra, por convenio, añadiendole la extension .c. Si nos valemos del editor vim la forma de editarlo seria:
+
+```bash
+vim programa.c
+```
+Y el compilador gcc sera el encargado de generar el fichero ejecutable a patir del fichero fuente. Para invocarlo deberemos de hacerlo de la manera siguiente:
+
+```bash
+gcc programa.c -o programa
+```
