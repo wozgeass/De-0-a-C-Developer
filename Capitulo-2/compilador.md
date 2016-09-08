@@ -23,6 +23,7 @@ Si tu interes despues de aprender esto es el de ir mas lejos y desarrollar aplic
 - Nativo
 - Cruzado
 
-Por un lado el nativo sera el que mas utilizaremos
+Por un lado el nativo sera el que mas utilizaremos en este libro ya que permitira crear nuestros ejecutables para la misma arquitectura en la que nos encontramos. La cruzada aplicaria en el momento en el que nosotros desearamos
+
 Considerado el compilador mas usado en el ambiente Linux incluso actualmente **UNIX**. **GCC** significa **GNU compiler collection** (**Colección de compiladores de GNU**).
 La *Free Software Fundation* lo distribuye con una licencia **GPL**. A principio de los **90s**, el recién terminado sistema operativo **GNU** fue finalmente completado con la inclusión del **Kernel Linux**.
