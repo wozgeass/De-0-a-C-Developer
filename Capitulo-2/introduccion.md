@@ -1,7 +1,7 @@
 # Introducción
-Como ya vimos antes C es un lenguaje de programacion de alto nivel que fue usado para desarrollar el sistema operativo UNIX. Las primeras versiones de UNIX se escribieron en ensamblador, pero apartir de 1973 pasaron a escribirse en C. Pero el ensamblador sigue siendo el segundo lenguaje mas utilizado en el Kernel Linux: en concreto aquellas partes intimamente relacionadas al hardware o la inicializacion.
+Como ya vimos antes **C** es un lenguaje de programación de alto nivel que fue usado para desarrollar el sistema operativo **UNIX**. Las primeras versiones de **UNIX** se escribieron en ensamblador, pero a partir de 1973 pasaron a escribirse en **C**. Pero el ensamblador sigue siendo el segundo lenguaje mas utilizado en el **Kernel Linux**: en concreto aquellas partes intimamente relacionadas al hardware o la inicializacion.
 
-Acontinuacion te dejo un recuento del numero de lineas logicas que podemos encontrar en la version 4.7 del kernel Linux.
+A continuacion te dejo un recuento del numero de lineas logicas que podemos encontrar en la versión 4.7 del kernel Linux.
 
 | **Lenguaje** | **Lineas** | **Porcentaje** |
 | -- | -- | -- |
