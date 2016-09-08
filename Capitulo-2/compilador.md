@@ -16,7 +16,13 @@ Del mismo modo existen un gran numero de librerias para programar en C respetand
 - uClibc
 - musl libc
 
-Para poder crear y desarrollar utilizando linux deberemos conocer un concepto que ingles se le conoce como **Toolchain** pero lo que es en realidad es un conjunto de
+Para poder crear y desarrollar utilizando linux deberemos conocer un concepto que ingles se le conoce como **Toolchain** pero lo que es en realidad es un conjunto de herramientas que permiten crear, linkear ejecutables y librerias.
 
+Si tu interes despues de aprender esto es el de ir mas lejos y desarrollar aplicaciones nativas para sistemas operativos embebidos.
+
+- Nativo
+- Cruzado
+
+Por un lado el nativo sera el que mas utilizaremos
 Considerado el compilador mas usado en el ambiente Linux incluso actualmente **UNIX**. **GCC** significa **GNU compiler collection** (**Colección de compiladores de GNU**).
 La *Free Software Fundation* lo distribuye con una licencia **GPL**. A principio de los **90s**, el recién terminado sistema operativo **GNU** fue finalmente completado con la inclusión del **Kernel Linux**.
