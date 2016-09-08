@@ -18,3 +18,4 @@ Acontinuacion te dejo un recuento del numero de lineas logicas que podemos encon
 | Lisp | 218 | 0.0 |
 | **Total** | **14,446,942** | **100** |
 
+La gran mayoria de aplicaciones estandar que acompañan a cualquier sistema Linux y Unix estan escritas en C. Esta es la razon
