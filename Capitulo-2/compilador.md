@@ -9,12 +9,14 @@ Usualmente en muchos libros encontraras información sobre como poder compilar t
 - Gcc
 - Icc
 
-Del mismo modo existen un gran numero de librerias para programar en C respetando logicamente el estandar OSI de C.
+Del mismo modo existen un gran numero de librerias para programar en C respetando lógicamente el estandar OSI de C.
 
 - glibc
 - eglibc
 - uClibc
 - musl libc
+
+Para poder crear y desarrollar utilizando linux deberemos conocer un concepto que ingles se le conoce como Toolchain pero lo que es en realidad es un conjunto de
 
 Considerado el compilador mas usado en el ambiente Linux incluso actualmente **UNIX**. **GCC** significa **GNU compiler collection** (**Colección de compiladores de GNU**).
 La *Free Software Fundation* lo distribuye con una licencia **GPL**. A principio de los **90s**, el recién terminado sistema operativo **GNU** fue finalmente completado con la inclusión del **Kernel Linux**.
