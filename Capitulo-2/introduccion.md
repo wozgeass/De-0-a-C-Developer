@@ -20,7 +20,11 @@ A continuacion te dejo un recuento del numero de lineas logicas que podemos enco
 
 La gran mayoria de aplicaciones estandar que acompañan a cualquier sistema Linux y Unix estan escritas en C. Esta es la razon que hace de este lenguaje la forma natural de comunicarse con el sistema.
 
-El lenguaje puede clasificarse dentro del grupo de los lenguajes de alto nivel, aun a pesar de no estar fuertemente tipado; sin embargo, tambien le ofrece al programador posibilidades que solo estan presentes en los lenguajes de bajo nivel. Así, por ejemplo, en C se pueden manipular bits y aritmetica de direcciones. C tambien permite como ya vimos en el capitulo anterior la programacion estructurada y modular.
+El lenguaje puede clasificarse dentro del grupo de los lenguajes de alto nivel, aun a pesar de no estar fuertemente tipado; sin embargo, tambien le ofrece al programador posibilidades que solo estan presentes en los lenguajes de bajo nivel. Así, por ejemplo, en C se pueden manipular bits y aritmetica de direcciones. C tambien permite como ya vimos en el capitulo anterior la programación estructurada y modular.
+
+Tambien permite el desarrollo de aplicaciones que se ajustan al paradigma de programación modular. Algunas de las caracteristicas de este modelo son:
+
+- Los programas 
 
 ## Ciclo de creacion de un programa
 A la hora de crear un programa, hemos de empezar por la edicion de un fichero que contendra el codigo fuente. Este fichero se nombra, por convenio, añadiendole la extension .c. Si nos valemos del editor vim la forma de editarlo seria:
