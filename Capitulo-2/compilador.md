@@ -27,7 +27,7 @@ Existen basicamente 2 tipos de Toolchain:
 
 Por un lado el **nativo** sera el que mas utilizaremos en este libro ya que permite crear nuestros ejecutables para la misma arquitectura en la que nos encontramos. El cruzado aplicaria en el momento en el que nosotros desearamos crear ejecutables para otra arquitectura diferente a en la que estamos.
 
-> Por ejemplo: Si estuvieramos en un ordenador de arquitectura x86 y queremos pasar algunos programas en C o C++ a nuestro Raspberry y como tiene arquitectura ARM tendriamos que usar un toolchain cruzado.
+> Por ejemplo: Si estuvieramos en un ordenador de arquitectura **x86** y queremos pasar algunos programas en **C** o **C++** a nuestro **Raspberry** y como tiene arquitectura **ARM** tendriamos que usar un toolchain cruzado.
 
 Un toolchain standard consiste en 3 componentes :
 
