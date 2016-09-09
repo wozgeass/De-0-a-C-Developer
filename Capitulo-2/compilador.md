@@ -5,16 +5,16 @@ Para los que ya tienen tiempo usando el sistema y solo han sido usuarios del sis
 
 Usualmente en muchos libros encontraras información sobre como poder compilar tus programas usando el compilador **GCC**, pero muy pocos nos explican que existen mas compiladores asi como librerias de **C**. Entre los compiladores que nos encontraremos estan:
 
-- Clang
-- Gcc
-- Icc
+- **Clang**
+- **Gcc**
+- **Icc**
 
 Del mismo modo existen un gran numero de librerias para programar en C respetando lógicamente el estandar OSI de C.
 
-- glibc
-- eglibc
-- uClibc
-- musl libc
+- **glibc**
+- **eglibc**
+- **uClibc**
+- **musl libc**
 
 Para poder crear y desarrollar utilizando linux deberemos conocer un concepto que ingles se le conoce como **Toolchain** pero lo que es en realidad es un conjunto de herramientas que permiten crear, linkear ejecutables y librerias.
 
@@ -22,8 +22,8 @@ Si tu interes despues es el de ir mas lejos y desarrollar aplicaciones nativas p
 
 Existen basicamente 2 tipos de Toolchain:
 
-- Nativo
-- Cruzado
+- **Nativo**
+- **Cruzado**
 
 Por un lado el **nativo** sera el que mas utilizaremos en este libro ya que permite crear nuestros ejecutables para la misma arquitectura en la que nos encontramos. El cruzado aplicaria en el momento en el que nosotros desearamos crear ejecutables para otra arquitectura diferente a en la que estamos.
 
