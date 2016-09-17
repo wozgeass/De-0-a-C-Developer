@@ -118,21 +118,24 @@ Otro buen ejemplo de algoritmo podría ser la coreografía para un ballet clási
 Muchas veces aplicamos el algoritmo de manera inadvertida, inconsciente o automática. Esto ocurre generalmente cuando el problema al que nos enfrentamos lo hemos resuelto con anterioridad un gran numero de veces.
 
 A continuación, se presenta un algoritmo simple para el proceso cotidiano de cambiar una llanta baja:
-1. Aflojar los birlos de la llanta.
-2. Levantar el carro con el gato.
-2. Quitar los birlos de la llanta.
-3. Quitar la llanta.
-4. Poner la rueda de refacción.
-5. Poner los birlos de la llanta.
-6. Bajar el carro aflojando el gato.
-7. Apretar los birlos de la llanta.
+
+1. **Aflojar los birlos de la llanta**.
+2. **Levantar el carro con el gato**.
+2. **Quitar los birlos de la llanta**.
+3. **Quitar la llanta**.
+4. **Poner la rueda de refacción**.
+5. **Poner los birlos de la llanta**.
+6. **Bajar el carro aflojando el gato**.
+7. **Apretar los birlos de la llanta**.
 
 Las características que deben tener los algoritmos son las siguientes:
-1. **Precisión:** Los pasos a seguir en el algoritmo se debe precisar claramente.
-2. **Determinismo:** El algoritmo, dado un conjunto de datos de entrada idéntico, siempre debe arrojar los mismo resultados.
-3. **Finitud:** El algoritmo, independientemente de la complejidad del mismo, siempre debe tener longitud finita.
 
-Los algoritmos tienen comúnmente 3 secciones o módulos principales.
+1. **Precisión:** *Los pasos a seguir en el algoritmo se debe precisar claramente*.
+2. **Determinismo:** *El algoritmo, dado un conjunto de datos de entrada idéntico, siempre debe arrojar los mismo resultados*.
+3. **Finitud:** *El algoritmo, independientemente de la complejidad del mismo, siempre debe tener longitud finita*.
+
+Los algoritmos tienen comúnmente 3 secciones o módulos principales:
+
 - **Datos de Entrada.**
 - **Procesamiento de los datos.**
 - **Impresión de resultados.**
@@ -147,7 +150,7 @@ Realmente muestra gráficamente los pasos o procesos a seguir para alcanzar la s
 La tabla y las imágenes que veremos a continuación se utilizaran, junto con una explicación de las mismas imágenes, satisfaciendo las recomendaciones de la **International Organization for Standarization** (**ISO**), y el **American National Standards Institute** (**ANSI**).
 
 | Representación del Símbolo | Explicación del Símbolo |
-|--------|--------|
+|:--------:|:--------:|
 |![Inicio o fin](/Imagenes/Circulo.svg)|Se utiliza para marcar el inicio y el fin del diagrama de flujo|
 |![Lectura](/Imagenes/RectanguloLadeado.svg)|Se utiliza para introducir los datos de entrada, expresando lectura|
 |![Proceso](/Imagenes/Rectangulo.svg)|Representa un proceso. En su interior se colocan asignaciones, operaciones aritméticas, cambios de valor de variables|
@@ -164,14 +167,15 @@ En la imagen siguiente se presentan los pasos que se deben seguir en la construc
 
 ## Reglas para la construcción de diagramas de flujo
 Los símbolos presentados, colocados en los lugares adecuados, permiten crear una estructura gráfica flexible que ilustra los pasos a seguir para alcanzar un resultado especifico. El diagrama de flujo facilita entonces la escritura del programa en C. Lo que veremos a continuación se presenta el conjunto de reglas para la construcción de diagramas de flujo:
-1. Todo diagrama de flujo debe tener un inicio y un fin.
-2. Las lineas utilizadas para indicar la dirección del flujo del diagrama deben ser rectas: ya sea verticales u horizontales.
-3. Todas las lineas utilizadas para indicar la dirección del flujo del diagrama deben estar conectadas. La conexión puede ser un símbolo que exprese lectura, proceso, decisión, impresión, conexión o fin del diagrama.
-4. El diagrama de flujo debe construirse de arriba hacia abajo y de izquierda a derecha.
-5. La notación utilizada en el diagrama de flujo debe ser independiente del lenguaje de programación. La solución presentada se puede escribir posteriormente en diferentes lenguajes de programación.
-6. Al realizar una tarea compleja, es conveniente poner comentarios que expresen o ayuden a entender lo que hayamos hecho.
-7. Si las construcción del diagrama de flujo requiriera mas de una hoja, debemos utilizar los conectores adecuados y enumerar las paginas correspondientes.
-8. No puede llegar mas de una linea a un símbolo determinado.
+
+1. **Todo diagrama de flujo debe tener un inicio y un fin.**
+2. **Las lineas utilizadas para indicar la dirección del flujo del diagrama deben ser rectas: ya sea verticales u horizontales**.
+3. **Todas las lineas utilizadas para indicar la dirección del flujo del diagrama deben estar conectadas. La conexión puede ser un símbolo que exprese lectura, proceso, decisión, impresión, conexión o fin del diagrama**.
+4. **El diagrama de flujo debe construirse de arriba hacia abajo y de izquierda a derecha**.
+5. **La notación utilizada en el diagrama de flujo debe ser independiente del lenguaje de programación. La solución presentada se puede escribir posteriormente en diferentes lenguajes de programación**.
+6. **Al realizar una tarea compleja, es conveniente poner comentarios que expresen o ayuden a entender lo que hayamos hecho**.
+7. **Si las construcción del diagrama de flujo requiriera mas de una hoja, debemos utilizar los conectores adecuados y enumerar las paginas correspondientes**.
+8. **No puede llegar mas de una linea a un símbolo determinado**.
 
 ## Desventajas de los diagramas de flujo
 Aun que me parecen muy interesantes como primer acercamiento a la programación ya que son fáciles de entender. De hecho se utilizan fuera de la programación como esquema para ilustrar el funcionamiento de algoritmos sencillos.
@@ -180,6 +184,7 @@ Sin embargo cuando el algoritmos se complica, el diagrama de flujo se convierte 
 
 #Pseudocodigo
 Las bases de la programación estructurada fueron enunciadas por **Niklaus Wirdth**. Segun este científico cualquier problema algorítmico podía resolverse con el uso de estos 3 tipos de instrucciones:
+
 1. **Secuenciales** Instrucciones que se ejecutan en orden normal. El flujo del programa  ejecuta la instrucción y pasa a ejecutar la siguiente.
 2. **Alternativas** Instrucciones en las que se evaluá una condición y dependiendo si el resultado es verdadero o no, el flujo del programa se dirigirá a una instrucción u otra.
 3. **Iterativas** Instrucciones que se repiten continuamente hasta que se cumple una determinada condición.
@@ -197,6 +202,7 @@ Debes enterder ademas de que existe un gran numero de tipos de pseudocodigos, es
 > El **pseudocodigo** son instrucciones escritas en un pseudolenguaje orientado a ser entendido por una personas no por un ordenador. Por ello en pseudocodigo  solo se pueden utilizar ciertas instrucciones.
 
 Entra las instrucciones que se pueden utilizar estan:
+
 - **De Entrada/Salida**. Para leer o escribir datos desde el programa hacia el usuario.
 - **De Proceso**. Operaciones que realiza el algoritmo (Suma, Resta, Multiplicación, División, cambio de valor, etc.)
 - **De Control de Flujo**. Instrucciones alternativas o iterativas (bucles y condiciones).
