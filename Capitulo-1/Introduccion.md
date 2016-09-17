@@ -14,6 +14,7 @@ Por lo que la programación es una disciplina que requiere simultáneamente del 
 La creatividad necesaria para programar no se diferencia demasiado de aquella utilizada para producir textos. Sin embargo, lo que hace a la programación algo especial es que requiere emplear un conjunto de conocimientos técnicos asociados a la manipulación de las computadoras. Esto agrega un grado notable de rigurosidad a esta actividad, ya que no podemos programar sin tener en cuenta este aspecto. Por otra parte, al poseer una naturaleza ligada a la resolución de diferente problemas del mundo real, se requiere de una capacidad de abstracción que permita operar sin que los conocimientos técnicos limiten al programador a resolver adecuadamente dichos problemas.
 
 Por ejemplo actividades que requieren:
+
 > Un uso intensivo de la creatividad son relacionadas comúnmente con el Arte.
 
 > Conocimientos técnicos profundos son los relacionados con la medicina, electrónica y química.
@@ -103,7 +104,7 @@ Seguramente te veras que ademas de Prolog existe otro lenguaje llamado lisp,  es
 
 Cada uno de los lenguajes mencionados dejo un sin numero de descendientes y prácticamente todos  los lenguajes modernos se vinculan, de una forma u otra, con algunos de estos.
 
-Otro gran avance de esta época fue el desarrollo de lo que dio en llamarse programación estructurada, que sucedió dentro del paradigma imperativo, y consistió fundamentalmente en aumentar la abstracción de los lenguajes, eliminando primitivas de control des-estructurado, o sea, que permitan moverse libremente por el código, sin tener en cuenta su estructura lógica.
+Otro gran avance de esta época fue algo llamado **programación estructurada**, que sucedió dentro del paradigma imperativo, y consistió fundamentalmente en aumentar la abstracción de los lenguajes, eliminando primitivas de control des-estructurado, o sea, que permitan moverse libremente por el código, sin tener en cuenta su estructura lógica.
 
 # Algoritmo
 Las personas efectuamos cotidianamente series de pasos, procedimientos o acciones que nos permiten alcanzar algún resultado o resolver algún problema. Estas series de pasos, procedimientos o acciones, comenzamos a aplicarlas desde que empieza el día, cuando, por ejemplo, decidimos bañarnos. Posteriormente, cuando tenemos que ingerir alimentos también seguimos una serie de pasos que nos permiten alcanzar un resultado especifico. Y la historia se repite un innumerable numero de veces. En realidad todo el tiempo estamos aplicando algoritmos para resolver problemas.
