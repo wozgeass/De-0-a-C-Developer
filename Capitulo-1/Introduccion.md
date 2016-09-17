@@ -195,11 +195,11 @@ Pero el propio **Niklaus Wirdth** diseño el lenguaje pascal como el primer leng
 
 Por lo que en aquella época se aconsejo para el diseño de algoritmos estructurados el uso de un lenguaje especial llamado pseudocodigo, que ademas de puede traducir a cualquier idioma y lenguaje de programación.
 
-EL pseudocodigo ademas permite el diseño modular de programas y el diseño descendente gracias a esta posibilidad.
+EL **pseudocodigo** ademas permite el diseño modular de programas y el diseño descendente gracias a esta posibilidad.
 
 Debes enterder ademas de que existe un gran numero de tipos de pseudocodigos, es decir no hay un pseudocodigo 100% estándar. Pero si hay una gran cantidad de detalles aceptados por todos los que escriben pseudocodigos. Aquie te comentare el pseudocodigo aceptado en español. Hay que tomar en cuenta que muchas de las ideas de pseudocodigo se basa en pascal, por lo que la traducción es casi directa.
 
-> El **pseudocodigo** son instrucciones escritas en un pseudolenguaje orientado a ser entendido por una personas no por un ordenador. Por ello en pseudocodigo  solo se pueden utilizar ciertas instrucciones.
+> El **pseudocodigo** son instrucciones escritas en un pseudo-lenguaje orientado a ser entendido por una personas no por un ordenador. Por ello en pseudocodigo  solo se pueden utilizar ciertas instrucciones.
 
 Entra las instrucciones que se pueden utilizar estan:
 
