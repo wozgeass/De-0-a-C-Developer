@@ -2,6 +2,7 @@
 Lo mas común con lo que nos topamos cada vez que aprendemos un lenguaje de programación, es querer iniciar inmediatamente a programar sin antes haber pensado un poco sobre el problema a resolver. Y al toparnos con problemas de diseño solemos recurrir a rehacer las cosas. Esta parte es para tener cuando menos una buena idea desde donde iniciar y como hacerlo.
 ## Introducción
 Se entiende por metodología el conjunto de reglas y pasos estrictos que se siguen para desarrollar una aplicación. Hay diversas metodologías, independientemente de la vayamos a utilizar suele haber una serie de pasos comunes en todas ellas (*Relacionado con el ciclo de vida de la aplicación*):
+
 1. Análisis.
 2. Diseño.
 3. Codificación.
@@ -11,11 +12,13 @@ Se entiende por metodología el conjunto de reglas y pasos estrictos que se sigu
 
 ### Análisis
 Al programar aplicaciones siempre se debe realizar un cierto análisis.
+
 > El análisis estudia los requisitos que ha de cumplir la aplicación.
 
 El resultado de esto es una hoja de especificaciones en la que aparecen los requerimientos de la aplicación. Esta hoja es redactada por el o la analista o la persona responsable del proceso de creación de la aplicación.
 
 En la creación de algoritmos sencillos, el análisis consistiría unicamente en:
+
 - **Determinar las entradas**. Es decir, los datos que posee el algoritmo cuando comienza su ejecución. Esos datos permiten obtener el resultado.
 - **Determinar las salidas**. Es decir, los datos que obtiene el algoritmo como resultado. Lo que que algoritmo devuelve al usuario.
 - **Determinar el proceso**. Se estudia cual es el proceso que hay que realizar.
@@ -46,6 +49,7 @@ Las pruebas o verificaciones de un programa es el proceso de ejecución del prog
 
 La *depuración* es el proceso de encontrar los errores del programa y corregir o eliminar dichos errores.
 Cuando se ejecuta un programa, comúnmente se suele producir 3 tipos de errores:
+
 1. **Errores de Compilación**. Se producen normalmente por uso incorrecto de las reglas del lenguaje de programación y suelen ser *errores de sintaxis*. Si existe un *error de sintaxis*, la computadora no puede comprender la instrucción, no se obtendrá el programa objeto y el compilador imprimirá una lista de todos los errores encontrados durante la compilación.
 2. **Errores de Ejecución**. Estos se producen por instrucciones que la computadora puede comprender pero no ejecutar. Ejemplos típicos son: división por cero y raíces cuadradas de números negativos. En estos casos se detiene una ejecución del programa y se imprime un mensaje de error.
 3. **Errores lógicos**. Como su nombre lo dice se producen en la lógica del programa y la fuente del error suele ser el diseño del algoritmo. Estos errores son los mas difíciles de detectar, ya que el programa puede funcionar y no producir errores de compilación ni de ejecución, y solo puede advertirse el error por la obtención de resultados incorrectos. En este caso se debe volver a la fase de diseño del algoritmo, modificar el algoritmo, cambiar el programa fuente, compilar y ejecutar una vez mas. De ahí que la importancia de las primeras fases es crucial.
@@ -72,6 +76,7 @@ La descomposición de un programa en módulos independientes mas simples se cono
 
 ##Programación estructurada
 Según los términos de la *programación modular*, *programación descendente* y *programación estructurada* se introdujeron en la segunda mitad de la década de los sesenta y a menudo se utilizan son sinónimos aunque no significan lo mismo. La programación modular y descendente ya se ha examinado anteriormente. La programación estructurada significa escribir un programa de acuerdo a las siguientes reglas:
+
 - El programa tiene un diseño modular.
 - Los módulos son diseñados de modo descendente.
 - Cada modulo se codifica utilizando las tres estructuras de control básicas: secuencia, selección y repetición.
@@ -79,6 +84,7 @@ Según los términos de la *programación modular*, *programación descendente* 
 El termino **programación estructurada** se refiere a un conjunto de técnicas que han ido evolucionando desde los primeros trabajo de *Edgar Dijkstra*. Estas técnicas aumentan considerablemente la productividad del programa reduciendo en elevado grado el tiempo requerido para escribir, verificar, depurar y mantener los programas. Ademas utiliza un numero limitado de estructuras de control que minimizan la complejidad de los programas y, por consiguiente, reducen los errores; hace los programas mas fáciles de escribir, verificar, leer y mantener. Los programas deben estar dotados de una estructura.
 
 La programación estructurada es el conjunto de técnicas que incorporan:
+
 - Recurso abstractos.
 - Diseño descendente.
 - Estructuras básicas.
@@ -89,6 +95,7 @@ Descomponer un programa en términos de recursos abstractos -Según Dijkstra- co
 
 ### Diseño descendente (top-down)
 Es el proceso mediante el cual un problema se descompone en una serie de niveles o pasos sucesivos de refinamiento. La metodología descendiente consiste en efectuar una relación entre las sucesivas etapas de estructuración de modo que se relacionen unas con otras mediante entradas y salidas de información. Es decir, se descompone el problema en etapas o estructuras jerárquicas, de forma que se puede considerar cada estructura desde dos puntos de vista:
+
 - ¿Qué hace?
 - ¿Cómo lo hace?
 
@@ -96,14 +103,16 @@ Es el proceso mediante el cual un problema se descompone en una serie de niveles
 Las *estructuras de control* de un lenguaje de programación son métodos de especificar el orden en que las instrucciones de un algoritmo se ejecutaran. El orden de ejecución de las sentencias o instrucciones determina el *flujo de control*. Estas estructuras de control son, por consiguiente fundamentales en los lenguajes de programación y en los diseños de algoritmos, especialmente los pseudocodigos.
 
 Las tres estructuras de control básicos son:
+
 - **Secuencia.**
 - **Selección.**
 - **Repetición.**
 
 # Creación de Algoritmos
 Independientemente de la notación que utilicemos para escribir algoritmos, estos contiene instrucciones a realizar por el ordenador. Lógicamente la escritura de estas instrucciones  siguen unas normas muy estrictas. Las instrucciones pueden ser de estos tipos:
-- **Primitivas**: Son acciones sobre los datos del programa, estas pueden ser:
+
+- **Primitivas**-> Son acciones sobre los datos del programa, estas pueden ser:
 	- Asignación.
 	- Instrucciones de Entrada/Salida.
-- **Declaraciones**: Sirven para advertir y documentar el uso de variables y subprogramas en el algoritmo.
-- **Control**: Sirven para alterar el orden de ejecución del algoritmo. En general el algoritmo se ejecuta secuencialmente. Gracias a estas instrucciones el flujo del algoritmo depende de ciertas condiciones que nosotros mismos indicamos.
+- **Declaraciones**-> Sirven para advertir y documentar el uso de variables y subprogramas en el algoritmo.
+- **Control**-> Sirven para alterar el orden de ejecución del algoritmo. En general el algoritmo se ejecuta secuencialmente. Gracias a estas instrucciones el flujo del algoritmo depende de ciertas condiciones que nosotros mismos indicamos.
