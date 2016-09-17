@@ -16,11 +16,11 @@ Del mismo modo existen un gran numero de librerías para programar en C respetan
 - **uClibc**
 - **musl libc**
 
-Para poder crear y desarrollar utilizando linux deberemos conocer un concepto que ingles se le conoce como **Toolchain** pero lo que es en realidad es un conjunto de herramientas que permiten crear, linkear ejecutables y librerias.
+Para poder crear y desarrollar utilizando linux deberemos conocer un concepto que ingles se le conoce como **Toolchain** pero lo que es en realidad es un conjunto de herramientas que permiten crear, linkear ejecutables y librerías.
 
-Si tu interes despues es el de ir mas lejos y desarrollar aplicaciones nativas para sistemas operativos embebidos quizas sea importante que entiendas lo siguiente:
+Si tu interés después es el de ir mas lejos y desarrollar aplicaciones nativas para sistemas operativos embebidos quizás sea importante que entiendas lo siguiente:
 
-Existen basicamente 2 tipos de Toolchain:
+Existen básicamente 2 tipos de Toolchain:
 
 - **Nativo**
 - **Cruzado**
