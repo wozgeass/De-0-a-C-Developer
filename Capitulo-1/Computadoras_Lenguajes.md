@@ -76,16 +76,16 @@ El programa se almacena en memoria externa de modo permanente pero cuando se ha 
 Es un circuito integrado que controla y realiza las funciones y operaciones con los datos. En realidad el microprocesador representa la Unidad Central de Procesamiento o procesador, y popularmente cuando se habla de una computadora el termino que se utiliza en las características técnicas para referirse a la Unidad Central de Procesamiento. Las velocidades de un microprocesador se mide en **MegaHercios** (*MHz*) aunque es mas común que encuentres los **GigaHercios** (*Ghz*).
 
 | **INTEL** | **AMD** |
-| -- | -- |
+| :--: | :--: |
 | **Pentium Celeron** *(Sexta Generación)* | **APU Athlon** *(Cuarta Generación)* |
-| **Core i3** *(Sexta Generación)* | **APU ATHLON** *(Cuarta Generación)* |
-| **Core i5** *(Sexta Generación)* | **APU A10** *(Séptima Generación)* |
-| **Core i7** *(Sexta Generación)* | **FX** | 
+| **Core i3** *(Séptima Generación)* | **APU ATHLON** *(Cuarta Generación)* |
+| **Core i5** *(Séptima Generación)* | **APU A10** *(Séptima Generación)* |
+| **Core i7** *(Séptima Generación)* | **FX** | 
 
 Y para servidores y maquinas de alta disponibilidad:
 
 | **INTEL** | **AMD** |
-| -- | -- |
+| :--: | :--: |
 | **XEON** | **OPTERON** |
 
 Pero se hoy en día los móviles han superado con creces a las PC y laptops que ahora hablamos de otros proveedores para estos dispositivos:
