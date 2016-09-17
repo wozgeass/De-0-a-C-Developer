@@ -4,8 +4,8 @@ Un libro para aprender a programar iniciando con el lenguaje **C** usando sistem
 
 Este lenguaje es usado en proyectos como:
 
-|Proyectos|
-|---------|
+|**Proyectos**|
+|:--:|
 | **Gnome** |
 | **Linux Kernel** |
 | **Gran numero de proyectos de GNU** |
