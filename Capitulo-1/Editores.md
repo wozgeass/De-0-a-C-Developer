@@ -15,7 +15,9 @@ Como ya dijimos **Vim**  o ("**VI IMproved**") es un clon de **Vi**, es decir, u
 Está disponible para muchas plataformas y tiene muchas características añadidas en comparación con **Vi**. Es compatible con casi todos los comandos de **Vi** - excepto con los errores.
 
 Esta disponible en un gran numero de sistemas operativos entre ellos:
+
 Linux:
+
 - *Linux*:
 
 ![Linux](/Imagenes/logos/Linux.svg)
@@ -28,7 +30,7 @@ Linux:
 
 ![Windows](/Imagenes/logos/Windows.svg)
 
-- Si eres usuario de sistemas *BSD* debo informarte que también lo vas a poder usar:
+- Si eres usuario de sistemas *BSD* también lo vas a poder usar:
 ![FreeBSD](/Imagenes/logos/Freebsd.svg)
 
 El copyright está en las manos del autor principal y mantenedor, **Bram Moolenaar** <bram@vim.org>.  **Vim** es un "**programa-de-caridad**" "**charity-ware**"), es decir que se sugiere que hagas una donación y en especial a una asociacion de huérfanos en Uganda.
@@ -94,18 +96,23 @@ Como siempre mi recomendación sera la siguiente:
 - De otro modo te recomiendo instalar **vim** con el gestor de paquetes de la distribución que estés ocupando:
 
     Para **Fedora** deberás usar el siguiente comando:
+    
     > **dnf install vim**
     
     Para **Ubuntu** o **Debian** deberás usar el siguiente comando:
+    
     > **apt install vim** ó **apt-get install vim**
     
     **Nota:** Hay un reporte sobre que no funcionan algunos plugins de vim para ello tendremos que instalar los siguiente:
+    
     > **apt install vim-nox** ó **apt-get install vim-nox**
     
     Para **ArchLinux** deberás usar el comando siguiente:
+    
     > **pacman -S vim**
 
     Para **Suse** deberás usar el comando siguiente:
+    
     > **zypper install vim**
 
 Una vez realizado todo esto seguiremos viendo como funciona **vim**. 
