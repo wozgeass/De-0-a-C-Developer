@@ -9,7 +9,7 @@ Usualmente en muchos libros encontraras información sobre como poder compilar t
 - **Gcc**
 - **Icc**
 
-Del mismo modo existen un gran numero de librerias para programar en C respetando lógicamente el estandar OSI de C.
+Del mismo modo existen un gran numero de librerías para programar en C respetando lógicamente el estándar OSI de C.
 
 - **glibc**
 - **eglibc**
