@@ -1,3 +1,19 @@
+---
+ebook:
+  epub:
+    pretty-print: true
+  theme: hopscotch.css
+  title: El kernel linux en el tiempo
+  cover: /cover.jpg
+  authors: Adrian
+
+  pdf:
+    paper-size: letter
+    default-font-size: 12
+    header-template: "<span style='color: #6e6e6e;'> _SECTION_ </span>"
+    footer-template: "<span> <center> _PAGENUM_ </center> </span>"
+---
+
 # Summary
 
 * [Léeme](README.md)

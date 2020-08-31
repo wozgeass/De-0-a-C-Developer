@@ -1,4 +1,5 @@
-# Buenas practicas de programación.
+# Buenas practicas de programación
+
 Como lo mencione al principio, básicamente en este libro nos centraremos en aprender el lenguaje **C** para saber el **como** contribuir o empezar algún proyecto *open source*, aun hoy día existen tantas aplicaciones que usan el lenguaje **C** y es casi vital que sepamos programar en este lenguaje.
 
 Pero muchos de nosotros no le tomamos la importancia necesaria a este tema hasta que intentamos contribuir en algún proyecto ya existente, obviamente al no llevar buenas practicas tendemos a ser regañados y en muchos casos humillados.
@@ -37,7 +38,8 @@ Un programador sin este sentido puede reconocer el desastre cometido en un modul
 
 Y este es uno de los motivos por el que los proyectos *open source* han logrado sobrevivir tantos años, inclusive al pasar a través de encargados diferentes. *Linux* y muchos proyectos son muestra de ello.
 
-## Nombres consistentes.
+## Nombres consistentes
+
 Por lo general al momento de codificar algo, asignamos nombre a archivos, carpetas y archivos. Usamos nombres constantemente. Por ello, debemos hacerlo bien. 
 
 Es fácil afirmar que los nombres deben revelar nuestras intenciones. Lo que quiero recalcar es la importancia de hacerlo. Elegir nombres correctos lleva tiempo pero también ahorra trabajo. Por ello, prestar atención a los nombres es vital.
@@ -104,6 +106,7 @@ Cuando todo lo demás falle, pueden usarse prefijos como ultimo recurso.
 Imaginemos que tenemos la variable `primerNombre`, `ultimoNombre`, `calle`, `numeroCasa`, `ciudad`, `estado`, `codigoPostal`. Si las combinamos, es evidente que forman una dirección. Pero si las variable `state` se usa de forma aislada en una función, ¿Sabríamos que es parte de una dirección? lógicamente podemos añadir contextos por medio de prefijos: `agregarPrimNombre`,  `agregarUltimNombre`, `agregarEstado`. Al menos si los lectores del código comprenderán que estas variables forman parte de una estructura mayor.
 
 ## Manejo de las funciones
+
 Desde los inicios de la programación, creábamos sistemas a partir de rutinas y subrutinas. Después de la época de **Fortran** y **PL/1**, se creaban sistemas con programas, subprogramas y funciones. En la actualidad, solo las funciones han sobrevivido. Son la primera linea organizativa en cualquier programa en varios proyectos *Open Source*.
 
 > La primera regla de las funciones es que deben ser de tamaño reducido. 
@@ -138,7 +141,8 @@ int suEN()
 
 La elección de nombres descriptivos clarifica el diseño de las funciones y le permite mejorarlos. Se coherente con los nombres. Eso quiere decir que uses las mismas frases, sustantivos y verbos en los nombres de función que elijas para las funciones.
 
-## Argumento de funciones.
+## Argumento de funciones
+
 El numero ideal de argumentos para una función es lo menor que se pueda. Ya que los argumentos son todavía mas complicados desde un punto de vista de pruebas. Imagina la dificultad de crear todos los casos de prueba para garantizar el funcionamiento de las distintas combinaciones de argumentos. Si no hay argumentos, todo sera mas sencillo. Si hay uno, no es demasiado difícil. Con 2 o 3 argumentos el problema es mas complejo. Con mas de 3 argumentos, probar cada combinación de valores adecuados es todo un reto. Los argumentos de salida son mas difíciles de entender que los de entrada. Ya que al leer una función, estamos acostumbrados al concepto de información añadida a la función a través de argumentos y extraída a través de un valor de retorno. No esperamos que la información se devuelva a través de los argumentos. Por ellos, los argumentos de salida suelen obligarnos a realizar una comprobación doble.
 
 Hay 2 motivos principales para pasar un solo argumentos a una función.

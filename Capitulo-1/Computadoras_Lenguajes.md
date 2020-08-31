@@ -1,9 +1,11 @@
 # Relación computadoras y los lenguajes de programación.
+
 Esta parte es un sugerencia de varias personas donde piden que se explique un poco mas a detalle como se relacionan las computadoras con los lenguajes de programación, lo quise omitir pensando que eso lo podrían buscar en algunos otros libros pero creo que no estaría completo el libro sin esta parte.
 Las computadoras hoy en día se han convertido en una herramienta esencial en muchas áreas: industria, gobierno, ciencia, educación, etc. El papel de los programas y aplicaciones juega un papel crucial; sin una lista de instrucciones a seguir, la computadora es virtualmente inútil. Y los lenguajes de programación nos permiten escribir esos programas y, por consiguiente, comunicarnos con las computadoras a través de ellos.
 Una computadora procesa los datos y los convierte en información significativa. Para conseguir esos resultados, un programador necesita conocimientos tanto de **hardware** como de software.
 
 ## Organización de una computadora.
+
 Desde la decada de los *40's* se crearon las primeras computadoras con nombres muy extravagantes como **Atanasoff-Berry**, **UNIVAC**, **ENIAC** o **EDVAC**.
 La aparición de **IBM** fue el punto de partida de la moderna computación, pasando de computadoras imposibles de pagar por cualquier personas a unas un poco mas accesibles. Del mismo modo el software se vio cambiado desde el inicio de una compañía llamada **Microsoft** que fue en gran medida una de las que propicio la creación del **Software Libre** y el **Open Source**.
 Aunque a primera vista puedan parecer sinónimos los **datos** e **información** existe una gran diferencia entre ellos.
@@ -20,6 +22,7 @@ Los programas modernos producen información en muchos formatos. Estos programas
 Una computadora necesita tanto del **hardware** como del **software** para poder ser usada real y prácticamente. El **hardware** de la computadora sin el software que le acompaña es como si tuviéramos un libro con paginas en blanco. La portada, contraportada y las paginas interiores constituyen el **hardware** del libro, pero el libro no es útil sin ningún texto, el **software**.
 
 ## Hardware
+
 Cuando un usuario interactuá con una computadora, proporciona una entrada; en respuesta, la computadora procesa la entrada devolviendo una salida valiosa al usuario. La entrada puede ser en formato de ordenes o instrucciones dadas, texto, números o imágenes. La salida puede ser el resultado: cálculos en *calc* de **libreoffice**, una oficio en *writer* o un auto moviéndose por la pantalla en un juego como **super tux**. Una computadora necesita disponer de un conjunto de funcionalidades y proporcionar la capacidad de:
 
 1. Aceptar la entrada.
@@ -28,7 +31,8 @@ Cuando un usuario interactuá con una computadora, proporciona una entrada; en r
 4. Ejecutar operaciones aritméticas o lógicas bien sobre datos de entrada o bien sobre datos de salida.
 5. Monitorizar, controlar y dirigir las operaciones globales y de secuencia del sistema.
 
-![Vim](/Imagenes/Arquitectura/CPU.svg)
+![Vim](../Imagenes/Arquitectura/CPU.svg)
+
 ### Procesador
 El procesador es el dispositivo interior de la computadora que ejecuta las instrucciones del programa o aplicación. También se le suele conocer como **UCP** *(Unidad Central de Procesamiento)*. En el mercado existen muchas marcas disponibles para computadoras de escritorio o laptop como:
 
@@ -43,6 +47,7 @@ O para móviles como:
 4. **NVIDIA**
 5. **SAMSUNG**
 6. **QUALCOMM**
+7. **Mediatek**
 
 Ya casi no existe persona que no tenga un smart phone y ha sido este el caso en el que mucha gente ahora prefiere desarrollar apps que aprender el bajo nivel, sin embargo ignoran que lo que sustenta esas apps son el sistema operativo.
 
@@ -50,7 +55,8 @@ El procesador solo puede ejecutar instrucciones simples, tales como cálculos ar
 
 La **UCP**, dirige y controla el proceso de información realizado por la computadora, procesando y manipulando la información almacenada en la memoria. Se puede recuperar esa información de la memoria. También puede almacenar los resultados de estos procesos en memoria para su uso posterior.
 
-![Procesamiento](/Imagenes/Arquitectura/Procesamiento.svg)
+![Procesamiento](../Imagenes/Arquitectura/Procesamiento.svg)
+
 La **UCP** consta de dos componentes:
 
 1. **Unidad de Control** (*UC*)
@@ -73,28 +79,31 @@ Otra parte muy importante de una computadora es la memoria. La unidad de memoria
 El programa se almacena en memoria externa de modo permanente pero cuando se ha de ejecutar debe transferirse a la memoria central. Este proceso se realiza mediante ordenes al sistema operativo que realiza las operaciones correspondientes.
 
 ### Microprocesador
+
 Es un circuito integrado que controla y realiza las funciones y operaciones con los datos. En realidad el microprocesador representa la Unidad Central de Procesamiento o procesador, y popularmente cuando se habla de una computadora el termino que se utiliza en las características técnicas para referirse a la Unidad Central de Procesamiento. Las velocidades de un microprocesador se mide en **MegaHercios** (*MHz*) aunque es mas común que encuentres los **GigaHercios** (*Ghz*).
 
-| **INTEL** | **AMD** |
-| :--: | :--: |
-| **Pentium Celeron** *(Sexta Generación)* | **APU Athlon** *(Cuarta Generación)* |
-| **Core i3** *(Séptima Generación)* | **APU ATHLON** *(Cuarta Generación)* |
-| **Core i5** *(Séptima Generación)* | **APU A10** *(Séptima Generación)* |
-| **Core i7** *(Séptima Generación)* | **FX** | 
+| **INTEL**                                 | **AMD**                                  |
+|:-----------------------------------------:|:----------------------------------------:|
+| **Pentium Celeron** *(Decima Generación)* | **Serie A** *(Septima Generación)*       |
+| **Core i3** *(Decima Generación)*         | **Serie Ryzen 3**(Segunda Generación)*   |
+| **Core i5** *(Decima Generación)*         | **Serie Ryzen 5** *(Séptima Generación)* |
+| **Core i7** *(Decima Generación)*         | **Serie Ryzen 7**                        |
+| **Core i9** *(Decima Generación)*         | **Serie Ryzen 9**                        |
 
 Y para servidores y maquinas de alta disponibilidad:
 
-| **INTEL** | **AMD** |
-| :--: | :--: |
-| **XEON** | **OPTERON** |
+| **INTEL** | **AMD**     |
+|:---------:|:-----------:|
+| **XEON**  | **EPYC** |
 
 Pero se hoy en día los móviles han superado con creces a las PC y laptops que ahora hablamos de otros proveedores para estos dispositivos:
 
-| **ARM** | **INTEL** | **AMD** | **NVIDIA** | **Samsung** | **Qualcomm** |
-| -- | -- | -- | -- | -- | -- |
-| **Cortex-A73** | **Core M** | **Polaris** | **Tegra X1** | **Exynos 8** | **Snapdragon 820** |
+| **ARM**        | **INTEL**  | **AMD**     | **NVIDIA**   | **Samsung**     | **Qualcomm**        | Mediatek       |
+|----------------|------------|-------------|--------------|-----------------|---------------------|----------------|
+| **Cortex-A78** | **Core M** | **Polaris** | **Jetson TX2** | **Exynos 990** | **Snapdragon 865+** | Dimensity 1000 |
 
 ### Dispositivos de Entrada/Salida
+
 Para que el usuario pueda introducir la entrada, la computadora tiene varios **dispositivos de entrada** como parte de su **hardware**, como:
 
 1. **Teclado**
@@ -104,7 +113,7 @@ Para que el usuario pueda introducir la entrada, la computadora tiene varios **d
 6. **Unidad Blue Ray**
 7. **Web Cam**
 8. **Joystick**
-9. **Lectores de Codigo de Barras**
+9. **Lectores de Código de Barras**
 10. **Micrófonos**
 
 La salida al usuario se le proporciona mediante **dispositivos de salida**, tales como

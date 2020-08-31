@@ -22,8 +22,8 @@ Si tu interés después es el de ir mas lejos y desarrollar aplicaciones nativas
 
 Existen básicamente 2 tipos de Toolchain:
 
-- **Nativo**
-- **Cruzado**
+1. **Nativo**
+2. **Cruzado**
 
 Por un lado el **nativo** sera el que mas utilizaremos en este libro ya que permite crear nuestros ejecutables para la misma arquitectura en la que nos encontramos. El cruzado aplicaría en el momento en el que nosotros deseáramos crear ejecutables para otra arquitectura diferente a en la que estamos.
 
@@ -32,7 +32,6 @@ Por un lado el **nativo** sera el que mas utilizaremos en este libro ya que perm
 Un toolchain estandar consiste en 3 componentes :
 
 - **Binutils**: Son un conjunto de aplicaciones 
-
 
 Considerado el compilador mas usado en el ambiente Linux incluso actualmente **UNIX**. **GCC** significa **GNU compiler collection** (**Colección de compiladores de GNU**).
 La *Free Software Fundation* lo distribuye con una licencia **GPL**. A principio de los **90s**, el recién terminado sistema operativo **GNU** fue finalmente completado con la inclusión del **Kernel Linux**.

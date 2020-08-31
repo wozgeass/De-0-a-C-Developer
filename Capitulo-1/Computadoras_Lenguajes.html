@@ -1,0 +1,567 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Computadoras_Lenguajes.md</title>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+
+<style>
+/* https://github.com/microsoft/vscode/blob/master/extensions/markdown-language-features/media/markdown.css */
+/*---------------------------------------------------------------------------------------------
+ *  Copyright (c) Microsoft Corporation. All rights reserved.
+ *  Licensed under the MIT License. See License.txt in the project root for license information.
+ *--------------------------------------------------------------------------------------------*/
+
+body {
+	font-family: var(--vscode-markdown-font-family, -apple-system, BlinkMacSystemFont, "Segoe WPC", "Segoe UI", "Ubuntu", "Droid Sans", sans-serif);
+	font-size: var(--vscode-markdown-font-size, 14px);
+	padding: 0 26px;
+	line-height: var(--vscode-markdown-line-height, 22px);
+	word-wrap: break-word;
+}
+
+#code-csp-warning {
+	position: fixed;
+	top: 0;
+	right: 0;
+	color: white;
+	margin: 16px;
+	text-align: center;
+	font-size: 12px;
+	font-family: sans-serif;
+	background-color:#444444;
+	cursor: pointer;
+	padding: 6px;
+	box-shadow: 1px 1px 1px rgba(0,0,0,.25);
+}
+
+#code-csp-warning:hover {
+	text-decoration: none;
+	background-color:#007acc;
+	box-shadow: 2px 2px 2px rgba(0,0,0,.25);
+}
+
+body.scrollBeyondLastLine {
+	margin-bottom: calc(100vh - 22px);
+}
+
+body.showEditorSelection .code-line {
+	position: relative;
+}
+
+body.showEditorSelection .code-active-line:before,
+body.showEditorSelection .code-line:hover:before {
+	content: "";
+	display: block;
+	position: absolute;
+	top: 0;
+	left: -12px;
+	height: 100%;
+}
+
+body.showEditorSelection li.code-active-line:before,
+body.showEditorSelection li.code-line:hover:before {
+	left: -30px;
+}
+
+.vscode-light.showEditorSelection .code-active-line:before {
+	border-left: 3px solid rgba(0, 0, 0, 0.15);
+}
+
+.vscode-light.showEditorSelection .code-line:hover:before {
+	border-left: 3px solid rgba(0, 0, 0, 0.40);
+}
+
+.vscode-light.showEditorSelection .code-line .code-line:hover:before {
+	border-left: none;
+}
+
+.vscode-dark.showEditorSelection .code-active-line:before {
+	border-left: 3px solid rgba(255, 255, 255, 0.4);
+}
+
+.vscode-dark.showEditorSelection .code-line:hover:before {
+	border-left: 3px solid rgba(255, 255, 255, 0.60);
+}
+
+.vscode-dark.showEditorSelection .code-line .code-line:hover:before {
+	border-left: none;
+}
+
+.vscode-high-contrast.showEditorSelection .code-active-line:before {
+	border-left: 3px solid rgba(255, 160, 0, 0.7);
+}
+
+.vscode-high-contrast.showEditorSelection .code-line:hover:before {
+	border-left: 3px solid rgba(255, 160, 0, 1);
+}
+
+.vscode-high-contrast.showEditorSelection .code-line .code-line:hover:before {
+	border-left: none;
+}
+
+img {
+	max-width: 100%;
+	max-height: 100%;
+}
+
+a {
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+a:focus,
+input:focus,
+select:focus,
+textarea:focus {
+	outline: 1px solid -webkit-focus-ring-color;
+	outline-offset: -1px;
+}
+
+hr {
+	border: 0;
+	height: 2px;
+	border-bottom: 2px solid;
+}
+
+h1 {
+	padding-bottom: 0.3em;
+	line-height: 1.2;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+}
+
+h1, h2, h3 {
+	font-weight: normal;
+}
+
+table {
+	border-collapse: collapse;
+}
+
+table > thead > tr > th {
+	text-align: left;
+	border-bottom: 1px solid;
+}
+
+table > thead > tr > th,
+table > thead > tr > td,
+table > tbody > tr > th,
+table > tbody > tr > td {
+	padding: 5px 10px;
+}
+
+table > tbody > tr + tr > td {
+	border-top: 1px solid;
+}
+
+blockquote {
+	margin: 0 7px 0 5px;
+	padding: 0 16px 0 10px;
+	border-left-width: 5px;
+	border-left-style: solid;
+}
+
+code {
+	font-family: Menlo, Monaco, Consolas, "Droid Sans Mono", "Courier New", monospace, "Droid Sans Fallback";
+	font-size: 1em;
+	line-height: 1.357em;
+}
+
+body.wordWrap pre {
+	white-space: pre-wrap;
+}
+
+pre:not(.hljs),
+pre.hljs code > div {
+	padding: 16px;
+	border-radius: 3px;
+	overflow: auto;
+}
+
+pre code {
+	color: var(--vscode-editor-foreground);
+	tab-size: 4;
+}
+
+/** Theming */
+
+.vscode-light pre {
+	background-color: rgba(220, 220, 220, 0.4);
+}
+
+.vscode-dark pre {
+	background-color: rgba(10, 10, 10, 0.4);
+}
+
+.vscode-high-contrast pre {
+	background-color: rgb(0, 0, 0);
+}
+
+.vscode-high-contrast h1 {
+	border-color: rgb(0, 0, 0);
+}
+
+.vscode-light table > thead > tr > th {
+	border-color: rgba(0, 0, 0, 0.69);
+}
+
+.vscode-dark table > thead > tr > th {
+	border-color: rgba(255, 255, 255, 0.69);
+}
+
+.vscode-light h1,
+.vscode-light hr,
+.vscode-light table > tbody > tr + tr > td {
+	border-color: rgba(0, 0, 0, 0.18);
+}
+
+.vscode-dark h1,
+.vscode-dark hr,
+.vscode-dark table > tbody > tr + tr > td {
+	border-color: rgba(255, 255, 255, 0.18);
+}
+
+</style>
+<link rel="stylesheet" href="file:///home/wozgeass/.config/Code%20-%20OSS/User/mi.css" type="text/css">
+<style>
+/*
+
+Railscasts-like style (c) Visoft, Inc. (Damien White)
+
+*/
+
+.hljs {
+  display: block;
+  overflow-x: auto;
+  padding: 0.5em;
+  background: #232323;
+  color: #e6e1dc;
+}
+
+.hljs-comment,
+.hljs-quote {
+  color: #bc9458;
+  font-style: italic;
+}
+
+.hljs-keyword,
+.hljs-selector-tag {
+  color: #c26230;
+}
+
+.hljs-string,
+.hljs-number,
+.hljs-regexp,
+.hljs-variable,
+.hljs-template-variable {
+  color: #a5c261;
+}
+
+.hljs-subst {
+  color: #519f50;
+}
+
+.hljs-tag,
+.hljs-name {
+  color: #e8bf6a;
+}
+
+.hljs-type {
+  color: #da4939;
+}
+
+
+.hljs-symbol,
+.hljs-bullet,
+.hljs-built_in,
+.hljs-builtin-name,
+.hljs-attr,
+.hljs-link {
+  color: #6d9cbe;
+}
+
+.hljs-params {
+  color: #d0d0ff;
+}
+
+.hljs-attribute {
+  color: #cda869;
+}
+
+.hljs-meta {
+  color: #9b859d;
+}
+
+.hljs-title,
+.hljs-section {
+  color: #ffc66d;
+}
+
+.hljs-addition {
+  background-color: #144212;
+  color: #e6e1dc;
+  display: inline-block;
+  width: 100%;
+}
+
+.hljs-deletion {
+  background-color: #600;
+  color: #e6e1dc;
+  display: inline-block;
+  width: 100%;
+}
+
+.hljs-selector-class {
+  color: #9b703f;
+}
+
+.hljs-selector-id {
+  color: #8b98ab;
+}
+
+.hljs-emphasis {
+  font-style: italic;
+}
+
+.hljs-strong {
+  font-weight: bold;
+}
+
+.hljs-link {
+  text-decoration: underline;
+}
+
+</style>
+
+<style>
+/*
+ * Markdown PDF CSS
+ */
+
+ body {
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe WPC", "Segoe UI", "Ubuntu", "Droid Sans", sans-serif, "Meiryo";
+	padding: 0 12px;
+}
+
+pre {
+	background-color: #f8f8f8;
+	border: 1px solid #cccccc;
+	border-radius: 3px;
+	overflow-x: auto;
+	white-space: pre-wrap;
+	overflow-wrap: break-word;
+}
+
+pre:not(.hljs) {
+	padding: 23px;
+	line-height: 19px;
+}
+
+blockquote {
+	background: rgba(127, 127, 127, 0.1);
+	border-color: rgba(0, 122, 204, 0.5);
+}
+
+.emoji {
+	height: 1.4em;
+}
+
+code {
+	font-size: 14px;
+	line-height: 19px;
+}
+
+/* for inline code */
+:not(pre):not(.hljs) > code {
+	color: #C9AE75; /* Change the old color so it seems less like an error */
+	font-size: inherit;
+}
+
+/* Page Break : use <div class="page"/> to insert page break
+-------------------------------------------------------- */
+.page {
+	page-break-after: always;
+}
+
+</style>
+<link rel="stylesheet" href="file:///home/wozgeass/.config/Code%20-%20OSS/User/mi.css" type="text/css">
+<script src="https://unpkg.com/mermaid/dist/mermaid.min.js"></script>
+</head>
+<body>
+  <script>
+    mermaid.initialize({
+      startOnLoad: true,
+      theme: document.body.classList.contains('vscode-dark') || document.body.classList.contains('vscode-high-contrast')
+          ? 'dark'
+          : 'default'
+    });
+  </script>
+<h1 id="relaci%C3%B3n-computadoras-y-los-lenguajes-de-programaci%C3%B3n">Relación computadoras y los lenguajes de programación.</h1>
+<p>Esta parte es un sugerencia de varias personas donde piden que se explique un poco mas a detalle como se relacionan las computadoras con los lenguajes de programación, lo quise omitir pensando que eso lo podrían buscar en algunos otros libros pero creo que no estaría completo el libro sin esta parte.<br>
+Las computadoras hoy en día se han convertido en una herramienta esencial en muchas áreas: industria, gobierno, ciencia, educación, etc. El papel de los programas y aplicaciones juega un papel crucial; sin una lista de instrucciones a seguir, la computadora es virtualmente inútil. Y los lenguajes de programación nos permiten escribir esos programas y, por consiguiente, comunicarnos con las computadoras a través de ellos.<br>
+Una computadora procesa los datos y los convierte en información significativa. Para conseguir esos resultados, un programador necesita conocimientos tanto de <strong>hardware</strong> como de software.</p>
+<h2 id="organizaci%C3%B3n-de-una-computadora">Organización de una computadora.</h2>
+<p>Desde la decada de los <em>40's</em> se crearon las primeras computadoras con nombres muy extravagantes como <strong>Atanasoff-Berry</strong>, <strong>UNIVAC</strong>, <strong>ENIAC</strong> o <strong>EDVAC</strong>.<br>
+La aparición de <strong>IBM</strong> fue el punto de partida de la moderna computación, pasando de computadoras imposibles de pagar por cualquier personas a unas un poco mas accesibles. Del mismo modo el software se vio cambiado desde el inicio de una compañía llamada <strong>Microsoft</strong> que fue en gran medida una de las que propicio la creación del <strong>Software Libre</strong> y el <strong>Open Source</strong>.<br>
+Aunque a primera vista puedan parecer sinónimos los <strong>datos</strong> e <strong>información</strong> existe una gran diferencia entre ellos.</p>
+<blockquote>
+<p>Los <strong>datos</strong> consta de echos en bruto.</p>
+</blockquote>
+<blockquote>
+<p>La <strong>información</strong>, por otra parte, son datos procesados.</p>
+</blockquote>
+<p>La información tiene datos significativos; los datos en su forma original (en bruto) no lo son tanto. La computadora procesa esos datos y la información significativa es el resultado que se conoce muy comúnmente como <em>salida</em>.<br>
+Los datos, por si mismo no sirven de mucho y no son muy útiles para las personas que los manipulan y necesitan tomar decisiones con ellos.</p>
+<p>Los programas modernos producen información en muchos formatos. Estos programas reproducen música, se comunican con otras computadoras a través de la red y mas aun con los smart phones que en los últimos años se han convertido en algo casi obligatorio. Todos estos envían una salida a la pantalla, impresora, es decir los datos de entrada y los datos de salida pueden ser, realmente, cualquier cosa, texto, imágenes, música.</p>
+<p>Una computadora necesita tanto del <strong>hardware</strong> como del <strong>software</strong> para poder ser usada real y prácticamente. El <strong>hardware</strong> de la computadora sin el software que le acompaña es como si tuviéramos un libro con paginas en blanco. La portada, contraportada y las paginas interiores constituyen el <strong>hardware</strong> del libro, pero el libro no es útil sin ningún texto, el <strong>software</strong>.</p>
+<h2 id="hardware">Hardware</h2>
+<p>Cuando un usuario interactuá con una computadora, proporciona una entrada; en respuesta, la computadora procesa la entrada devolviendo una salida valiosa al usuario. La entrada puede ser en formato de ordenes o instrucciones dadas, texto, números o imágenes. La salida puede ser el resultado: cálculos en <em>calc</em> de <strong>libreoffice</strong>, una oficio en <em>writer</em> o un auto moviéndose por la pantalla en un juego como <strong>super tux</strong>. Una computadora necesita disponer de un conjunto de funcionalidades y proporcionar la capacidad de:</p>
+<ol>
+<li>Aceptar la entrada.</li>
+<li>Visualiza o presentar la salida.</li>
+<li>Almacenar la información en un formato consistente.</li>
+<li>Ejecutar operaciones aritméticas o lógicas bien sobre datos de entrada o bien sobre datos de salida.</li>
+<li>Monitorizar, controlar y dirigir las operaciones globales y de secuencia del sistema.</li>
+</ol>
+<p><img src="/Imagenes/Arquitectura/CPU.svg" alt="Vim"></p>
+<h3 id="procesador">Procesador</h3>
+<p>El procesador es el dispositivo interior de la computadora que ejecuta las instrucciones del programa o aplicación. También se le suele conocer como <strong>UCP</strong> <em>(Unidad Central de Procesamiento)</em>. En el mercado existen muchas marcas disponibles para computadoras de escritorio o laptop como:</p>
+<ol>
+<li><strong>INTEL</strong></li>
+<li><strong>AMD</strong></li>
+</ol>
+<p>O para móviles como:</p>
+<ol>
+<li><strong>ARM</strong></li>
+<li><strong>INTEL</strong></li>
+<li><strong>AMD</strong></li>
+<li><strong>NVIDIA</strong></li>
+<li><strong>SAMSUNG</strong></li>
+<li><strong>QUALCOMM</strong></li>
+</ol>
+<p>Ya casi no existe persona que no tenga un smart phone y ha sido este el caso en el que mucha gente ahora prefiere desarrollar apps que aprender el bajo nivel, sin embargo ignoran que lo que sustenta esas apps son el sistema operativo.</p>
+<p>El procesador solo puede ejecutar instrucciones simples, tales como cálculos aritméticos sencillos o desplazamientos de numero por diferentes posiciones. Sin embargo, la velocidad a la cual se realizan estos cálculos debe ser muy grande y esta característica le permite ejecutar instrucciones que realizan cálculos complejos.</p>
+<p>La <strong>UCP</strong>, dirige y controla el proceso de información realizado por la computadora, procesando y manipulando la información almacenada en la memoria. Se puede recuperar esa información de la memoria. También puede almacenar los resultados de estos procesos en memoria para su uso posterior.</p>
+<p><img src="/Imagenes/Arquitectura/Procesamiento.svg" alt="Procesamiento"></p>
+<p>La <strong>UCP</strong> consta de dos componentes:</p>
+<ol>
+<li><strong>Unidad de Control</strong> (<em>UC</em>)</li>
+<li><strong>Unidad Aritmético Lógica</strong> (<em>UAL</em>)</li>
+</ol>
+<blockquote>
+<p>La <strong>Unidad de Control (UC)</strong> coordina las actividades de la computadora, determinando que operaciones se deben realizar y en que orden; así mismo controla y sincroniza todo el proceso de la computadora.</p>
+</blockquote>
+<blockquote>
+<p>La <strong>Unidad Aritmético Lógica (UAL)</strong> Realiza operaciones aritméticas y lógicas, tales como suma, resta, multiplicación, división y comparaciones. Los datos en la memoria central se pueden leer o escribir por la <strong>UCP</strong>.</p>
+</blockquote>
+<h3 id="memoria">Memoria</h3>
+<p>Otra parte muy importante de una computadora es la memoria. La unidad de memoria almacena la información en un formato lógicamente consistente. Normalmente, tanto las instrucciones como los datos se almacenan en memoria, con frecuencia en áreas distintas y separadas. La memoria se divide en dos categorías:</p>
+<ol>
+<li><strong>Memoria Principal</strong></li>
+<li><strong>Memoria Auxiliar</strong></li>
+</ol>
+<blockquote>
+<p>La <strong>memoria Principal</strong> contiene el programa en ejecución y los resultados de los cálculos intermedios de la computadora. Se le suele conocer mas como <strong>Memoria Ram</strong>.<br>
+La <strong>Memoria Auxiliar</strong> o almacenamiento secundario consta de dispositivos utilizados para almacenar los datos en modo permanente. Cuando se necesitan los datos se pueden recuperar de estos dispositivos.</p>
+</blockquote>
+<p>El programa se almacena en memoria externa de modo permanente pero cuando se ha de ejecutar debe transferirse a la memoria central. Este proceso se realiza mediante ordenes al sistema operativo que realiza las operaciones correspondientes.</p>
+<h3 id="microprocesador">Microprocesador</h3>
+<p>Es un circuito integrado que controla y realiza las funciones y operaciones con los datos. En realidad el microprocesador representa la Unidad Central de Procesamiento o procesador, y popularmente cuando se habla de una computadora el termino que se utiliza en las características técnicas para referirse a la Unidad Central de Procesamiento. Las velocidades de un microprocesador se mide en <strong>MegaHercios</strong> (<em>MHz</em>) aunque es mas común que encuentres los <strong>GigaHercios</strong> (<em>Ghz</em>).</p>
+<table>
+<thead>
+<tr>
+<th style="text-align:center"><strong>INTEL</strong></th>
+<th style="text-align:center"><strong>AMD</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center"><strong>Pentium Celeron</strong> <em>(Decima Generación)</em></td>
+<td style="text-align:center"><strong>APU Athlon</strong> <em>(Cuarta Generación)</em></td>
+</tr>
+<tr>
+<td style="text-align:center"><strong>Core i3</strong> <em>(Decima Generación)</em></td>
+<td style="text-align:center"><strong>APU ATHLON</strong> <em>(Cuarta Generación)</em></td>
+</tr>
+<tr>
+<td style="text-align:center"><strong>Core i5</strong> <em>(Decima Generación)</em></td>
+<td style="text-align:center"><strong>APU A10</strong> <em>(Séptima Generación)</em></td>
+</tr>
+<tr>
+<td style="text-align:center"><strong>Core i7</strong> <em>(Decima Generación)</em></td>
+<td style="text-align:center"><strong>FX</strong></td>
+</tr>
+<tr>
+<td style="text-align:center"><strong>Core i9</strong></td>
+<td style="text-align:center">asdf</td>
+</tr>
+</tbody>
+</table>
+<p>Y para servidores y maquinas de alta disponibilidad:</p>
+<table>
+<thead>
+<tr>
+<th style="text-align:center"><strong>INTEL</strong></th>
+<th style="text-align:center"><strong>AMD</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center"><strong>XEON</strong></td>
+<td style="text-align:center"><strong>OPTERON</strong></td>
+</tr>
+</tbody>
+</table>
+<p>Pero se hoy en día los móviles han superado con creces a las PC y laptops que ahora hablamos de otros proveedores para estos dispositivos:</p>
+<table>
+<thead>
+<tr>
+<th><strong>ARM</strong></th>
+<th><strong>INTEL</strong></th>
+<th><strong>AMD</strong></th>
+<th><strong>NVIDIA</strong></th>
+<th><strong>Samsung</strong></th>
+<th><strong>Qualcomm</strong></th>
+<th>Mediatek</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Cortex-A73</strong></td>
+<td><strong>Core M</strong></td>
+<td><strong>Polaris</strong></td>
+<td><strong>Tegra X1</strong></td>
+<td><strong>Exynos 1000</strong></td>
+<td><strong>Snapdragon 865+</strong></td>
+<td>asdf</td>
+</tr>
+</tbody>
+</table>
+<h3 id="dispositivos-de-entradasalida">Dispositivos de Entrada/Salida</h3>
+<p>Para que el usuario pueda introducir la entrada, la computadora tiene varios <strong>dispositivos de entrada</strong> como parte de su <strong>hardware</strong>, como:</p>
+<ol>
+<li><strong>Teclado</strong></li>
+<li><strong>Ratón</strong>  (<em>Mouse</em>)</li>
+<li><strong>Scanner</strong></li>
+<li><strong>Unidad DVD</strong></li>
+<li><strong>Unidad Blue Ray</strong></li>
+<li><strong>Web Cam</strong></li>
+<li><strong>Joystick</strong></li>
+<li><strong>Lectores de Codigo de Barras</strong></li>
+<li><strong>Micrófonos</strong></li>
+</ol>
+<p>La salida al usuario se le proporciona mediante <strong>dispositivos de salida</strong>, tales como</p>
+<ol>
+<li><strong>Monitor</strong></li>
+<li><strong>Cañón</strong></li>
+<li><strong>Impresora</strong></li>
+<li><strong>Bocinas</strong></li>
+</ol>
+<p>Los dispositivos de <strong>entrada/Salida</strong> permiten la comunicación entre la computadora y el usuario. Los Dispositivos de entrada como su nombre lo indica, sirven para introducir datos en la computadora para su procesamiento. Los datos se leen de los dispositivos de entrada y se almacenan en la memoria principal. Convirtiendo la información de entrada en impulsos eléctricos que son procesados por el sistema operativo.</p>
+<p><img src="/Imagenes/Arquitectura/IO.svg" alt="Procesamiento"></p>
+
+</body>
+</html>
