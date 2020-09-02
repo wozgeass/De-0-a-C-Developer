@@ -36,3 +36,17 @@ Un toolchain estandar consiste en 3 componentes :
 Considerado el compilador mas usado en el ambiente Linux incluso actualmente **UNIX**. **GCC** significa **GNU compiler collection** (**Colección de compiladores de GNU**).
 La *Free Software Fundation* lo distribuye con una licencia **GPL**. A principio de los **90s**, el recién terminado sistema operativo **GNU** fue finalmente completado con la inclusión del **Kernel Linux**.
 
+# Libreria C de GNU
+
+![Glibc](../Imagenes/Glibc.svg)
+
+Como ya lo habiamos mencionado antes 
+
+| Fecha      | Version    |
+|------------|------------|
+| 2020-08-05 | glibc 2.32 |
+| 2020-02-01 | glibc 2.31 |
+| 2019-08-01 | glibc 2.30 |
+| 2019-01-31 | glibc 2.29 |
+
+La version **glibc 2.33** se espera para Febrero del 2021.
