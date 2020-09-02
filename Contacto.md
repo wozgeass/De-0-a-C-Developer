@@ -1,6 +1,6 @@
 #Información de Contacto
 
-![yo](Imagenes/yo.png)
+<div align="center"><img src="Imagenes/yo.png"></div>
 
 Mi nombre es **Adrián** me he enfocado en el  estudio los aspectos técnicos de varias tecnologías linux, soy amante de la ideología *Open Source*, sin embargo también disfruto los aspectos técnicos de muchas otras tecnologías, incluso componentes internos del sistema operativo *Windows*, *MacOSX*, *FreeBSD* ó **Android**.
 
