@@ -125,7 +125,7 @@ La salida al usuario se le proporciona mediante **dispositivos de salida**, tale
 
 Los dispositivos de **entrada/Salida** permiten la comunicación entre la computadora y el usuario. Los Dispositivos de entrada como su nombre lo indica, sirven para introducir datos en la computadora para su procesamiento. Los datos se leen de los dispositivos de entrada y se almacenan en la memoria principal. Convirtiendo la información de entrada en impulsos eléctricos que son procesados por el sistema operativo.
 
-![Procesamiento](/Imagenes/Arquitectura/IO.svg)
+![Procesamiento](../Imagenes/Arquitectura/IO.svg)
 
 
 
