@@ -35,12 +35,3 @@ Utilizaremos **Linux** como sistema operativo base para correr todos los código
 
 Por últimos nos centraremos en el uso de la librería C de Gnu que lleva por nombre **glibc**:
 
-
-| Fecha      | Version    |
-|------------|------------|
-| 2020-08-05 | glibc 2.32 |
-| 2020-02-01 | glibc 2.31 |
-| 2019-08-01 | glibc 2.30 |
-| 2019-01-31 | glibc 2.29 |
-
-La version **glibc 2.33** se espera para Febrero del 2021.
