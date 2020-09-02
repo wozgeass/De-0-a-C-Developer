@@ -1,17 +1,15 @@
 ---
 ebook:
+  title: De 0 a C developer
+  cover: cover.jpg
+  theme: newsprint.css
+  authors: Adrián Pérez Domínguez
+  comments: Un libro para aprender a programar iniciando con el lenguaje **C** usando sistemas **Linux** y ser capaces de contribuir o crear proyectos **Open Source** que ocupen este lenguaje.
+  tags: C, Programacion, Linux, Open Source, GNU
+
+
   epub:
     pretty-print: true
-  theme: hopscotch.css
-  title: El kernel linux en el tiempo
-  cover: /cover.jpg
-  authors: Adrian
-
-  pdf:
-    paper-size: letter
-    default-font-size: 12
-    header-template: "<span style='color: #6e6e6e;'> _SECTION_ </span>"
-    footer-template: "<span> <center> _PAGENUM_ </center> </span>"
 ---
 
 # Summary
@@ -19,9 +17,9 @@ ebook:
 * [Léeme](README.md)
 * [Licencia](distribucion.md)
 * [Apéndice](apendice.md)
-* [Historial de Cambios.](historial_de_cambios.md)
+* [Historial de Cambios](historial_de_cambios.md)
 * [Información Personal](Contacto.md)
-* [Iniciando con la Programación.](Capitulo-1/README.md)
+* [Iniciando con la Programación](Capitulo-1/README.md)
    * [Introducción](Capitulo-1/Introduccion.md)
    * [Metodología de la programación](Capitulo-1/Metodologias.md)
    * [Editores](Capitulo-1/Editores.md)
